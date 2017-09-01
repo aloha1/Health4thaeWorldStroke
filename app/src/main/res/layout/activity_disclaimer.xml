@@ -1,0 +1,60 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite"
+        tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.InfoActivity">
+        <!--List of videos-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_linear_layout"
+            android:orientation="vertical">
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/buttons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_below="@id/text_linear_layout"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:textSize="5pt"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="clickedTerms"
+                android:text="Terms and Conditions" />
+
+            <Button
+                android:layout_width="0dip"
+                android:textSize="5pt"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="clickedPrivacy"
+                android:text="Privacy Policy" />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/red"
+            android:textColor="@color/colorWhite"
+            android:text="@string/accept"
+            android:textSize="24dp"
+            android:layout_below="@id/buttons"
+            android:clickable="true"
+            android:onClick="clickedAccept"/>
+    </RelativeLayout>
+</ScrollView>

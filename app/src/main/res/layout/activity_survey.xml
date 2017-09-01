@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.survey">
+    <android.support.v7.widget.Toolbar
+        style="@style/ToolBarStyle"
+        android:id="@+id/learn_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        tools:layout_editor_absoluteX="8dp" >
+
+        <TextView
+            style="@style/ToolBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/survey"
+            android:textSize="25sp"
+            android:textColor="@color/colorWhite"
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_title" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="70dp"
+        android:layout_marginTop="1dp"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_height="match_parent"
+            app:srcCompat="@mipmap/book_icon"
+            android:id="@+id/imageView1"
+            android:background="#F1F1F1"
+            android:scaleType="fitCenter"
+            android:layout_width="70dp"
+            android:padding="5dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:textAlignment="textStart"
+            android:textColor="#727272"
+            android:layout_height="match_parent"
+            android:id="@+id/button1"
+            android:clickable="true"
+            android:textSize="17sp"
+            android:onClick="onClick"
+            android:textAllCaps="false"
+            android:background="#FAFAFA"
+            android:drawableEnd="@mipmap/pink_arrow"
+            android:drawableRight="@mipmap/pink_arrow"
+            android:layout_gravity="start"
+            android:padding="5dp"
+            android:text="@string/survey1" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="70dp"
+        android:weightSum="1"
+        android:layout_marginTop="1dp">
+
+        <ImageView
+            android:layout_height="match_parent"
+            app:srcCompat="@mipmap/book_icon"
+            android:id="@+id/imageView2"
+            android:background="#F1F1F1"
+            android:scaleType="fitCenter"
+            android:layout_width="70dp"
+            android:padding="5dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:textAlignment="textStart"
+            android:textColor="#727272"
+            android:layout_height="match_parent"
+            android:id="@+id/button2"
+            android:clickable="true"
+            android:textSize="17sp"
+            android:onClick="onClick"
+            android:textAllCaps="false"
+            android:background="#FAFAFA"
+            android:drawableEnd="@mipmap/pink_arrow"
+            android:drawableRight="@mipmap/pink_arrow"
+            android:layout_gravity="start"
+            android:padding="5dp"
+            android:text="@string/survey2" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="70dp"
+        android:weightSum="1"
+        android:layout_marginTop="1dp">
+
+        <ImageView
+            android:layout_height="match_parent"
+            app:srcCompat="@mipmap/book_icon"
+            android:id="@+id/imageView3"
+            android:background="#F1F1F1"
+            android:scaleType="fitCenter"
+            android:layout_width="70dp"
+            android:padding="5dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:textAlignment="textStart"
+            android:textColor="#727272"
+            android:layout_height="match_parent"
+            android:id="@+id/button3"
+            android:clickable="true"
+            android:textSize="17sp"
+            android:onClick="onClick"
+            android:textAllCaps="false"
+            android:background="#FAFAFA"
+            android:drawableEnd="@mipmap/pink_arrow"
+            android:drawableRight="@mipmap/pink_arrow"
+            android:layout_gravity="start"
+            android:padding="5dp"
+            android:text="@string/survey3" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="70dp"
+        android:weightSum="1"
+        android:layout_marginTop="1dp">
+
+        <ImageView
+            android:layout_height="match_parent"
+            app:srcCompat="@mipmap/book_icon"
+            android:id="@+id/imageView4"
+            android:background="#F1F1F1"
+            android:scaleType="fitCenter"
+            android:layout_width="70dp"
+            android:padding="5dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:textAlignment="textStart"
+            android:textColor="#727272"
+            android:layout_height="match_parent"
+            android:id="@+id/button4"
+            android:clickable="true"
+            android:textSize="17sp"
+            android:onClick="onClick"
+            android:textAllCaps="false"
+            android:background="#FAFAFA"
+            android:drawableEnd="@mipmap/pink_arrow"
+            android:drawableRight="@mipmap/pink_arrow"
+            android:layout_gravity="start"
+            android:padding="5dp"
+            android:text="@string/survey4" />
+    </LinearLayout>
+
+</LinearLayout>

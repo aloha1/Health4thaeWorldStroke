@@ -1,0 +1,280 @@
+<resources>
+    <string name="app_name">Health 4 The World Stroke</string>
+    <string name="lauch_text1">\"The best preparation for tomorrow is doing your best today.\"</string>
+    <string name="author1">-H.jackson Brown, Jr</string>
+    <string name="launch_text2">\"Believe you can and you\'re halfway there.\"</string>
+    <string name="author2">-Theodore Roosevelt</string>
+    <string name="launch_text3">\"Nothing is impossible, the word itself says \'I\'m possible\'!\"</string>
+    <string name="author3">-Audrey Hepburn</string>
+    <string name="launch_text4">\"Only I can change my life.No one can do it for me.\"</string>
+    <string name="author4">-Carol Burnett</string>
+    <string name="launch_text5">\"Always do your best. What you plant now will harvest later.\"</string>
+    <string name="author5">-Og Mandino</string>
+    <string name="launch_text6">\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\"</string>
+    <string name="author6">-Helen Keller</string>
+    <string name="home">MAISON</string>
+    <string name="general_info">Informations générales</string>
+    <string name="mobile_intro">Introduction à l’application mobile</string>
+    <string name="para_1">HEALTH4THEWORLD STROKE HOPE APP est un outil éducatif et gratuit dont le but est de diffuser la connaissance sur les facteurs de risque d’accident vasculaire cérébral (AVC), sa prévention secondaire, éducation sur la récupération de la mobilité et les exercices qui suivent l’accident, de même que les stratégies pour le renforcement de l’élocution. Cette application a été créée par Health4TheWorld, un organisme sans le but lucratif, inspiré par les besoins non satisfaits dans le monde entier. En utilisant l’innovation et la technologie contemporaine, cet organisme veut atteindre son objectif - la lutte contre les inégalités en matière de santé, pour redonner le sourire perdu aux personnes du monde entier. Pour plus d’informations nous vous prions de consulter notre site health4theworld.org.</string>
+    <string name="para_2">With an estimated incidence of 16.9 million and a prevalence of 33 million according to the World Health Organization, stroke is a dominant diseased entity in the category of cardiovascular diseases, and is a leading cause of serious long-term disability. The global burden of stroke falls disproportionately on low and middle-income countries, prompting us to improve global health educational outreach. We hope that this stroke educational app will be helpful.</string>
+    <string name="app_features">Cette application possède plusieurs fonctions, et nous espérons qu’elles vous seront utiles!</string>
+    <string name="app_features_1">• Contenu Educatif sur l’AVC – offre les informations sur les causes et les facteurs de risque de l’AVC avec les recommandations de l’Association Américaine de l’AVC, American Heart Association (AHA), les articles basés sur la recherche scientifique et d’autres sources du secteur médical. Il est bon de se rappeler que ces conseils sont du caractère général et qu’on ne les doit considérer comme recommandations pour un traitement clinique. Le patient et les professionnels de santé formés doivent en discuter ensemble pour créer une prévention individuelle et personnalisée contre l’AVC.</string>
+    <string name="app_features_2">• Animation Vidéo et Conseils sur Exercices pour rétablissement après un accident vasculaire – Les instructions pour exercices et rétablissement après un ACV ont été conçues par les experts en Médicine Physique et Rétablissement à Stanford, de l’Université de Californie, San Francisco et de l’Université de Californie du Sud. Les exercices présentés sont de la nature générale et leur but est de servir comme un guide éducatif et pas comme un conseil médical. Ces exercices doivent être faits avec un ergothérapeute et/ou un physiothérapeute professionnel, qui puissent aider et donner les directions à suivre concernant une technique juste et qui puissent concevoir un régime duquel un patient avec AVC peut tirer le maximum. Un soignant doit être toujours disponible à offrir une aide. Les exercices se répartissent en trois classes: renforcement, stretching et mobilité fonctionnelle. Veuillez aviser vos patients de toute technique correcte, du rythme et du régime de ces exercices.</string>
+    <string name="app_features_3">• Rappels pour les Médicaments et les Rendez-vous: Le respect du plan des Médicaments et des Rendez-vous est un problème majeur, et cet outil puisse vous aider!  Veuillez définir des rappels pour vos patients, si possible.</string>
+    <string name="app_features_4">• Stratégies de l’Elocution après AVC: la communication de base peut être plus facile avec une touche de la production de voix. Le but de cette fonction est de traduire ces phrases en langues différentes de sorte que les professionnels de santé et les patients dans les parties éloignées du monde et privés d’accès aux soins, puissent en profiter. </string>
+    <string name="thanks_caps">MERCI</string>
+    <string name="dream_team">La création de cette application n’aurait pas été possible sans le travail et l’engagement de notre équipe de rêve!</string>
+    <string name="founders">Fondeurs</string>
+    <string name="founders_name">Dr. Bhavya Rehani, Dr. Bill Dillon &amp; Dr. Ankur Bharija</string>
+    <string name="developer_ofapp">Ingénieurs logiciels et développeurs de l’application</string>
+    <string name="Rachel_Grau">Rachel Grau</string>
+    <string name="Varun_Raj">Varun Raj</string>
+    <string name="Animations">Animations</string>
+    <string name="Animator_name">by Ernesto Aguilar</string>
+    <string name="Illustrations">Illustrations</string>
+    <string name="illustrations_by">by Julie Kim, Bhavya Rehani, Ankur Bharija</string>
+    <string name="Content_Editing">Révision du Contenu</string>
+    <string name="Content_Editing_by">by Dr. Lilly Zhang, Isaiah Brown and Dr Bhavya Rehani</string>
+    <string name="Movies">Vidéos</string>
+    <string name="Movies_by">by Jack McGill</string>
+    <string name="advisory_board_of_app">Comité médical consultatif pour l’Application</string>
+    <string name="advisory_board_of_app_1">Dr. Marc Fisher: Dr Fisher est actuellement rédacteur en chef de Médecin en chef d’Attaque cérébral dans le Département de l’AVC à BIDMC, Harvard Medical School. Il est un médecin de réputation dont les œuvres publiés comptent plus de 260 articles évalués et 13 livres (seul ou en collaboration avec d’autres auteurs).</string>
+    <string name="advisory_board_of_app_2">Dr. Jeffrey Teraoke: Dr. Teraoke est le chef, de PM&amp;R (Médecin Physique et Rétablissement) au Centre Médical Palo Alto VA. Il est le directeur de PM&amp;R Programme de Résidence et le Directeur du Polytraumatisme à VA Palo Alto Système de Santé.</string>
+    <string name="advisory_board_of_app_3">Dr. Erica A Pitsch, PT, MPT, DPT, NCS: Professeure Clinique adjointe de Sciences de Santé, UCSF. Dr. Pitsch est spécialisée en physiothérapie neurologique. Elle utilise des différents stratégies et approches, concentrés sur la promotion des défis, fonctions, et rétablissement, qui soient optimaux pour les personnes atteintes d’une maladie neurologique.</string>
+    <string name="advisory_board_of_app_4">Loren Ward, PT, DPT est une physiothérapeute agréée qui a commencé sa carrière professionnelle en 2007, quand elle a obtenu un Doctorat à MGH Institute of Health Professions (Institut des Professions de santé) à Massachusetts. Elle a fait ses stages à Rehabilitation of Chicago, Spaulding Rehabilitation et National Rehabilitation Hospital et à présent elle travaille au Stanford Veteran’s Affairs System (Système des Affaires des anciens combattants). Loren favorise l’indépendance fonctionnelle et elle s’efforce d’aider ses patients à atteindre leur propre niveau de l’indépendance sans égard à leurs limitations.</string>
+    <string name="advisory_board_of_app_5">Rose Hamm, PT, DPT, CWS, FACCWS: Rose a reçu BSc en Thérapie Physique à l’Université de Caroline du Nord Chapel Hill, et MSc et le doctorat en Thérapie Physique à l’Université de Californie du Sud. Elle est actuellement Professeure Agréée Adjointe de la Physiothérapie Clinique à l’Université de Californie du Sud et elle fait sa pratique à l’Hôpital Keck à USC.</string>
+    <string name="help_me_speak">Aidez-moi parler</string>
+    <string name="video">Exercises</string>
+
+    <string name="Strengthening">Renforcement</string>
+    <string name="Legs">Jambes [1]</string>
+    <string name="Toe">Orteil [1A]</string>
+    <string name="Knee">Genou [1B]</string>
+    <string name="Hip">Hanche [1C]</string>
+    <string name="Arms">Bras [2]</string>
+    <string name="Elbow">Coude [2A]</string>
+    <string name="Shoulder">Epaule [2B]</string>
+    <string name="Coordination">Coordination [3]</string>
+    <string name="Leg_1">Contrôle de jambe 1 [3A]</string>
+    <string name="Leg_2">Contrôle de jambe 2 [3B]</string>
+    <string name="Stretching">Stretching</string>
+    <string name="Leg_Feet">Leg &amp; Feet [1]</string>
+    <string name="Adductores">(Adducteurs) Cuisse [1A]</string>
+    <string name="Adductors_text">Vous pouvez faire cet exercice dans une position allongée ou assis sur une chaise stable. Couché sur le dos, faites glisser la jambe atteinte vers le côté extérieur pour environ 30 secondes et puis retournez en position initiale. Répétez 3 fois.</string>
+    <string name="Hamstrings">Ischio-jambiers [2A]</string>
+    <string name="Hamstrings_text">Vous pouvez faire cet exercice dans une position allongée ou assis sur une chaise stable. Couché sur le dos les genoux pliés redressez votre genou vers le haut pour 30 secondes.</string>
+    <string name="Dorsiflexors">(Dorsiflexors) Chevilles [3A]</string>
+    <string name="Dorsiflexors_text">Vous pouvez faire cet exercice dans une position allongée ou assis sur une chaise stable. Poussez votre pied vers le haut en direction de torse et tenez 30 secondes. Répétez 3 fois.</string>
+    <string name="Arms_Hands">Bras et mains  [2]</string>
+    <string name="Hand_Stretch">Hand Stretch [1B]</string>
+    <string name="Hand_Stretch_text">Allongé sur le côté avec la partie atteinte tournée vers le haut et votre bras posé sur la hanche. Appuyez le coude sur la hanche en utilisant l’autre main pour bougez votre poignet vers le haut et loin du ventre. Retournez le poignet dans la position initiale sur la hanche. Appuyez le poignet d’une main et essayez d’ouvrir les doigts avec l’autre main. Avancez et essayez d’ouvrir votre main quand le poignet est dans la haute position loin de ventre. Tenez cette position de stretch pour 30 secondes. Répétez 3 fois.</string>
+    <string name="Shoulder_Stretches">Shoulder Stretches [2B}</string>
+    <string name="Shoulder_Stretches_text">Allongé sur le côté avec la main atteinte sur la hanche. Amenez l’épaule vers l’oreille et puis retournez-le doucement dans la position initiale.</string>
+    <string name="Arm_Stretch">Arm Stretch [3B]</string>
+    <string name="Arm_Stretch_text">Allongé sur le côté avec la partie atteinte tournée vers le haut et votre bras posé sur la hanche. Amenez doucement votre bras inférieur vers la jambe. Tenez 30 secondes. Répétez 3 fois. Assurez que vous teniez l’épaule et qu’on empêche de glisser en avant.</string>
+    <string name="Function_Mobility">Mobilité Fonctionnelle</string>
+    <string name="Bridge_hip">Rapprocher la hanche [1]</string>
+    <string name="Arm_trunk">Bras + tronc [2]</string>
+    <string name="Sittostand">Position assise à position débout [3]</string>
+    <string name="Mind_exercise">Exercices de l’Esprit</string>
+    <string name="learn">A apprendre</string>
+    <string name="topic">Les sujets:</string>
+    <string name="RISK_FACTOR">Facteurs de risque</string>
+    <string name="blood_pressure">Tension artérielle</string>
+    <string name="heart_rate">Rythme cardiaque</string>
+    <string name="smoking_">Tabagisme</string>
+    <string name="blood_sugar">Glucose</string>
+    <string name="exercise">Exercices</string>
+    <string name="Diet">Régime alimentaire</string>
+    <string name="shower">Douche Bain</string>
+    <string name="bladder">Vessie Intestin</string>
+    <string name="home_mod">Modification de la maison</string>
+    <string name="faq">FAQ</string>
+    <string name="resource">Ressource</string>
+
+    <string name="problem">PROBLEME</string>
+    <string name="what_to_do">QUOI FAIRE</string>
+
+         <string name="befast_line2">• Equilibre[Eq]:-Perte d’équilibre soudaine</string>
+        <string name="befast_line4">• YEUX[Y]:-Perte de vue soudaine, soit dans un ou dans les deux yeux</string>
+        <string name="befast_line6">• VISAGE[V]:-Visage pendant d’un côté quand on demande le patient de sourire</string>
+        <string name="befast_line8">• FAIBLESSE DES BRAS[B]:-L’incapacité de lever le bras et de le tenir dans cette position.</string>
+        <string name="befast_line10">• ELOCUTION[E]:-Difficultés d’élocution</string>
+        <string name="befast_line12">• TEMPS[T]:-Le temps juste à appeler l’ambulance</string>
+
+    <string name="blood_sugar_line1">Hyperglycémie  \u0020</string>
+    <string name="blood_sugar_line2"> peut augmenter le risque de l’AVC et des maladies cardiaques. Une analyse sanguine HbA1c vous démontre le taux moyen de glucose dans votre sang au cours des derniers 2 to 3 mois.</string>
+    <string name="blood_sugar_line3">L’American Heart Association recommande de maintenir le taux de glucose (Hgb1A1c) </string>
+    <string name="blood_sugar_line4">\u0020 au-dessous de 6%  </string>
+    <string name="blood_sugar_line5">\u0020 pour les patients en état de prédiabète, et </string>
+    <string name="blood_sugar_line6">\u0020 au-dessous de 7% </string>
+    <string name="blood_sugar_line7">\u0020 pour les patients avec diabète.</string>
+
+    <string name="blood_pressure_line1">Hypertension artérielle \u0020</string>
+    <string name="blood_pressure_line2"> peut provoquer l’AVC en détruisant les artères de notre organisme et provoquant plus facilement leurs ruptures et blocages.</string>
+    <string name="blood_pressure_line3">Dans l’ensemble de la population âgée de 60 ans et plus, le traitement de HA pour atteindre la tension  </string>
+    <string name="blood_pressure_line4">\u0020 moins de 150/90 mm Hg  </string>
+    <string name="blood_pressure_line5"> \u0020 réduit l’apparition de l’AVC.</string>
+
+    <string name="why_quit_smoking">Pourquoi arrêter DE FUMER?</string>
+    <string name="smoking_line1">Smoking is a well established risk factor for all forms of stroke. More you smoke, higher the chance of a stroke.</string>
+    <string name="what_should_u_do">QUE DEVRAIS TU FAIRE</string>
+    <string name="smoking_line2">Quit smoking today! you can do it! It is never too late.</string>
+
+    <string name="heart_rate_para1">Fibrillation Auriculaire</string>
+    <string name="heart_rate_para2">, ou le rythme cardiaque irrégulier, représente un facteur de risque de l’AVC.</string>
+    <string name="heart_rate_para3">Si vous soupçonnez d’avoir le rythme cardiaque irrégulier, contactez immédiatement votre médecin pour faire des analyses, y inclut probablement </string>
+    <string name="heart_rate_para4">\u0020 l’électrocardiogramme (ECG/EKG)</string>
+    <string name="heart_rate_para5">. Selon vos antécédents médicaux et votre risque d’avoir l’AVC en future, il est possible de choisir quelques médicaments, par ex.</string>
+    <string name="heart_rate_para6">\u0020 anticoagulants</string>
+    <string name="heart_rate_para7">, qui puissent aider à contrôler la Fibrillation Auriculaire.</string>
+
+    <string name="bath_para1">Les patients atteints par AVC ont souvent des difficultés de récupérer leur force physique et leurs aptitudes.</string>
+    <string name="bath_para2">• Douches > baignoires:  </string>
+    <string name="bath_para3">les douches sont généralement plus sûrs que les baignoires. Les barres d’appui peuvent faciliter le déplacement.</string>
+    <string name="bath_para4">• Tapis de bain: </string>
+    <string name="bath_para5">de douches sont généralement plus sûrs que les baignoires. Les barres d’appui peuvent faciliter le déplacement.</string>
+    <string name="bath_para6">• Toujours assurez qu’une personne soit à proximité pour vous aider. Gardez la sonnette ou un autre outil à la portée de la main, pour appeler au secours.</string>
+    <string name="bath_para7">• L’entraînement de l’équilibre peut aider les personnes ayant les problèmes d’équilibre.</string>
+
+    <string name="exercise_para1">Souvent, les patients atteints par AVC ont des difficultés de récupérer leur force physique et leurs aptitudes.</string>
+    <string name="exercise_para2">• Aider dans  </string>
+    <string name="exercise_para3">\u0020 limitations de démarche</string>
+    <string name="exercise_para4">: Les patients doivent exécuter des tâches de mobilité intensives et répétitives sous le contrôle d’un professionnel de la santé.</string>
+    <string name="exercise_para5">• Aider dans</string>
+    <string name="exercise_para6">\u0020 chutes éventuelles:</string>
+    <string name="exercise_para7">\u0020Les patients doivent faire des exercices de l’équilibre. </string>
+    <string name="exercise_para8">• To help during </string>
+    <string name="exercise_para9">\u0020 hospitalization and early recovery:</string>
+    <string name="exercise_para10">\u0020 AHA/ASA recommande la marche de faible intensité, activités de soin personnel, occasionnelle position assise ou debout, activités en position assise, exercices d’amplitude articulaire. Ces exercices doivent être exécutés selon la tolérance du patient en suivant l’instruction d’atteindre l’augmentation de 10 à 20 battements du cœur par minute, suivant aussi les recommandations de votre médecin.</string>
+    <string name="exercise_para11">• To help during</string>
+    <string name="exercise_para12">\u0020 inpatient and outpatient exercise therapy or rehabilitation</string>
+    <string name="exercise_para13"><![CDATA[: L’AHA/ASA recommande les activités suivantes : la marche 3–5 jours par semaine pendant 20–60 min/session (ou multiples sessions de 10–min); stretching 2–3 jours par semaine pendant 10–30 seconds; Tai chi, yoga, et d’autres activités récréatives pour compléter la marche et le stretching.]]></string>
+    <string name="exercise_para14">• To remain </string>
+    <string name="exercise_para15">\u0020 safe during physical exercise</string>
+    <string name="exercise_para16">: Utilisez des aides à la marche et exercez attentivement, uniquement sous supervision.</string>
+    <string name="exercise_para17">• Maintenir </string>
+    <string name="exercise_para18">\u0020 la santé physique</string>
+    <string name="exercise_para19">: Vérifiez auprès de votre médecin le choix des activités physiques personnalisées, des limitations d’une activité particulière, et les restrictions des certains exercices.</string>
+
+    <string name="diet_para1">Il est très important que les personnes atteintes de l’AVC adoptent un mode de vie sain. Les patients avec AVC résidant dans des établissements de soins de longue durée risquent la carence en vitamine D et calcium.</string>
+    <string name="diet_para2">Le mieux est de suivre un régime alimentaire favorisant les fruits et légumes divers, des grains entiers, produits laitiers en faible teneur en gras, la viande et les poissons sans peau, noix et légumes. Réduisez le gras saturé, gras trans, sodium, viande rouge, sucreries et les boissons sucrés.</string>
+    <string name="diet_para3">BROSSAGE</string>
+    <string name="diet_para4">Le brossage de dents régulier et après chaque repas, peut diminuer le risque de la Pneumopathie d’Inhalation.</string>
+
+    <string name="bladder_bowel_para_1">Certains patients peuvent avoir des problèmes avec l’incontinence urinaire ou la rétention.</string>
+    <string name="bladder_bowel_para_2">Evaluer la rétention urinaire par un scannage de vessie ou cathétérisme intermittent après le vidange, et registrer les volumes. Allez aux toilettes régulièrement pour entraîner la vessie un peu. Si on urine toutes les deux ou trois heures on peut éviter des accidents. De même, on doit prendre assez d’eau toute la journée pour rester hydraté et éviter la constipation.</string>
+    <string name="bladder_bowel_para_3">De même, on doit prendre assez d’eau toute la journée pour rester hydraté et éviter la constipation.</string>
+
+
+    <string name="riskFactor1_">FACTEURS DE RISQUE</string>
+    <string name="highbloodpressure">• Hypertension artérielle </string>
+    <string name="heart_disease">• Cardiopathie</string>
+    <string name="smoking">• Tabagisme</string>
+    <string name="Diabetes">• Diabète</string>
+    <string name="Prior_stroke">• AVC précédent</string>
+
+    <string name="faq_line1">QU’EST-CE QUE C’EST L’AVC?</string>
+    <string name="faq_line2">Un accident cérébrovasculaire se produit soit à cause du blocage de l’approvisionnement en sang d’une partie de cerveau particulière, soit à cause de la rupture d’un vaisseau sanguin alimentant le cerveau. Cela résulte en mort de cellules de la partie de cerveau atteinte par l’accident et, par conséquent, le patient subi une perte temporaire ou permanente des fonctions dans une ou plusieurs parties du corps.</string>
+    <string name="faq_line11">QU’EST-CE QUE VOUS DEVEZ FAIRE SI VOUS PENSEZ QU’UNE PERSONNE AIT L’AVC?</string>
+    <string name="faq_line12">Immédiatement cherchez de l’aide professionnelle (docteur ou infirmière).</string>
+    <string name="faq_line13">POURQUOI REAGIR SI VITE?</string>
+    <string name="faq_line14">Le traitement médical rapide diminue le risque de l’invalidité ou de la mort. </string>
+
+    <string name="resource_line1">2014 Evidence–Based Guideline for the Management of High Blood Pressure in Adults. 2014 JAMA. http://jamanetwork.com/journals/jama/fullarticle/1791497 (Accessed 2016–11–22).</string>
+    <string name="resource_line2">American Heart Association. Know your health numbers. http://www.heart.org/HEARTORG/Conditions/More/Diabetes/PreventionTreatofDiabetes/Know-Your-HealthNumbers_UCM_313882_Article.jsp#.WC0TE_k (Accessed Nov 16, 2016).</string>
+    <string name="resource_line3">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/744</string>
+    <string name="resource_line4">Billinger SA et al. Physical activity and exercise recommendations for stroke survivors: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2014;45:2532–2553.</string>
+    <string name="resource_line5">American Stroke Association. Life after stroke - Nutrition Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/HealthyLivingAfterStroke/Nutrition/Nutrition-Tips-for-Stroke-Survivors_UCM_308569_SubHomePage.jsp (Accessed Nov 16, 2016)</string>
+    <string name="resource_line6">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/74"</string>
+    <string name="resource_line7">American Stroke Association. Life after stroke - Bathing Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/RegainingIndependence/TipsForDailyLiving/Bathing-Tips-for-Stroke-Survivors_UCM_310105_Article.jsp#.WC0JYvkrLBU (Accessed Nov 16, 2016)</string>
+    <string name="resource_line8">National Stroke Association. Recovery after stroke: bladder and bowel function. http://www.stroke.org/sites/default/files/resources/NSAFactSheet_BowelandBladder_2014.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line9">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. The Bathroom: Modify the room to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463096.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line10">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. Modifications: Modify your bedroom to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463057.pdf (Accessed Nov 16, 2016)</string>
+
+    <string name="home_mod_line0">Vue que les patients puissent avoir la mobilité limitée, il est très important de faire certaines modifications dans la maison pour la rendre sure et accessible.</string>
+    <string name="home_mod_line1">Chambre à coucher</string>
+    <string name="home_mod_line2">• L’accès à la chambre à coucher peut être mieux en déplaçant l’immeuble qui empêche la porte d’ouvrir complètement; portes élargies; des charniers au verso pour que la porte s’ouvre vers l’extérieur et pas vers l’intérieur. Si le lit doit être à côté du mur on le doit orienter de manière que le patient peut s’en lever facilement, utilisant le côté du son corps qui n’est pas atteint par le AVC.</string>
+    <string name="home_mod_line3">Salle de bain</string>
+    <string name="home_mod_line4">• Avec une porte élargie, la salle de bain devient plus accessible au fauteuil roulant.</string>
+    <string name="home_mod_line5">• En élevant la siège de toilette on rend son usage plus accessible et plus facile: élévateur de toilette qui élève le patient du sol jusqu’à la siège; élévateur de siège attaché qui élève le siège de toilette; installation des barres d’appuirampes de toilette améliore le support de mobilité.</string>
+    <string name="home_mod_line8">General:</string>
+    <string name="home_mod_line9">• Enlevez des tapis instables pour éviter les trébuchements et les chutes.</string>
+
+
+    <string name="survey">Enquêtes</string>
+    <string name="fill_survey">FILL SURVEY</string>
+    <string name="enter_pass">Entrer le mot de passe</string>
+    <string name="error_pass">Entrez le mot de passe correct …!</string>
+    <string name="survey1">Post Health Literacy Survey</string>
+    <string name="survey2">Follow Up Survey</string>
+    <string name="survey3">Usability Scale</string>
+    <string name="survey4">Pre Health Literacy Survey</string>
+    <string name="reminders">Rappels</string>
+
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="thanks">Merci</string>
+    <string name="bathroom">Je dois aller aux toilettes</string>
+    <string name="water">J’ai soif</string>
+    <string name="hungry">J’ai faim</string>
+    <string name="notgivingup">Je ne renonce pas</string>
+    <string name="pain">J’ai mal</string>
+    <string name="cantspeak">Désolé, je ne peux pas parler</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="bed">I want to get in bed</string>
+    <string name="bed1">I want to get out of bed</string>
+    <string name="clock">In a little</string>
+    <string name="cold">It\'s cold</string>
+    <string name="dizzy">I\'m dizzy</string>
+    <string name="hi">Hi!</string>
+    <string name="hot">It\'s hot</string>
+    <string name="howareyou">How are you?</string>
+    <string name="lightsOff">Turn off the lights</string>
+    <string name="lightson">Turn on the lights</string>
+    <string name="now">Now</string>
+    <string name="outside">Go outside</string>
+
+    <string name="bells">Bells</string>
+    <string name="Buddha">Buddha</string>
+    <string name="Flags">Flags</string>
+    <string name="market_place1">Market place 1</string>
+    <string name="market_place2">Market place 2</string>
+    <string name="rocky">Rocky Beach</string>
+
+    <string name="signs">SIGN OF STROKE</string>
+
+    <string name="hms_search_placeholder">j\'ai faim</string>
+
+    <string name="todays_reminders">Rappel d\'aujourd\'hui</string>
+    <string name="all_reminders">Tous les rappels</string>
+    <string name="create_reminder">Créer un rappel</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="save">Enregistrer</string>
+
+    <string name="create_reminder_title_header">Remind me to…</string>
+    <string name="create_reminder_title_placeholder">Prenez mon médicament</string>
+    <string name="create_reminder_pick_time_header">À quelle heure(s)?</string>
+    <string name="create_reminder_button_text">Créer un rappel</string>
+
+    <string name="daily">Du quotidien</string>
+    <string name="weekly">Hebdomadaire</string>
+    <string name="custom">Douane</string>
+    <string name="sunday">S</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">Th</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+
+    <string name="delete_reminder_message">Êtes-vous sûr de vouloir supprimer ce rappel?</string>
+    <string name="delete_reminder_title">Supprimer le rappel</string>
+
+    <string name="info_title">Info</string>
+
+    <string name="pref_previously_started">previously_started</string>
+    <string name="accept">I Accept</string>
+    <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
+    <string name="videoText">SVP répétez 10 fois, une fois par jour avec aide des membres de votre famille ou, au cas de besoin, d’un professionnel de soins. Consultez votre médecin avant de commencer les exercices.</string>
+</resources>

@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Health 4 The World Stroke</string>
+    <string name="lauch_text1">\"The best preparation for tomorrow is doing your best today.\"</string>
+    <string name="author1">-H.jackson Brown, Jr</string>
+    <string name="launch_text2">\"Believe you can and you\'re halfway there.\"</string>
+    <!--<string name="author2">-Theodore Roosevelt</string>-->
+    <string name="launch_text3">\"Nothing is impossible, the word itself says \'I\'m possible\'!\"</string>
+    <string name="author3">-Audrey Hepburn</string>
+    <string name="launch_text4">\"Only I can change my life.No one can do it for me.\"</string>
+    <string name="author4">-Carol Burnett</string>
+    <string name="launch_text5">\"Always do your best. What you plant now will harvest later.\"</string>
+    <string name="author5">-Og Mandino</string>
+    <string name="launch_text6">\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\"</string>
+    <string name="author6">-Helen Keller</string>
+    <string name="home">CASA</string>
+    <string name="general_info">Información general</string>
+    <string name="mobile_intro">Introducción a la aplicación móvil</string>
+    <string name="para_1">La APLICACIÓN HEALTH4THWORD STROKE HOPE es una herramienta educativa gratuita con el propósito difundir conocimiento sobre los factores de riesgo de los accidentes/ataques cerebrovasculares, la prevención secundaria, la movilidad post-accidente, ejercicios y estrategias de habla.La aplicación fue creada por Health4TheWorld, una organización sin fines de lucro inspirada en las necesidades médicas no satisfechas en el mundo.La misión de la organización es solucionar las desigualdades de la salud a través de inovación y tecnología y traer sonrisas alrededor del mundo. Puede conocer más sobre nosotros en health4theworld.org.</string>
+    <string name="para_2">Con una incidencia estimada de 16.9 millones y una prevalencia de 33 millones según la Organización Mundial de la Salud, el ataque cerebral es una entidad dominante en la categoría de enfermedades cardiovasculares y una de las principales causas de discapacidad grave a largo plazo. La carga mundial de accidentes cerebrovasculares recae desproporcionadamente en los países de ingresos bajos y medianos, lo que nos inspira a mejorar el alcance de educación a nivel mundial.Esperamos que esta aplicación educativa sea útil.</string>
+    <string name="app_features">La aplicación tiene varias herramientas que esperamos le resulten útiles!</string>
+    <string name="app_features_1">• Contenido educacional – Información sobre causas y factores de riesgo del ataque cerebral con guías de la Asociación Americana del Corazón, Asociación Americana de Accidente Cerebrovascular, artículos basados ​​en evidencia y otras fuentes de información médicaPor favor recuerde que estos son consejos educativos generales y no recomendaciones de manejo clínico. Tanto el paciente como los profesionales de la salud deben sentarse juntos para trabajar en un régimen de prevención personalizado para cada paciente.</string>
+    <string name="app_features_2">• Animación en video y ejercicios para la recuperación del accidente cerebrovascular –Estos deben hacerse con un terapista ocupacional y / o fisioterapista, que pueda ayudar con la técnica correcta y a diseñar un régimen que beneficie mejor al paciente. Alguien debe siempre estar presente para ayudar.Los ejercicios se dividen en fortalecimiento, estiramiento y movilidad funcional.Por favor aconseje a sus pacientes sobre la técnica correcta, la frecuencia necesaria y el régimen de estos ejercicios.</string>
+    <string name="app_features_3">• Recordatorios de Medicamentos y Citas:  ¡El cumplimiento con medicamentos y citas médicas es importante y esperamos que esta herramienta le sea útil! Por favor ponga recordatorios en la aplicación para sus pacientes si es posible.</string>
+    <string name="app_features_4">• Estrategias de voz después del accidente cerebrovascular: El botón de producción de voz puede ayudar con la comunicación básica.Nuestra meta es traducir estos a diferentes idiomas para que las profesiones de la salud y los pacientes en partes remotas del mundo que carecen de acceso a la salud puedan beneficiarse de ellos.</string>
+    <string name="thanks_caps">GRACIAS</string>
+    <string name="dream_team">Esta aplicación no habría sido posible sin el trabajo de un equipo de ensueño!</string>
+    <string name="founders">Fundadores</string>
+    <string name="founders_name">Dr. Bhavya Rehani, Dr. Bill Dillon &amp; Dr. Ankur Bharija</string>
+    <string name="developer_ofapp">Ingeniero de software y desarrollador de la aplicación</string>
+    <string name="Rachel_Grau">Rachel Grau</string>
+    <string name="Varun_Raj">Varun Raj</string>
+    <string name="Animations">Animación</string>
+    <string name="Animator_name">by Ernesto Aguilar</string>
+    <string name="Illustrations">Ilustraciones</string>
+    <string name="illustrations_by">by Julie Kim, Bhavya Rehani, Ankur Bharija</string>
+    <string name="Content_Editing">Editor de contenido</string>
+    <string name="Content_Editing_by">by Dr. Lilly Zhang, Isaiah Brown and Dr Bhavya Rehani</string>
+    <string name="Movies">Videos</string>
+    <string name="Movies_by">by Jack McGill</string>
+    <string name="advisory_board_of_app">Junta de Asesoría Médica para la aplicación</string>
+    <string name="advisory_board_of_app_1">Dr. Marc Fisher: Actualmente el Dr. Fisher es el director de redacción de “Stroke and Senior Physician” en el servicio de accidente cerebrovascular de BIDMC, Harvard Medical School. Es reconocido mundialmente y ha publicado extensamente con más de 260 artículos de revision paritaria y ha editado o coeditado 13 libros.</string>
+    <string name="advisory_board_of_app_2">Dr. Jeffrey Teraoke: El Dr. Teraoke es el jefe de medicina y rehabilitacón del Palo Alto VA Medical Center. Además es el director de la residencia de medicina física y rehabilitación y el director de politrauma en el VA Palo Alto Health System.</string>
+    <string name="advisory_board_of_app_3">Dr. Erica A Pitsch, PT, MPT, DPT, NCS: La Dra. Pitsch se especializa en terapia física neurológica y utiliza varias estrategias de tratamiento enfocadas en promover el reto óptimo, la función y la recuperación en personas con enfermedades neurológicas.</string>
+    <string name="advisory_board_of_app_4">Loren Ward, PT, DPT  es una fisioterapista licenciada que comenzó su carrera en Fisioterapia en 2007, mientras obtenía su doctorado en el Instituto de Profesiones de Salud del MGH en Massachusetts. Realizó prácticas en Rehabilitation of Chicago, Spaulding Rehabilitation y National Rehabilitation Hospital y ahora trabaja en el Sistema de Asuntos de Veteranos de Stanford. Loren es una defensora de la independencia funcional y se esfuerza en ayudar a sus pacientes a alcanzar su propio nivel de independencia, independientemente de sus limitaciones.</string>
+    <string name="advisory_board_of_app_5">Rose Hamm, PT, DPT, CWS, FACCWS: Rose recibió una licenciatura en Fisioterapia de la Universidad de Carolina del Norte, Chapel Hill, y una maestría y post-grado de DPT de la Universidad del Sur de California. Actualmente es Profesora Asistente Adjunta de Terapia Física Clínica en la Universidad del Sur de California y practica en el Hospital Keck de USC.</string>
+    <string name="help_me_speak">Ayúdame a hablar</string>
+    <string name="video">Ceremonias</string>
+    <string name="Strengthening">Fortalecimiento</string>
+    <string name="Legs">Piernas [1]</string>
+    <string name="Toe">Dedo del pie [1A]</string>
+    <string name="Knee">Rodilla [1B]</string>
+    <string name="Hip">Cadera [1C]</string>
+    <string name="Arms">Brazos [2]</string>
+    <string name="Elbow">Codo [2A]</string>
+    <string name="Shoulder">Hombro [2B]</string>
+    <string name="Coordination">Coordinación [3]</string>
+    <string name="Leg_1">Pierna 1 [3A]</string>
+    <string name="Leg_2">Pierna 2 [3B]</string>
+    <string name="Stretching">Extensión</string>
+    <string name="Leg_Feet">Piernas y pies [1]</string>
+    <string name="Adductores">Adductores [1A]</string>
+    <string name="Adductors_text">• Usted puede hacer este ejercicio acostado o sentado en una silla estable. Acostado de espaldas, deslice la pierna afectada hacia el lado durante 30 segundos y devuélvala. Repita 3 veces.</string>
+    <string name="Hamstrings">Hamstrings [2A]</string>
+    <string name="Hamstrings_text">Usted puede hacer este ejercicio acostado o sentado en una silla estable. Acuéstese sobre su espalda con las rodillas dobladas y estire la rodilla hacia arriba hacia el cielo durante 30 segundos.</string>
+    <string name="Dorsiflexors">Dorsiflexors [3A]</string>
+    <string name="Dorsiflexors_text">Usted puede hacer este ejercicio acostado o sentado en una silla estable. Empuje el pie hacia arriba hacia el torso y manténgalo presionado durante 30 seg. Repita 3 veces.</string>
+    <string name="Arms_Hands">Brazos y mano [2]</string>
+    <string name="Hand_Stretch"> Estiramiento de mano [1B]</string>
+    <string name="Hand_Stretch_text">Acuéstese con el lado involucrado hacia arriba y el brazo descansando sobre la cadera. Apoye el codo en la cadera pero use la otra mano para mover la muñeca hacia arriba y lejos del estómago. Lleve la muñeca a su posición de reposo. Apoye la muñeca con una mano e intente abrir los dedos con la otra mano. TRate de abrir la mano cuando mueva la muñeca hacia arriba y lejos del estómago. Mantenga el estiramiento durante 30 segundos. Repita 3 veces.</string>
+    <string name="Shoulder_Stretches">Estiramientos de hombro [2B}</string>
+    <string name="Shoulder_Stretches_text">Acuéstese de lado con el brazo involucrado apoyado en la cadera. Lleve el hombro hacia el oído y luego suavemente hacia abajo.</string>
+    <string name="Arm_Stretch">Estiramiento del brazo [3B]</string>
+    <string name="Arm_Stretch_text">Acuéstese de lado con el lado involucrado hacia arriba y el brazo descansando sobre la cadera. Suavemente lleve el brazo inferior hacia la pierna. Mantenga durante 30 segundos. Repita 3 veces. Asegúrese de que sostiene el hombro y evite que se mueva hacia adelante.</string>
+    <string name="Function_Mobility">Movilidad funcional</string>
+    <string name="Bridge_hip">Puente de cadera [1]</string>
+    <string name="Arm_trunk">Brazo + tronco [2]</string>
+    <string name="Sittostand">Sentarse para pararse [3]</string>
+    <string name="Mind_exercise">Ejercicio de la mente</string>
+    <string name="learn">Aprenda</string>
+    <string name="topic">Temas:</string>
+    <string name="RISK_FACTOR">Factores de riesgo</string>
+    <string name="blood_pressure">Presión SanguÍnea</string>
+    <string name="heart_rate">Ritmo Cardiaco</string>
+    <string name="smoking_">Fumar</string>
+    <string name="blood_sugar">Nivel de azúcar en la sangre</string>
+    <string name="exercise">Ejercicios</string>
+    <string name="Diet">Dieta</string>
+    <string name="shower">Ducha Y Baño</string>
+    <string name="bladder">Vejiga e intestinos</string>
+    <string name="home_mod">Modificación Del Hogar</string>
+    <string name="faq">Preguntas frequentes</string>
+    <string name="resource">Recurso</string>
+
+    <string name="problem">PROBLEMA</string>
+    <string name="what_to_do">QUÉ HACER</string>
+
+         <string name="befast_line2">• (EQUILIBRAR)Balance[B]:-Pérdida repentina</string>
+        <string name="befast_line4">• (OJO)EYE[E]:-Pérdida repentina de la visión en uno o ambos ojos</string>
+        <string name="befast_line6">• (CARA)FACE[F]:-Rostro caído</string>
+        <string name="befast_line8">• (BRSZOS DéBILES)ARM WEAKNESS[A]:-No puedo levantar mi brazo &amp; Quédate ahí</string>
+        <string name="befast_line10">• (HABLA)SPEECH[S]:-dificultad al hablar.</string>
+        <string name="befast_line12">• TIME[T]:-Momento de llamar al ambulancia</string>
+
+    <string name="blood_sugar_line1">Un nivel alto de azúcar \u0020</string>
+    <string name="blood_sugar_line2"> en la sangre puede aumentar el riesgo de desarrollar derrames cerebrales y enfermedades del corazón. Un análisis de sangre llamado HbA1c nos deja saber el control promedio de azúcar en la sangre durante un los últimos 2 a 3 meses.</string>
+    <string name="blood_sugar_line3">La Asociación Americana del Corazón recomienda mantener los niveles de azúcar en la sangre (HbA1c) </string>
+    <string name="blood_sugar_line4">\u0020 menor de 6% </string>
+    <string name="blood_sugar_line5">\u0020 para pacientes con pre-diabetes</string>
+    <string name="blood_sugar_line6">\u0020 menor de 7% </string>
+    <string name="blood_sugar_line7">\u0020 para pacientes con diabetes.</string>
+
+    <string name="blood_pressure_line1">La presión arterial alta \u0020</string>
+    <string name="blood_pressure_line2">puede causar derrames pues daña las arterias en el cuerpo causando que se rompan u obstruyan más fácilmente.</string>
+    <string name="blood_pressure_line3">En la población general de 60 años o más, el tratamiento de la presión alta con una meta de </string>
+    <string name="blood_pressure_line4"> \u0020menor de 150/90 </string>
+    <string name="blood_pressure_line5">\u0020 reduce el riesgo de accidente cerebrovascular..</string>
+
+    <string name="why_quit_smoking">¿POR QUÉ DEJAR DE FUMAR??</string>
+    <string name="smoking_line1"> El fumar es un factor de riesgo conocido de ataques cerebrales. Mientras más fume, más alto el riesgo de sufrir un accidente cerebrovascular.</string>
+    <string name="what_should_u_do">QUE DEBERIAS HACER</string>
+    <string name="smoking_line2">Dejar de fumar hoy! Puedes hacerlo! Nunca es demasiado tarde.</string>
+
+    <string name="heart_rate_para1">La fibrilación auricular</string>
+    <string name="heart_rate_para2">, o ritmo cardíaco irregular, es un factor de riesgo para el accidente cerebrovascular.</string>
+    <string name="heart_rate_para3">Si sospecha que pueda padecer de ritmo cardíaco irregular, comuníquese con su médico inmediatamente para realizar pruebas, que pueden incluir un </string>
+    <string name="heart_rate_para4">\u0020 electrocardiograma (ECG / EKG)</string>
+    <string name="heart_rate_para5">. Basado en su historial médico y su riesgo de un futuro accidente cerebrovascular, hay varias opciones de medicamentos, como</string>
+    <string name="heart_rate_para6">\u0020 anticoagulants</string>
+    <string name="heart_rate_para7">, that will help manage AFib.</string>
+
+    <string name="bath_para1">Entrar y salir de las bañeras / duchas puede ser peligroso y los pacientes corren el riesgo de caerse.</string>
+    <string name="bath_para2">• Duchas> bañeras: \u0020</string>
+    <string name="bath_para3">En general, las duchas son más seguras que las bañeras. Las barras de agarre pueden ayudar a facilitar el movimiento.</string>
+    <string name="bath_para4">• Alfombrillas de baño </string>
+    <string name="bath_para5">\u0020 En general, las duchas son más seguras que las bañeras.</string>
+    <string name="bath_para6">• Asegúrese de que alguien esté cerca para ayudarle de ser necesario. Mantenga una campana a mano o tenga otra manera de pedir ayuda.</string>
+    <string name="bath_para7">• El entrenamiento de equilibrio puede ayudar a las personas con problemas de balance.</string>
+
+    <string name="exercise_para1">Los pacientes de accidente cerebrovascular a menudo tienen dificultades para recuperar la fuerza y capacidad física.</string>
+    <string name="exercise_para2">• Para ayudar con  \u0020</string>
+    <string name="exercise_para3"> las limitaciones al caminar</string>
+    <string name="exercise_para4">: Los pacientes deben realizar una terapia intensiva y recurrente que incluya tareas de movilidad bajo la supervisión de un profesional de la salud.</string>
+    <string name="exercise_para5">• Para ayudar durante \u0020</string>
+    <string name="exercise_para6"> caídas \u0020</string>
+    <string name="exercise_para7"> Las pacientes deben obtener entrenamiento de balance. </string>
+    <string name="exercise_para8">• Para ayudar con \u0020</string>
+    <string name="exercise_para9"> hospitalización y recuperación pronta\u0020</string>
+    <string name="exercise_para10">: Para ayudar durante la hospitalización y la recuperación temprana: AHA / ASA recomienda caminatas fáciles de bajo impacto, actividades de autocuidado, estar sentado o de pie intermitentemente, actividades sentadas o actividades de alcance de movimiento. Estas actividades se deben realizar según lo tolerado con el objectivo de lograr un aumento de 10 a 20 latidos del corazón por minuto, dependiendo de lo que su médico recomiende.</string>
+    <string name="exercise_para11">• Para ayudar durante \u0020</string>
+    <string name="exercise_para12"> la terapia o rehabilitación de pacientes hospitalizados y ambulatorios</string>
+    <string name="exercise_para13">: La AHA / ASA recomienda actividades tales como caminar 3–5 días a la semana durante 20–60 minutos por sesión (o varias sesiones de 10 minutos); estirar 2–3 días por semana durante 10–30 segundos; Tai chi, yoga y actividades recreativas como complemento para caminar o estirarse.</string>
+    <string name="exercise_para14">• Para Permanecer </string>
+    <string name="exercise_para15"> \u0020seguro al ejercitarse</string>
+    <string name="exercise_para16">: Use dispositivos de ayuda para caminar y hacer ejercicio con cuidado, sólo bajo supervisión.</string>
+    <string name="exercise_para17">• Para mantener </string>
+    <string name="exercise_para18"> \u0020la salud física</string>
+    <string name="exercise_para19">: Consulte con su médico la preferencia de actividad física para usted, las limitaciones de actividad específicas a usted y si existe alguna restricción en cuanto a su participación en ejercicio.</string>
+
+    <string name="diet_para1">Es importante que los pacientes con historial de derrame cerebral mantengan un estilo de vida saludable. Los pacientes que residen en centros de cuidados a largo plazo corren el riesgo de presentar deficiencias de calcio y vitamina D.</string>
+    <string name="diet_para2">Lo ideal es comer una dieta balanceada y saludable con variedad de frutas y verduras, granos enteros, productos lácteos bajos en grasa, carne y pescado sin piel,  nueces y legumbres.</string>
+    <string name="diet_para3">Cepillarse los dientes</string>
+    <string name="diet_para4">Cepillarse los dientes regularmente luego de cada comida reduce el riesgo de aspiración y pulmonía. </string>
+
+    <string name="bladder_bowel_para_1">Algunos pacientes experimentarán incontinencia urinaria o retención.</string>
+    <string name="bladder_bowel_para_2">Evalúe la retención urinaria mediante el escaneo de la vejiga o cateterizaciones intermitentes y registre los volúmenes después de orinar. Vaya al baño en horarios regulares para ayudar a entrenar su vejiga. Orine cada 2–3 horas para ayudar a prevenir accidentes.</string>
+    <string name="bladder_bowel_para_3">Beba muchos líquidos durante el día para mantenerse hidratado y para  evitar el estreñimiento.</string>
+
+
+    <string name="riskFactor1_">FACTOR DE RIESGO DE ACCIDENTE CEREBROVASCULAR</string>
+    <string name="highbloodpressure">• Presión sanguinea alta</string>
+    <string name="heart_disease">• Enfermedades del corazón</string>
+    <string name="smoking">• Fumar</string>
+    <string name="Diabetes">• Diabetes</string>
+    <string name="Prior_stroke">• Ataque cerebral previo</string>
+
+    <string name="faq_line1">¿QUÉ ES UN DERRAME CEREBRAL?</string>
+    <string name="faq_line2">En un accidente cerebrovascular el flujo de sangre hacia el cerebro se altera, resultando en la muerte de la parte afectada porque deja de recibir el oxígeno y los nutrientes que necesita para funcionar.  El accidente occure cuando un coágulo bloquea u obstruye un vaso sanguíneo en el cerebro o hay ruptura y sangrado de un vaso sanguíneo en el cerebro.Como resultado, puede haber pérdida temporal o permanente de la función corporal que es controlada por esa parte del cerebro.</string>
+    <string name="faq_line11">¿Qué debe hacer si piensa que alguien está teniendo un derrame cerebral?</string>
+    <string name="faq_line12">Llame inmediatamente a un profesional de la salud (médico o enfermero/a).</string>
+    <string name="faq_line13">¿Por qué necesita actuar rápidamente?</string>
+    <string name="faq_line14">Obtener tratamiento médico rápido reduce el riesgo de discapacidad o incluso la muerte.</string>
+
+
+
+    <string name="resource_line1">2014 Evidence–Based Guideline for the Management of High Blood Pressure in Adults. 2014 JAMA. http://jamanetwork.com/journals/jama/fullarticle/1791497 (Accessed 2016–11–22).</string>
+    <string name="resource_line2">American Heart Association. Know your health numbers. http://www.heart.org/HEARTORG/Conditions/More/Diabetes/PreventionTreatofDiabetes/Know-Your-HealthNumbers_UCM_313882_Article.jsp#.WC0TE_k (Accessed Nov 16, 2016).</string>
+    <string name="resource_line3">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/744</string>
+    <string name="resource_line4">Billinger SA et al. Physical activity and exercise recommendations for stroke survivors: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2014;45:2532–2553.</string>
+    <string name="resource_line5">American Stroke Association. Life after stroke - Nutrition Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/HealthyLivingAfterStroke/Nutrition/Nutrition-Tips-for-Stroke-Survivors_UCM_308569_SubHomePage.jsp (Accessed Nov 16, 2016)</string>
+    <string name="resource_line6">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/74"</string>
+    <string name="resource_line7">American Stroke Association. Life after stroke - Bathing Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/RegainingIndependence/TipsForDailyLiving/Bathing-Tips-for-Stroke-Survivors_UCM_310105_Article.jsp#.WC0JYvkrLBU (Accessed Nov 16, 2016)</string>
+    <string name="resource_line8">National Stroke Association. Recovery after stroke: bladder and bowel function. http://www.stroke.org/sites/default/files/resources/NSAFactSheet_BowelandBladder_2014.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line9">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. The Bathroom: Modify the room to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463096.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line10">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. Modifications: Modify your bedroom to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463057.pdf (Accessed Nov 16, 2016)</string>
+
+    <string name="home_mod_line0">Debido a que los pacientes pueden experimentar una movilidad limitada, es importante modificar el  hogar para que sea seguro y accesible.</string>
+    <string name="home_mod_line1">Cuarto:</string>
+    <string name="home_mod_line2">La accesibilidad del dormitorio se puede mejorar moviendo los artículos de modo que la puerta se abra completamente; ampliar las puertas; invertir las bisagras para que la puerta se abra hacia fuera en lugar de hacia adentro.</string>
+    <string name="home_mod_line3">Bañera:</string>
+    <string name="home_mod_line4">Los baños se pueden modificar para que sena accessibles a sillas de rueda ampliando la puerta.</string>
+    <string name="home_mod_line5">Los asientos de los inodoros se pueden alzaar para que sea más fácil sentarse y pararse del inodoro con un levantador de inodoro que se pone entre el inodoro y el piso, un levantador de asiento de inodoro que alza la silla o instalando barras de agarre para soporte.</string>
+   <string name="home_mod_line8">En general:</string>
+    <string name="home_mod_line9">Evite alfombras resbalosas. Elimine las alfombras que se puedan mover fácilmente para prevenir caída.</string>
+
+    <string name="survey">Encuestas</string>
+    <string name="fill_survey">Llenar encuesta</string>
+    <string name="enter_pass">Introducir la contraseña</string>
+    <string name="error_pass">Por favor ingrese la contraseña correcta..!</string>
+    <string name="survey1">Post Health Literacy Survey</string>
+    <string name="survey2">Follow Up Survey</string>
+    <string name="survey3">Usability Scale</string>
+    <string name="survey4">Pre Health Literacy Survey</string>
+    <string name="reminders">Recordatorios</string>
+    <string name="yes">Sí </string>
+    <string name="no">No</string>
+    <string name="thanks">Gracias</string>
+    <string name="bathroom">. Necesito ir al baño</string>
+    <string name="water">Necesito agua</string>
+    <string name="hungry">Tengo hambre</string>
+    <string name="notgivingup">No me doy por vencido</string>
+    <string name="pain">Tengo dolor</string>
+    <string name="cantspeak">Lo siento, no puedo hablar</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="bed">I want to get in bed</string>
+    <string name="bed1">I want to get out of bed</string>
+    <string name="clock">In a little</string>
+    <string name="cold">It\'s cold</string>
+    <string name="dizzy">I\'m dizzy</string>
+    <string name="hi">Hi!</string>
+    <string name="hot">It\'s hot</string>
+    <string name="howareyou">How are you?</string>
+    <string name="lightsOff">Turn off the lights</string>
+    <string name="lightson">Turn on the lights</string>
+    <string name="now">Now</string>
+    <string name="outside">Go outside</string>
+
+    <string name="bells">Bells</string>
+    <string name="Buddha">Buddha</string>
+    <string name="Flags">Flags</string>
+    <string name="market_place1">Market place 1</string>
+    <string name="market_place2">Market place 2</string>
+    <string name="rocky">Rocky Beach</string>
+
+    <string name="signs">SIGN OF STROKE</string>
+
+    <string name="hms_search_placeholder">Tengo hambre</string>
+
+    <string name="todays_reminders">Recordatorios hoy</string>
+    <string name="all_reminders">Todos los recordatorios</string>
+    <string name="create_reminder">Crear recordatorio</string>
+    <string name="edit_reminder">Editar recordatorio</string>
+    <string name="save">Salvar</string>
+
+    <string name="create_reminder_title_header">Recuérdame que …</string>
+    <string name="create_reminder_title_placeholder">Toma mi medicina</string>
+    <string name="create_reminder_pick_time_header">¿A qué hora (s)?</string>
+    <string name="create_reminder_button_text">Crear recordatorio</string>
+
+    <string name="daily">Diariamente</string>
+    <string name="weekly">Semanal</string>
+    <string name="custom">Personalizado</string>
+    <string name="sunday">S</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">Th</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+
+    <string name="delete_reminder_message">¿Seguro que quieres eliminar este recordatorio?</string>
+    <string name="delete_reminder_title">Eliminar recordatorio</string>
+
+    <string name="info_title">Información</string>
+
+    <string name="pref_previously_started">previously_started</string>
+    <string name="accept">I Accept</string>
+    <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
+    <string name="videoText">"Por favor, repita 10 veces, una vez al día con la ayuda de un cuidador o familiar si es necesario. Consulte a su médico antes de iniciar el programa de ejercicios."</string>
+</resources>
