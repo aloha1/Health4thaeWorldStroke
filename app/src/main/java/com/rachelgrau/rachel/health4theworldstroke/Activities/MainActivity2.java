@@ -48,7 +48,8 @@ public class MainActivity2 extends AppCompatActivity {
             Intent intent = new Intent(this, RemindersActivity.class);
             startActivity(intent);
         }if(v.getId()==R.id.generalInfoButton || v.getId()==R.id.imageView5 || v.getId()==R.id.text5 ){
-            Intent intent = new Intent(this, InfoListActivity.class);
+            /*Intent intent = new Intent(this, InfoListActivity.class);*/
+            Intent intent = new Intent(this, ChatBotMainActivity.class);
             startActivity(intent);
         }if(v.getId()==R.id.surveyButton || v.getId()==R.id.imageView6 || v.getId()==R.id.text6 ){
             Intent intent=new Intent(this,password_gateway.class);

@@ -74,27 +74,28 @@ public class SliderMainActivity extends FragmentActivity {
                         break;
                     case 1:
                         Toast.makeText(SliderMainActivity.this, "Language:English", Toast.LENGTH_SHORT).show();
-                        //  changeLang("eng");
                         setLocale("en");
                         language = "en";
                         break;
                     case 2:
                         Toast.makeText(SliderMainActivity.this, "Idioma:Español", Toast.LENGTH_SHORT).show();
-                        //  changeLang("span");
                         setLocale("es");
                         language = "es";
                         break;
                     case 3:
                         Toast.makeText(SliderMainActivity.this, "La langue:Français", Toast.LENGTH_SHORT).show();
-                        //  changeLang("span");
                         setLocale("fr");
                         language = "fr";
                         break;
                     case 4:
                         Toast.makeText(SliderMainActivity.this, "Wika:Filipino", Toast.LENGTH_SHORT).show();
-                        //  changeLang("span");
                         setLocale("fil");
                         language = "fil";
+                        break;
+                    case 5:
+                        Toast.makeText(SliderMainActivity.this, "Language:Nepali", Toast.LENGTH_SHORT).show();
+                        setLocale("ne");
+                        language = "ne";
                         break;
                 }
             }

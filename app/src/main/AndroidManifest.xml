@@ -3,7 +3,7 @@
     package="com.rachelgrau.rachel.health4theworldstroke">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
@@ -27,7 +27,9 @@
         </activity>
         -->
         <activity android:name=".Activities.MainActivity2" />
-        <activity android:name=".Activities.HelpMeSpeakActivity" android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".Activities.HelpMeSpeakActivity"
+            android:windowSoftInputMode="stateHidden" />
         <activity android:name=".Activities.LearnActivity" />
         <activity android:name=".Activities.RemindersActivity" />
         <activity android:name=".Activities.ReadContentActivity" />
@@ -63,6 +65,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Activities.ChatBotMainActivity"></activity>
     </application>
 
 </manifest>

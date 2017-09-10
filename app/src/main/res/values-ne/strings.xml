@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health 4 The World Stroke</string>
+    <string name="hi">नमस्ते</string>
+    <string name="Animations">एनिमेशन</string>
+    <string name="Diet">आहार</string>
+    <string name="Elbow">कोहिन</string>
+    <string name="Flags">झण्डाहरू</string>
+    <string name="Leg_1"></string>
+    <string name="Knee">घुटने</string>
+    <string name="Mind_exercise">मन व्यायाम</string>
+    <string name="Movies">चलचित्रहरू</string>
+    <string name="accept">म स्वीकार छु</string>
+    <string name="bed">म बिस्तरमा जान चाहन्छु</string>
+    <string name="bed1">म बिस्तारै बाहिर जान चाहन्छु</string>
+    <string name="befast_line12">•  समय:एम्बुलेंस कल गर्ने समय</string>
+    <string name="befast_line2">• शेष:अचानक हानि</string>
+    <string name="hungry">म भोकाएको छु</string>
+    <string name="howareyou">तिमीलाई कस्तो छ?</string>
+    <string name="hot">यो तातो छ</string>
+    <string name="info_title">जानकारी</string>
+    <string name="learn">सिक्नुहोस्</string>
+    <string name="lightsOff">रोशनीहरू बन्द गर्नुहोस्</string>
+    <string name="lightson">बत्ति बाल</string>
+    <string name="no">होइन</string>
+    <string name="now">अहिले</string>
+    <string name="outside">बाहिर जाउ</string>
+    <string name="pain">म दुखाइमा छु</string>
+    <string name="problem">समस्या</string>
+    <string name="reminders">अनुस्मारकहरू</string>
+    <string name="resource">स्रोत</string>
+    <string name="save">बचत गर्नुहोस्</string>
+    <string name="smoking">• धूम्रपान</string>
+    <string name="smoking_line2">अहिले धूम्रपान गर्न रोक्नुहोस्! तपाईं यो गर्न सक्नुहुन्छ! यो कहिल्यै ढिलो छैन।</string>
+    <string name="survey">सर्वेक्षणहरू</string>
+    <string name="thanks">धन्यवाद</string>
+    <string name="thanks_caps">धन्यवाद</string>
+    <string name="topic">विषयहरू:</string>
+    <string name="video">व्यायाम गर्नुहोस्</string>
+    <string name="water">मलाई पनि चहियो</string>
+    <string name="yes">हो</string>
+    <string name="what_to_do">के गर्ने</string>
+    <string name="why_quit_smoking">किन धूम्रपान छोड्ने?</string>
+    <string name="Coordination">समन्वय</string>
+    <string name="Diabetes">• मधुमेह</string>
+</resources>
