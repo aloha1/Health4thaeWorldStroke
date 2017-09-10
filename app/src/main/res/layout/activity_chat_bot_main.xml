@@ -8,19 +8,52 @@
     android:layout_height="match_parent"
     tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.ChatBotMainActivity">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="listenButtonOnClick"
-        android:text="Click"
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="-6dp" />
+    <ListView
+        android:id="@+id/msgview"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:divider="@null"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll"/>
 
-    <TextView
-        android:id="@+id/textView2"
+    <!-- Puts focus on empty layout -->
+    <LinearLayout
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="0px"
+        android:layout_height="0px"/>
+
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="TextView" />
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="15"
+        android:layout_margin="2dp"
+        android:clipToPadding="false">
 
-</LinearLayout>
+        <EditText
+            android:id="@+id/userMesg"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="14"
+            android:layout_margin="7dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginStart="12dp"
+            android:hint="Say Something..." />
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btn_mic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:layout_marginBottom="12dp"
+            android:onClick="send"
+            android:src="@drawable/send_btn"
+            android:tint="#efefef"
+            android:visibility="visible" />
+
+    </LinearLayout>
+    </LinearLayout>
