@@ -97,6 +97,11 @@ public class SliderMainActivity extends FragmentActivity {
                         setLocale("ne");
                         language = "ne";
                         break;
+                     case 6:
+                        Toast.makeText(SliderMainActivity.this, "语言:中文", Toast.LENGTH_SHORT).show();
+                        setLocale("zh");
+                        language = "zh";
+                        break;
                 }
             }
             @Override
@@ -110,6 +115,8 @@ public class SliderMainActivity extends FragmentActivity {
         list.add("Español");
         list.add("Français");
         list.add("Filipino");
+        list.add("Nepali");
+        list.add("Chinese");
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, list);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -140,7 +147,7 @@ public class SliderMainActivity extends FragmentActivity {
      * sequence.
      */
     private class ScreenSlidePagerAdapter extends FragmentStatePagerAdapter {
-        public ScreenSlidePagerAdapter(FragmentManager fm) {
+        private ScreenSlidePagerAdapter(FragmentManager fm) {
             super(fm);
         }
 

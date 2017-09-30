@@ -18,8 +18,6 @@ import ai.api.model.AIRequest;
 import ai.api.model.AIResponse;
 import ai.api.model.Result;
 
-import java.util.ArrayList;
-
 
 import com.rachelgrau.rachel.health4theworldstroke.R;
 

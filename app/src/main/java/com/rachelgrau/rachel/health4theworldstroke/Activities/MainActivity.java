@@ -32,12 +32,10 @@ import android.widget.AdapterView.OnItemSelectedListener;
 
 
 public class MainActivity extends AppCompatActivity {
-    public final static String EXTRA_MESSAGE = "com.example.health4theworldstroke.MESSAGE";
     Spinner spinner;
     String language,lang_selected;
     static String current_lang="";
     Locale myLocale;
-    TextView generalInfo,helpMeSpeak,exercise,learn,reminders,surveys, quote;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -172,10 +170,4 @@ public class MainActivity extends AppCompatActivity {
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
     }
-   /* public void alert(View view){
-
-        MediaPlayer mp=MediaPlayer.create(this,R.raw.alarm);
-        mp.start();
-
-    } */
 }

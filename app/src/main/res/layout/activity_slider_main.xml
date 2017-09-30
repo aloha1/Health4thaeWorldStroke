@@ -46,34 +46,26 @@
         android:layout_height="wrap_content"
         android:id="@+id/guideline"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.88"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="338dp" />
+        app:layout_constraintGuide_percent="0.88" />
 
     <android.support.constraint.Guideline
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/guideline2"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.12"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="46dp" />
+        app:layout_constraintGuide_percent="0.12" />
 
     <android.support.constraint.Guideline
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/guideline4"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.4"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="154dp" />
+        app:layout_constraintGuide_percent="0.4" />
 
     <android.support.constraint.Guideline
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.6"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="231dp" />
+        app:layout_constraintGuide_percent="0.6" />
 
 </android.support.constraint.ConstraintLayout>
