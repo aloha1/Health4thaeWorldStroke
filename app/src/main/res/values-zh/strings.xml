@@ -276,4 +276,5 @@
     <string name="accept">I Accept</string>
     <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
     <string name="videoText">"請每日重復做這些練習10次，如果有需要 ，可以在家人或者護理人的幫助下練習。在開始這項訓練之前，請諮詢你的醫生。"</string>
+    <string name="doctor_greeting">嗨！你今天感覺如何？</string>
 </resources>

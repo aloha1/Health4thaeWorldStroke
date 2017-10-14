@@ -277,4 +277,5 @@
     <string name="accept">I Accept</string>
     <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
     <string name="videoText">SVP répétez 10 fois, une fois par jour avec aide des membres de votre famille ou, au cas de besoin, d’un professionnel de soins. Consultez votre médecin avant de commencer les exercices.</string>
+    <string name="doctor_greeting">Salut! Comment vous sentez-vous aujourd\'hui?</string>
 </resources>
