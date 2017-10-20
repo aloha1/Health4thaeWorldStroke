@@ -1,6 +1,7 @@
 package com.rachelgrau.rachel.health4theworldstroke.Adapters;
 
 import android.content.Context;
+import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -64,27 +65,27 @@ public class LearnContentAdapter extends BaseAdapter {
         LearnContent contentItem = (LearnContent) getItem(position);
         titleTextView.setText(contentItem.title);
         if(contentItem.title.equals(mContext.getString(R.string.blood_pressure))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.bloodpressurered_learn));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.bloodpressurered_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.heart_rate))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.heartrate_learn));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.heartrate_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.Diet))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.diet_learn));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.diet_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.blood_sugar))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.bloodsugar_learn));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.bloodsugar_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.faq))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.info));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.info));
         }if(contentItem.title.equals(mContext.getString(R.string.exercise))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.strengthing2));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.strengthing2));
         }if(contentItem.title.equals(mContext.getString(R.string.bladder))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.bladder_bowel_learn));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.bladder_bowel_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.home_mod))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.homemodification_learn));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.homemodification_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.smoking_))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.nosmoking));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.nosmoking));
         }if(contentItem.title.equals(mContext.getString(R.string.shower))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.shower));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.shower));
         }if(contentItem.title.equals(mContext.getString(R.string.resource))){
-            arrowButton.setImageDrawable(mContext.getDrawable(R.drawable.resources));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.resources));
         }
         return rowView;
     }
