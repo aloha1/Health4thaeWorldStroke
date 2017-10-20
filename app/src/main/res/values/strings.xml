@@ -276,4 +276,5 @@
     <string name="accept">I Accept</string>
     <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
     <string name="videoText">"Please repeat 10 times, once every day with assistance from family caregiver if needed. Consult your medical provider before starting the exercise program"</string>
+    <string name="doctor_greeting">Hi! How are you feeling today?</string>
 </resources>

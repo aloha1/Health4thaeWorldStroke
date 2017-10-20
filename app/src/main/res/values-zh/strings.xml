@@ -22,10 +22,10 @@
     <string name="app_features_2">• 中風康復的動畫視頻和訓練建議- 康復訓練的內容均由來自斯坦福，加州大學，北加州舊金山大學的健康領域專家制定。這些是常規的練習，並不是醫療建議。這些必須與醫生配合使用，正確的使用方式才能發揮最大作用。病人使用的時候身邊必須有一個可以隨時提供幫助的護理人員。內容被劃分為強化，伸展以及功能靈活性練習。請指導你的病人以正確的動作，正確的頻率和方法來使用這些練習。</string>
     <string name="app_features_3">• 吃藥和就診預約提醒：按時吃藥和就診非常重要，希望這個功能可以有幫助病人按時吃藥和就診。如果有可能，請為妳的 病人設設置好提醒時間。</string>
     <string name="app_features_4">• 中風後交流問題：語音輸出按鈕可以幫助病人進行基本交流。我們的目標是把這些翻譯成不同的語言，這樣世界偏遠地區缺乏醫療資源的醫生和病人都可以受益於此。</string>
-    <string name="thanks_caps">THANK YOU</string>
+    <string name="thanks_caps">感謝</string>
     <string name="dream_team">這個應用軟件的誕生離不開一個完美的團隊！</string>
     <string name="founders">創始人</string>
-    <string name="founders_name">Dr. Bhavya Rehani, Dr. Bill Dillon &amp; Dr. Ankur Bharija</string>
+    <string name="founders_name">Bhavya Rehani 醫生, Bill Dillon 醫生 &amp; Ankur Bharija 醫生</string>
     <string name="developer_ofapp">製作人</string>
     <string name="Rachel_Grau">Rachel Grau</string>
     <string name="Varun_Raj">Varun Raj</string>
@@ -34,7 +34,7 @@
     <string name="Illustrations">繪圖</string>
     <string name="illustrations_by">by Julie Kim, Bhavya Rehani, Ankur Bharija</string>
     <string name="Content_Editing">內容編輯</string>
-    <string name="Content_Editing_by">by Dr. Lilly Zhang, Isaiah Brown and Dr Bhavya Rehani</string>
+    <string name="Content_Editing_by">by Lilly Zhang 醫生, Isaiah Brown &amp; Bhavya Rehani 醫生</string>
     <string name="Movies">電影</string>
     <string name="Movies_by">by Jack McGill</string>
     <string name="advisory_board_of_app">我們的專業顧問</string>
@@ -47,15 +47,15 @@
     <string name="video">訓煉</string>
     <string name="Strengthening">強化</string>
     <string name="Legs">腿</string>
-    <string name="Toe">Toe</string>
+    <string name="Toe">腳趾</string>
     <string name="Knee">膝蓋伸展</string>
-    <string name="Hip">Hip</string>
+    <string name="Hip">臀部</string>
     <string name="Arms">手臂</string>
     <string name="Elbow">弯头</string>
     <string name="Shoulder">肩</string>
     <string name="Coordination">協調能力</string>
-    <string name="Leg_1">Leg 1</string>
-    <string name="Leg_2">Leg 2</string>
+    <string name="Leg_1">腿 1</string>
+    <string name="Leg_2">腿 2</string>
     <string name="Stretching">伸展運動</string>
     <string name="Leg_Feet">腿和腳</string>
     <string name="Adductores">內轉肌肉伸展</string>
@@ -91,7 +91,7 @@
     <string name="faq">常見問題</string>
     <string name="resource">资源</string>
 
-    <string name="signs">SIGN OF STROKE</string>
+    <string name="signs">中風徵兆</string>
 
     <string name="problem">問題</string>
     <string name="what_to_do">做什麼</string>
@@ -103,53 +103,53 @@
     <string name="befast_line10">• 說話困難。</string>
     <string name="befast_line12">• 緊急召喚救護車。</string>
 
-    <string name="blood_sugar_line1">高血糖r \u0020</string>
+    <string name="blood_sugar_line1">高血糖 \u0020</string>
     <string name="blood_sugar_line2"> 會增加患中風和心臟疾病的風險。一種叫HbA1c的血液檢驗可以告訴你最近2到3個月來的血糖控制情況。</string>
     <string name="blood_sugar_line3">美國心臟病協會建議，有前期糖尿病的患者需要把血糖濃度控制在</string>
-    <string name="blood_sugar_line4">\u0020 6%以下, </string>
-    <string name="blood_sugar_line5">\u0020 而糖尿病患者需要把血糖濃度控制在</string>
-    <string name="blood_sugar_line6">\u0020 7%以下  </string>
-    <string name="blood_sugar_line7">\u0020 for diabetic patients.</string>
+    <string name="blood_sugar_line4">\u0020 6%以下 </string>
+    <string name="blood_sugar_line5">\u0020 , 而糖尿病患者需要把血糖濃度控制在 </string>
+    <string name="blood_sugar_line6">\u0020 7%以下 </string>
+    <string name="blood_sugar_line7">\u0020 。</string>
 
     <string name="blood_pressure_line1">高血壓 \u0020</string>
     <string name="blood_pressure_line2"> 會破壞全身的動脈，導致動脈更易堵塞或者破裂，從而引起中風。</string>
-    <string name="blood_pressure_line3">對普通人群來說，60歲之後，治療高血壓，把血壓控制在低於150/90 mm Hg 可以降低中風的風險。 </string>
+    <string name="blood_pressure_line3">對普通人群來說，60歲之後，治療高血壓，把血壓控制在</string>
     <string name="blood_pressure_line4">\u0020 低於150/90 mm Hg </string>
-    <string name="blood_pressure_line5"> \u0020reduces stroke.</string>
+    <string name="blood_pressure_line5"> \u0020 可以降低中風的風險。</string>
 
-    <string name="why_quit_smoking">WHY QUIT SMOKING?</string>
-    <string name="smoking_line1">Smoking is a well established risk factor for all forms of stroke. More you smoke, higher the chance of a stroke.</string>
-    <string name="what_should_u_do">WHAT SHOULD TOU DO</string>
-    <string name="smoking_line2">Quit smoking today! you can do it! It is never too late.</string>
+    <string name="why_quit_smoking">為什麼要戒菸？</string>
+    <string name="smoking_line1">吸烟是导致各类中风的危险因素。 吸煙越多，中風的機會就越高。</string>
+    <string name="what_should_u_do">應該做什麼</string>
+    <string name="smoking_line2">今天就戒菸吧！你能办到！這絕不會太晚。</string>
 
-    <string name="heart_rate_para1">心房顫動</string>
-    <string name="heart_rate_para2">心房顫動和不規律的心跳是中風的危險因素。</string>
-    <string name="heart_rate_para3">如果你懷疑自己心跳不規律，請馬上聯系你的醫生做測試，其中包括心電圖（ECG/EKG)。在評估你之前的病歷和未來中風風險的基礎上，醫生會給你一系列藥物選擇，包括抗凝血劑，用來幫助你控制心房顫動。</string>
-    <string name="heart_rate_para4">\u0020 心電圖</string>
-    <string name="heart_rate_para5">. Based on your past medical history and your risk for having a future stroke, there are several options for medications, like</string>
+    <string name="heart_rate_para1">房顫</string>
+    <string name="heart_rate_para2">和心律不齊是中風的危險因素。</string>
+    <string name="heart_rate_para3">如果你懷疑自己心跳不規律，請馬上聯系你的醫生做測試，其中包括</string>
+    <string name="heart_rate_para4">\u0020 心電圖（ECG/EKG)。</string>
+    <string name="heart_rate_para5">在評估你之前的病歷和未來中風風險的基礎上，醫生會給你一系列藥物選擇，包括</string>
     <string name="heart_rate_para6">\u0020 抗凝血劑</string>
-    <string name="heart_rate_para7">, that will help manage AFib.</string>
+    <string name="heart_rate_para7">, 抗凝血劑，用來幫助你控制心房顫動。</string>
 
     <string name="bath_para1">病人洗澡的時候可能會有滑到的危險。</string>
-    <string name="bath_para2">• 淋浴 > 浴缸: 淋浴比浴缸更安全。 </string>
-    <string name="bath_para3">showers are safer than tubs generally. Grab bars might help make movement easier.</string>
-    <string name="bath_para4">• Bath mats: </string>
-    <string name="bath_para5">showers are safer than tubs generally. Grab bars might help make movement easier.</string>
-    <string name="bath_para6">• 請確保在你需要幫助的時候有人在身邊。可以隨身帶一個鈴鐺或者準備好其他可以求助的方式。平衡訓練可以幫助有平衡問題的病人。</string>
-    <string name="bath_para7">• Balance training can help individuals with balance problems.</string>
+    <string name="bath_para2">• 淋浴 > 浴缸:  </string>
+    <string name="bath_para3">淋浴比浴缸更安全。手握扶手可以讓身體移動的輕鬆一點。</string>
+    <string name="bath_para4">• 衛浴墊: </string>
+    <string name="bath_para5">淋浴比浴缸更安全。手握扶手可以讓身體移動的輕鬆一點。</string>
+    <string name="bath_para6">• 請確保在你需要幫助的時候有人在身邊。可以隨身帶一個鈴鐺或者準備好其他可以求助的方式。</string>
+    <string name="bath_para7">• 平衡訓練可以幫助有平衡問題的病人。</string>
 
     <string name="exercise_para1">中風患者常常沒有辦法恢復正常的身體力量和機能。</string>
-    <string name="exercise_para2">• To help with </string>
-    <string name="exercise_para3">\u0020 步態困難</string>
+    <string name="exercise_para2">• 幫助</string>
+    <string name="exercise_para3">\u0020 步態困難的</string>
     <string name="exercise_para4">: 病人需要在醫療專業人員的督導下做高強度，重復性的身體移動訓練。</string>
-    <string name="exercise_para5">• 如何防止</string>
-    <string name="exercise_para6">\u0020 跌倒 \u0020</string>
+    <string name="exercise_para5">• 幫助</string>
+    <string name="exercise_para6">\u0020易跌倒的 \u0020</string>
     <string name="exercise_para7"> 病人需要訓練平衡感。 </string>
-    <string name="exercise_para8">• 訓練 </string>
-    <string name="exercise_para9">\u0020 住院期間和早期康復階段</string>
+    <string name="exercise_para8">• 幫助 </string>
+    <string name="exercise_para9">\u0020 住院期間和早期康復階段的病人</string>
     <string name="exercise_para10">: 美國心臟病協會建議病人可以嘗試做平地走，自我照顧活動，間歇性坐或站立，坐式運動，柔韌性活動。這些活動強度需要在病人可承受範圍內，把心率增控制在每分鐘增加10–20下的範圍內，取決於醫生給你的建議。</string>
-    <string name="exercise_para11">• To help during \u0020</string>
-    <string name="exercise_para12">\u0020 住院或門診治療階段恢復性訓練治療</string>
+    <string name="exercise_para11">• 幫助 \u0020</string>
+    <string name="exercise_para12">\u0020 住院，門診治療階段或恢復性訓練治療的病人</string>
     <string name="exercise_para13">: 美國心臟病協會建議,每周2到3天，每次20到60分鐘的散步；在散步和伸展之外，還可以進行太極拳，瑜伽以及其他休閑活動。</string>
     <string name="exercise_para14">• 在做 </string>
     <string name="exercise_para15">\u0020 練習的時候請注意安全</string>
@@ -160,20 +160,20 @@
 
     <string name="diet_para1">保持一個健康的生活習慣對中風患者是非常重要的。 長時間在室內的中風患者有缺鈣和維他命D缺乏的風險。</string>
     <string name="diet_para2">最佳的飲食計劃是吃健康的不同種類的蔬菜和水果，粗糧，低脂乳製品，去皮的肉和魚，堅果和豆類。減少飽和脂肪，反式脂肪，鈉，紅肉，甜品和甜味飲料的攝入。</string>
-    <string name="diet_para3">BRUSHING</string>
-    <string name="diet_para4">Brushing teeth regularly after every meal can reduce risk of Aspiration Pneumonia.</string>
+    <string name="diet_para3">刷牙</string>
+    <string name="diet_para4">定期餐後刷牙可減少吸入性肺炎的風險。</string>
 
     <string name="bladder_bowel_para_1">有些病人可能會有尿失禁或者尿滯留的癥狀。</string>
     <string name="bladder_bowel_para_2">按照一定規律去廁所可以幫助訓練你的膀胱功能，每2–3小時尿一次可以幫助減小意外發生。</string>
     <string name="bladder_bowel_para_3">每天喝大量的液體可以讓你的身體處在一個水分充足的狀態，避免便秘。</string>
 
 
-    <string name="riskFactor1_">RISK FACTORS FOR A STROKE"</string>
-    <string name="highbloodpressure">• High blood pressure</string>
-    <string name="heart_disease">• Heart disease</string>
-    <string name="smoking">• Smoking</string>
-    <string name="Diabetes">• Diabetes</string>
-    <string name="Prior_stroke">• Prior stroke</string>
+    <string name="riskFactor1_">中風風險因素"</string>
+    <string name="highbloodpressure">• 高血壓</string>
+    <string name="heart_disease">• 心臟疾病</string>
+    <string name="smoking">• 吸煙</string>
+    <string name="Diabetes">• 糖尿病</string>
+    <string name="Prior_stroke">• 有中风史</string>
 
     <string name="faq_line1">什麼是中風?</string>
     <string name="faq_line2">中風發生的時候，運輸血液到大腦特定部分的血管被堵塞，或者負責供應大腦血液的血管破裂。這會造成那部分大腦中的細胞死亡，並且導致身體某部位或者多個部位的暫時性甚或永久性的功能喪失。</string>
@@ -197,21 +197,21 @@
     <string name="home_mod_line1">房間：</string>
     <string name="home_mod_line2">• 為了進出房間更容易，請把所有物品都移到一邊，讓門可以完全開啟；還可拓寬門的寬度; 把門的鏈條反裝，這樣門可以從外部打開。. 如果床是靠墻放置的，那就調整床的位置，讓病人比較不方便的一邊身體靠墻，這樣方便病人下床。</string>
     <string name="home_mod_line3">洗浴：</string>
-    <string name="home_mod_line4">• Bathrooms can be made more accessible to wheelchairs by widening the doorway.</string>
-    <string name="home_mod_line5">• Toilet seats can be raised to make it less challenging in getting to and from the toilet: a toilet elevator that mounts between the floor and toilet; a seat elevator that attaches to the bowl and raises the seat; installing toilet rails/grab bars to improve support for mobility.</string>
+    <string name="home_mod_line4">• 拓寬浴室門能便捷輪椅出入。</string>
+    <string name="home_mod_line5">• 可調高馬桶讓病人使用前後更輕鬆; 馬桶高度調節器增加地面到馬桶的高度; 馬桶坐墊高度調節器貼於坐墊智商增加坐墊高度; 安裝馬桶扶手提升對病人移動性的支持</string>
     <string name="home_mod_line8">常規:</string>
     <string name="home_mod_line9">• 移除地面的小塊毛毯或毛巾之類的物品，防止病人踩到摔倒。</string>
 
 
     <string name="survey">問卷</string>
-    <string name="fill_survey">FILL SURVEY</string>
-    <string name="enter_pass">Enter Password</string>
-    <string name="error_pass">Please enter the correct password..!</string>
-    <string name="survey1">Post Health Literacy Survey</string>
-    <string name="survey2">Follow Up Survey</string>
-    <string name="survey3">Usability Scale</string>
-    <string name="survey4">Pre Health Literacy Survey</string>
-    <string name="reminders">提醒</string>
+    <string name="fill_survey">填寫問卷</string>
+    <string name="enter_pass">輸入密碼</string>
+    <string name="error_pass">請輸入正確的密碼..！</string>
+    <string name="survey1">後期健康素養問卷</string>
+    <string name="survey2">跟進調查</string>
+    <string name="survey3">可用性衡量</string>
+    <string name="survey4">前期健康素養問卷</string>
+    <string name="reminders">備忘錄</string>
 
     <string name="yes">是的</string>
     <string name="no">不是</string>
@@ -236,25 +236,25 @@
     <string name="now">現在</string>
     <string name="outside">我想出門</string>
 
-    <string name="bells">Bells</string>
-    <string name="Buddha">Buddha</string>
-    <string name="Flags">Flags</string>
-    <string name="market_place1">Market place 1</string>
-    <string name="market_place2">Market place 2</string>
-    <string name="rocky">Rocky Beach</string>
+    <string name="bells">鐘聲</string>
+    <string name="Buddha">佛像</string>
+    <string name="Flags">旗幟</string>
+    <string name="market_place1">市場 1</string>
+    <string name="market_place2">市場 2</string>
+    <string name="rocky">岩石海灘</string>
 
     <string name="hms_search_placeholder">我肚餓了</string>
 
     <string name="todays_reminders">今日溫馨提示</string>
     <string name="all_reminders">所有溫馨提示</string>
     <string name="create_reminder">增加新溫馨提示</string>
-    <string name="edit_reminder">Edit Reminder</string>
-    <string name="save">Save</string>
+    <string name="edit_reminder">編輯溫馨提示</string>
+    <string name="save">保存</string>
 
     <string name="create_reminder_title_header">提醒我…</string>
     <string name="create_reminder_title_placeholder">吃藥</string>
     <string name="create_reminder_pick_time_header">現在幾點?</string>
-    <string name="create_reminder_button_text">Create Reminder</string>
+    <string name="create_reminder_button_text">新建備忘</string>
 
     <string name="daily">每日一次</string>
     <string name="weekly">每星期</string>
@@ -267,13 +267,14 @@
     <string name="friday">週五</string>
     <string name="saturday">週六</string>
 
-    <string name="delete_reminder_message">Are you sure you want to delete this reminder?</string>
-    <string name="delete_reminder_title">Delete Reminder</string>
+    <string name="delete_reminder_message">您確定要刪除此備忘?</string>
+    <string name="delete_reminder_title">刪除備忘</string>
 
-    <string name="info_title">Info</string>
+    <string name="info_title">資訊</string>
 
     <string name="pref_previously_started">previously_started</string>
-    <string name="accept">I Accept</string>
+    <string name="accept">我同意</string>
     <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
     <string name="videoText">"請每日重復做這些練習10次，如果有需要 ，可以在家人或者護理人的幫助下練習。在開始這項訓練之前，請諮詢你的醫生。"</string>
+    <string name="doctor_greeting">嗨！你今天感覺如何？</string>
 </resources>
