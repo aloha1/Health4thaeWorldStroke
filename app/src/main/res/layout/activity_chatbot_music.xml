@@ -24,15 +24,15 @@
             android:id="@+id/toolbar_title" />
     </android.support.v7.widget.Toolbar>
 
-    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    <GridView
         android:id="@+id/grid_view"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_gravity="center"
-        android:layout_margin="10dp"
         android:columnCount="3"
         android:columnWidth="100dp"
         android:gravity="center"
+        android:layout_margin="10dp"
         android:horizontalSpacing="10dp"
         android:stretchMode="spacingWidth"
         android:verticalSpacing="10dp">

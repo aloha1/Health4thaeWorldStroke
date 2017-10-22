@@ -48,9 +48,6 @@ public class music_player extends AppCompatActivity {
             mp.start();
             btn.setImageResource(R.drawable.play_on);
         }
-
-
-
     }
     @Override
     public void onBackPressed() {
