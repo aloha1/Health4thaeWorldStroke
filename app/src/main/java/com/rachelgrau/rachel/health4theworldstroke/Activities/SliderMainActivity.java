@@ -15,6 +15,7 @@ import android.util.DisplayMetrics;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -102,6 +103,11 @@ public class SliderMainActivity extends FragmentActivity {
                         setLocale("zh");
                         language = "zh";
                         break;
+                    case 7:
+                        Toast.makeText(SliderMainActivity.this, "Language:Swahili", Toast.LENGTH_SHORT).show();
+                        setLocale("sw");
+                        language = "sw";
+                        break;
                 }
             }
 
@@ -118,6 +124,7 @@ public class SliderMainActivity extends FragmentActivity {
         list.add("Filipino");
         list.add("Nepali");
         list.add("Chinese");
+        list.add("Swahili");
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, list);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -173,16 +180,13 @@ public class SliderMainActivity extends FragmentActivity {
             return NUM_PAGES;
         }
     }
-
-    public void goMain(View v) {
-
-        Intent intent = new Intent(this, MainActivity2.class);
-        startActivity(intent);
-    }
-
     @Override
     protected void onPause() {
         super.onPause();
         finish();
+    }
+    public void onPoint(View v){
+        Intent intent= new Intent(SliderMainActivity.this, MainActivity2.class);
+        startActivity(intent);
     }
 }

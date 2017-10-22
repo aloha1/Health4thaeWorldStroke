@@ -224,7 +224,7 @@
         android:onClick="onClick"
         android:id="@+id/Market_place_2_btn"
         android:src="@drawable/market2"
-        app:layout_constraintBottom_toBottomOf="@id/imageView6"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView6"
         app:layout_constraintRight_toLeftOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/text5"
         app:layout_constraintLeft_toLeftOf="@+id/guideline1" />

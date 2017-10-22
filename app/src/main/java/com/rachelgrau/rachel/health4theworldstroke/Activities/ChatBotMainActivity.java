@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import ai.api.AIListener;
 import ai.api.AIServiceException;
@@ -74,6 +75,8 @@ public class ChatBotMainActivity extends AppCompatActivity implements AIListener
                 AIRequest aiRequest = new AIRequest();
                 aiRequest.setQuery(the_msg);
 
+                check(the_msg);
+
                 if(aiRequest.equals("")) {
                     throw new IllegalArgumentException("aiRequest must be not null");
                 }
@@ -122,54 +125,60 @@ public class ChatBotMainActivity extends AppCompatActivity implements AIListener
             }
             public void onClick(View v){
 
-               // TextView option1=(TextView) findViewById(R.id.option1);
-
-                if(v.getId()== R.id.option1){
-                   // sendChatMessage(option1.getText().toString());
-                    send("Lonely?");
-                    if(option1.getText().equals("Watch 360 Videos")){
-                        Intent intent=new Intent(ChatBotMainActivity.this,VR_menu.class);
-                        startActivity(intent);
+                switch (v.getId()){
+                    case R.id.option1:
+                        send(option1.getText().toString());
+                        check(option1.getText().toString());
+                        break;
+                    case R.id.option2:
+                        send(option2.getText().toString());
+                        check(option2.getText().toString());
+                        break;
+                    case R.id.option3 :
+                        send(option3.getText().toString());
+                        check(option3.getText().toString());
+                        break;
+                    case R.id.option4 :
+                        send(option4.getText().toString());
+                        check(option4.getText().toString());
+                        break;
+                    case R.id.option5 :
+                        send(option5.getText().toString());
+                        check(option5.getText().toString());
+                        break;
+                    case R.id.option6 :
+                        send(option6.getText().toString());
+                        check(option6.getText().toString());
+                        break;
                     }
                 }
-                if(v.getId()==R.id.option2){
-                    changeText(2);
-                    if(option2.getText().equals("Listen to music")){
-                        Intent intent=new Intent(ChatBotMainActivity.this,chatbot_music.class);
-                        startActivity(intent);
-                    }
-                }
-                if(v.getId()==R.id.option3){
-                    sendChatMessage(option3.getText().toString());
-                }
-                if(v.getId()==R.id.option4){
-                    sendChatMessage(option4.getText().toString());
-                    if(option1.getText().equals("Stroke Exercise Video")){
-                        Intent intent=new Intent(ChatBotMainActivity.this,exercise.class);
-                        startActivity(intent);
-                    }
-                }
-                if(v.getId()==R.id.option5){
-                    sendChatMessage(option5.getText().toString());
-                }
-                if(v.getId()==R.id.option6){
-                    sendChatMessage(option6.getText().toString());
-                }
-            }
-
             public void changeText(int no){
                 switch(no){
                     case 2:
                         option1.setText("Watch 360 Videos");
                         option2.setText("Listen to music");
+                        option3.setVisibility(View.VISIBLE);
+                        option4.setVisibility(View.VISIBLE);
+                        option5.setVisibility(View.VISIBLE);
+                        option6.setVisibility(View.VISIBLE);
                         option3.setText("Inspiring Quotes");
                         option4.setText("Stroke Exercise Video");
                         option5.setText("Get tips to tackle this");
                         option6.setText("Exit");
+                        break;
+                    case 3:
+                        option1.setText("Yes");
+                        option2.setText("No");
+                        option3.setVisibility(View.GONE);
+                        option4.setVisibility(View.GONE);
+                        option5.setVisibility(View.GONE);
+                        option6.setVisibility(View.GONE);
+                        break;
                 }
             }
             @Override
             public void onError(AIError error) {
+                Toast.makeText(this,"Some Error.Check your internet",Toast.LENGTH_SHORT).show();
             }
             @Override
             public void onAudioLevel(float level) {
@@ -182,5 +191,37 @@ public class ChatBotMainActivity extends AppCompatActivity implements AIListener
             }
             @Override
             public void onListeningFinished() {
+            }
+            /*function to navigate to specific activity*/
+
+            public void check(String text){
+
+                switch (text){
+                    case "Lonely?":
+                        changeText(2);
+                        break;
+                    case "Watch 360 Videos":
+                        Intent intent=new Intent(ChatBotMainActivity.this,VR_menu.class);
+                        startActivity(intent);
+                        break;
+                    case "Listen to music":
+                        intent=new Intent(ChatBotMainActivity.this,chatbot_music.class);
+                        startActivity(intent);
+                        break;
+                    case "No":
+                        changeText(2);
+                        break;
+                    case "Exit":
+                        finish();
+                        break;
+                    case "Stroke Exercise Video":
+                        intent=new Intent(ChatBotMainActivity.this,exercise.class);
+                        startActivity(intent);
+                        break;
+                    case "Get tips to tackle this":
+                        changeText(3);
+                        break;
+                }
+
             }
         }
