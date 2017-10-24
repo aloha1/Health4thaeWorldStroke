@@ -52,7 +52,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activities.ChatBotMainActivity" />
-        <activity android:name=".Activities.chatbot_music" />
+        <activity android:name=".Activities.ChatBotMusic" />
         <activity android:name=".Activities.music_player"></activity>
     </application>
 
