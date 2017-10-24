@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:id="@+id/main"
+    android:background="@drawable/screen"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        style="@style/ToolBarStyle"
+        android:id="@+id/learn_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar">
+        <TextView
+            style="@style/ToolBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Relaxing Music"
+            android:textSize="25sp"
+            android:textColor="@color/colorWhite"
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_title" />
+    </android.support.v7.widget.Toolbar>
+
+    <GridView
+        android:id="@+id/grid_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:columnCount="3"
+        android:columnWidth="100dp"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="spacingWidth"
+        android:verticalSpacing="10dp">
+
+    </GridView>
+</LinearLayout>

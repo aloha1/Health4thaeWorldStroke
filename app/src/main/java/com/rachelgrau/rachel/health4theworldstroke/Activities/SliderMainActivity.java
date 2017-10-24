@@ -15,6 +15,7 @@ import android.util.DisplayMetrics;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -34,8 +35,8 @@ import java.util.Locale;
 public class SliderMainActivity extends FragmentActivity {
 
     Spinner spinner;
-    String language,lang_selected;
-    static String current_lang="";
+    String language, lang_selected;
+    static String current_lang = "";
     Locale myLocale;
     /**
      * The number of pages.
@@ -49,7 +50,7 @@ public class SliderMainActivity extends FragmentActivity {
     /**
      * The pager adapter, which provides the pages to the view pager widget.
      */
-     PagerAdapter mPagerAdapter;
+    PagerAdapter mPagerAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -97,13 +98,19 @@ public class SliderMainActivity extends FragmentActivity {
                         setLocale("ne");
                         language = "ne";
                         break;
-                     case 6:
+                    case 6:
                         Toast.makeText(SliderMainActivity.this, "语言:中文", Toast.LENGTH_SHORT).show();
                         setLocale("zh");
                         language = "zh";
                         break;
+                    case 7:
+                        Toast.makeText(SliderMainActivity.this, "Language:Swahili", Toast.LENGTH_SHORT).show();
+                        setLocale("sw");
+                        language = "sw";
+                        break;
                 }
             }
+
             @Override
             public void onNothingSelected(AdapterView<?> arg0) {
             }
@@ -117,6 +124,7 @@ public class SliderMainActivity extends FragmentActivity {
         list.add("Filipino");
         list.add("Nepali");
         list.add("Chinese");
+        list.add("Swahili");
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, list);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -135,13 +143,6 @@ public class SliderMainActivity extends FragmentActivity {
         startActivity(refresh);
     }
 
-    @Override
-    public void onBackPressed() {
-        Intent intent = new Intent(Intent.ACTION_MAIN);
-        intent.addCategory(Intent.CATEGORY_HOME);
-        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        startActivity(intent);
-    }
     /**
      * A simple pager adapter that represents 5 ScreenSlidePageFragment objects, in
      * sequence.
@@ -153,19 +154,25 @@ public class SliderMainActivity extends FragmentActivity {
 
         @Override
         public Fragment getItem(int position) {
-            if(position==0){
+            if (position == 0) {
                 return new ScreenSlidePageFragment();
-            }if(position==1){
+            }
+            if (position == 1) {
                 return new ScreenSlidePageFragment2();
-            }if(position==2){
+            }
+            if (position == 2) {
                 return new ScreenSlidePageFragment3();
-            }if(position==3){
+            }
+            if (position == 3) {
                 return new ScreenSlidePageFragment4();
-            }if(position==4){
+            }
+            if (position == 4) {
                 return new ScreenSlidePageFragment5();
-            }if(position==5){
+            }
+            if (position == 5) {
                 return new ScreenSlidePageFragment6();
-            }return new ScreenSlidePageFragment();
+            }
+            return new ScreenSlidePageFragment();
         }
 
         @Override
@@ -173,10 +180,13 @@ public class SliderMainActivity extends FragmentActivity {
             return NUM_PAGES;
         }
     }
-    public void goMain(View v){
-
-        Intent intent=new Intent(this,MainActivity2.class);
+    @Override
+    protected void onPause() {
+        super.onPause();
+        finish();
+    }
+    public void onPoint(View v){
+        Intent intent= new Intent(SliderMainActivity.this, MainActivity2.class);
         startActivity(intent);
     }
-
 }

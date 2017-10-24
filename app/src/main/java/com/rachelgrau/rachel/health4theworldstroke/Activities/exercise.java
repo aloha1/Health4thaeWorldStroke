@@ -30,57 +30,60 @@ import static com.rachelgrau.rachel.health4theworldstroke.Activities.videoPlayer
 
 public class exercise extends AppCompatActivity {
 
-    static String data="";
+    static String data = "";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercise);
         playVideo();
         setUpToolbar();
-     }
+    }
 
     private void setUpToolbar() {
         Toolbar myToolbar = (Toolbar) findViewById(R.id.learn_toolbar);
-        myToolbar.setTitle("Exercise");
+        myToolbar.setTitle("");
         Typeface font = Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf");
         TextView toolbarTitle = (TextView) myToolbar.findViewById(R.id.toolbar_title);
-        toolbarTitle.setText(R.string.home);
+        toolbarTitle.setText(R.string.exercise);
         toolbarTitle.setTypeface(font);
         setSupportActionBar(myToolbar);
     }
 
-    public void onClick(View v){
+    public void onClick(View v) {
 
-        if(v.getId()==R.id.strengthButton || v.getId()==R.id.imageView1 || v.getId()==R.id.text1){
-            Intent intent=new Intent(this,exercise_option.class);
-            intent.putExtra(option_data,getString(R.string.Strengthening));
+        if (v.getId() == R.id.strengthButton || v.getId() == R.id.imageView1 || v.getId() == R.id.text1) {
+            Intent intent = new Intent(this, exercise_option.class);
+            intent.putExtra(option_data, getString(R.string.Strengthening));
             startActivity(intent);
-        }if(v.getId()==R.id.stretchButton || v.getId()==R.id.imageView2 || v.getId()==R.id.text2){
-            Intent intent=new Intent(this,exercise_option.class);
-            intent.putExtra(option_data,getString(R.string.Stretching));
+        }
+        if (v.getId() == R.id.stretchButton || v.getId() == R.id.imageView2 || v.getId() == R.id.text2) {
+            Intent intent = new Intent(this, exercise_option.class);
+            intent.putExtra(option_data, getString(R.string.Stretching));
             startActivity(intent);
-        }if(v.getId()==R.id.functionButton || v.getId()==R.id.imageView3 || v.getId()==R.id.text3){
-            Intent intent=new Intent(this,exercise_option.class);
-            intent.putExtra(option_data,getString(R.string.Function_Mobility));
+        }
+        if (v.getId() == R.id.functionButton || v.getId() == R.id.imageView3 || v.getId() == R.id.text3) {
+            Intent intent = new Intent(this, exercise_option.class);
+            intent.putExtra(option_data, getString(R.string.Function_Mobility));
             startActivity(intent);
-        }if(v.getId()==R.id.mindButtton || v.getId()==R.id.imageView4 || v.getId()==R.id.text4){
-            Intent intent=new Intent(this,VR_menu.class);
+        }
+        if (v.getId() == R.id.mindButtton || v.getId() == R.id.imageView4 || v.getId() == R.id.text4) {
+            Intent intent = new Intent(this, VR_menu.class);
             startActivity(intent);
         }
 
     }
 
-     public void playVideo()
-     {
-         VideoView videoView=(VideoView) findViewById(R.id.videoView);
-         String path = "android.resource://" + getPackageName() + "/" + R.raw.female_doc;
-         videoView.setVideoURI(Uri.parse(path));
-         videoView.start();
-         videoView.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
-             @Override
-             public void onPrepared(MediaPlayer mp) {
-                 mp.setLooping(true);
-             }
-         });
-     }
+    public void playVideo() {
+        VideoView videoView = (VideoView) findViewById(R.id.videoView);
+        String path = "android.resource://" + getPackageName() + "/" + R.raw.female_doc;
+        videoView.setVideoURI(Uri.parse(path));
+        videoView.start();
+        videoView.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
+            @Override
+            public void onPrepared(MediaPlayer mp) {
+                mp.setLooping(true);
+            }
+        });
     }
+}
