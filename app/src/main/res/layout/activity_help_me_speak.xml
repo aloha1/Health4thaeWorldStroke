@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.HelpMeSpeakActivity">
+
+    <!--Toolbar-->
+    <android.support.v7.widget.Toolbar
+        style="@style/ToolBarStyle"
+        android:id="@+id/help_me_speak_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        tools:layout_editor_absoluteX="8dp" >
+
+        <TextView
+            android:theme="@style/ToolBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/help_me_speak"
+            android:textSize="25sp"
+            android:textColor="@color/colorWhite"
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_title" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <!--Search bar-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@id/help_me_speak_toolbar"
+        android:id="@+id/search_bar"
+        android:background="@color/colorWhite">
+        <EditText
+            android:theme="@style/AppTheme"
+            android:id="@+id/search_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:hint="@string/hms_search_placeholder"
+            android:textColorHint="@color/medGray"
+            android:paddingLeft="20dp"
+            android:textSize="25sp"
+            android:textColor="@color/red"
+            android:gravity="center_vertical"
+            android:background="@android:color/transparent"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/medGray"
+            android:layout_marginTop="54dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="40dp"
+            />
+        <ImageButton
+            android:id="@+id/search_button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="5dp"
+            android:src="@mipmap/search_icon"
+            android:scaleType="fitXY"
+            android:layout_alignParentRight="true"
+            android:background="?android:attr/selectableItemBackground"/>
+    </RelativeLayout>
+
+    <!--Grid of Help Me Speak Buttons-->
+    <GridView
+        android:id="@+id/grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/search_bar"
+        android:paddingTop="10dp"
+        android:columnWidth="100dp"
+        android:gravity="center"
+        android:numColumns="auto_fit"
+        android:stretchMode="spacingWidthUniform"
+        android:verticalSpacing="10dp"
+        android:background="@color/gray"
+        />
+
+</RelativeLayout>

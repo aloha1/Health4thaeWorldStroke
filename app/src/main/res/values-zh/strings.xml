@@ -1,0 +1,280 @@
+<resources>
+    <string name="app_name">Health 4 The World Stroke</string>
+    <string name="lauch_text1">\"做好今天的自己是為明天的到來所做最好的準備.\"</string>
+    <string name="author1">-H.jackson Brown, Jr</string>
+    <string name="launch_text2">\"相信自己就是成功的一半。\"</string>
+    <string name="author2">-Theodore Roosevelt</string>
+    <string name="launch_text3">\"沒有什麽事情是不可能的，這個世界到處都是可能性!\"</string>
+    <string name="author3">-Audrey Hepburn</string>
+    <string name="launch_text4">\"只有我自己可以掌控自己的命運。\"</string>
+    <string name="author4">-Carol Burnett</string>
+    <string name="launch_text5">\"做最好的自己，現在的耕耘會帶來日後的收獲。\"</string>
+    <string name="author5">-Og Mandino</string>
+    <string name="launch_text6">\"積極樂觀的態度會帶給你成功，若對未來失去了希望和信心，你將不能完成任何事情。\"</string>
+    <string name="author6">-Helen Keller</string>
+    <string name="home">主界面</string>
+    <string name="general_info">概況介紹</string>
+    <string name="mobile_intro">關於這個app</string>
+    <string name="para_1">"HEALTH4THEWORLD 中風者的希望軟體是一款免費使用的教育工具軟件，介紹中風風險因素，二級預防，中風後康復訓練等基本知識和策略。 是由非營利組織 Health4TheWorld設計的，旨在改善世界性的醫療資源短缺情況。這家組織的使命是通過技術創新解決世界各地健康資源不平等的問題，希望世界上每一個角落的人都有健康的身體，能綻放出笑容。請在我們的網站上關注我們，了解更多信息： health4theworld.org."</string>
+    <string name="para_2">根據世界衛生組織估計，根據世界衛生組織估計，有1690萬人發病和3300萬人有患者，中風是心血管疾病中最主要的一種，並且很容易導致長期的殘疾狀態。 中低收入國家在世界範圍內承擔了與他們經濟能力不相稱的中風相關負擔。激勵我們擴大全球健康教育宣傳。我們希望這款中風科普軟件能夠幫到你。</string>
+    <string name="app_features">我們希望你能覺得這款軟件的壹系列功能對你有用！</string>
+    <string name="app_features_1">• 中風教育內容 - 告訴你關於於中風起因和高危因素的信息，教育指南來自美國中風協會，美國心臟協會，實證論文以及其他健康保健方面的內容。妳需要記住這些建議小貼士不等同於臨床治療。 病人和醫生應該一同協商研究，研究具體的個性化的中風預防方案。</string>
+    <string name="app_features_2">• 中風康復的動畫視頻和訓練建議- 康復訓練的內容均由來自斯坦福，加州大學，北加州舊金山大學的健康領域專家制定。這些是常規的練習，並不是醫療建議。這些必須與醫生配合使用，正確的使用方式才能發揮最大作用。病人使用的時候身邊必須有一個可以隨時提供幫助的護理人員。內容被劃分為強化，伸展以及功能靈活性練習。請指導你的病人以正確的動作，正確的頻率和方法來使用這些練習。</string>
+    <string name="app_features_3">• 吃藥和就診預約提醒：按時吃藥和就診非常重要，希望這個功能可以有幫助病人按時吃藥和就診。如果有可能，請為妳的 病人設設置好提醒時間。</string>
+    <string name="app_features_4">• 中風後交流問題：語音輸出按鈕可以幫助病人進行基本交流。我們的目標是把這些翻譯成不同的語言，這樣世界偏遠地區缺乏醫療資源的醫生和病人都可以受益於此。</string>
+    <string name="thanks_caps">感謝</string>
+    <string name="dream_team">這個應用軟件的誕生離不開一個完美的團隊！</string>
+    <string name="founders">創始人</string>
+    <string name="founders_name">Bhavya Rehani 醫生, Bill Dillon 醫生 &amp; Ankur Bharija 醫生</string>
+    <string name="developer_ofapp">製作人</string>
+    <string name="Rachel_Grau">Rachel Grau</string>
+    <string name="Varun_Raj">Varun Raj</string>
+    <string name="Animations">動畫</string>
+    <string name="Animator_name">by Ernesto Aguilar</string>
+    <string name="Illustrations">繪圖</string>
+    <string name="illustrations_by">by Julie Kim, Bhavya Rehani, Ankur Bharija</string>
+    <string name="Content_Editing">內容編輯</string>
+    <string name="Content_Editing_by">by Lilly Zhang 醫生, Isaiah Brown &amp; Bhavya Rehani 醫生</string>
+    <string name="Movies">電影</string>
+    <string name="Movies_by">by Jack McGill</string>
+    <string name="advisory_board_of_app">我們的專業顧問</string>
+    <string name="advisory_board_of_app_1">Marc Fisher博士:  Fisher醫生是“中風”雜誌的主編，哈佛醫學院BIDMC中風服務中心的高級醫師。他在領域里非常著名，發表過250篇論文，並且編寫或合作編寫過13本書籍。</string>
+    <string name="advisory_board_of_app_2">Jeffrey Teraoke博士: Teraoke博士 is Chief, PM &amp;R at 帕罗奥托医药中心P. 他也是医药复健中心和帕罗奥托健康系统的项目主管。</string>
+    <string name="advisory_board_of_app_3">Dr. Erica A Pitsch, 物理治療師, MPT, 臨床博士，DPT, NCS: Health Science Assistant Clinical Professor, UCSF. Dr. Pitsch 專職神經科治療，他的多種治療方式均側重於提高神經性疾病的病人的正常身體機能的恢復。</string>
+    <string name="advisory_board_of_app_4">Loren Ward, PT, 臨床博士，執照物理治療師，她從2007年就開始了理療事業，同時在麻省的MGH機構獲得了博士學位。她曾在芝加哥復健中心， Spaulding 復健中心和國家復健中心醫院實習，現就職于斯坦福的退伍軍人事務系統。 Loren希望幫助她的病人擁有獨立的生活能力，不管他們的身體機能因為疾病收到多大的限制。</string>
+    <string name="advisory_board_of_app_5">Rose Hamm, PT, 臨床博士，CWS, FACCWS: Rose 在北卡教堂山大學獲得了她的學士學位，在南加州大學分別獲得碩士和博後學位，她現在是南加州大學臨床理療的講師，並且在南加大的Keck醫院工作。</string>
+    <string name="help_me_speak">我要說話</string>
+    <string name="video">訓煉</string>
+    <string name="Strengthening">強化</string>
+    <string name="Legs">腿</string>
+    <string name="Toe">腳趾</string>
+    <string name="Knee">膝蓋伸展</string>
+    <string name="Hip">臀部</string>
+    <string name="Arms">手臂</string>
+    <string name="Elbow">弯头</string>
+    <string name="Shoulder">肩</string>
+    <string name="Coordination">協調能力</string>
+    <string name="Leg_1">腿 1</string>
+    <string name="Leg_2">腿 2</string>
+    <string name="Stretching">伸展運動</string>
+    <string name="Leg_Feet">腿和腳</string>
+    <string name="Adductores">內轉肌肉伸展</string>
+    <string name="Adductors_text">做這個練習的時候，你可以躺下，或者坐在一把平稳的椅子上。背靠在平面上，重複3次。</string>
+    <string name="Hamstrings">腿后腱伸展</string>
+    <string name="Hamstrings_text">做這個練習的時候，你可以躺下或者坐在一把平穩的椅子上。躺下，先彎曲你的膝蓋，然後向上方伸直你的膝蓋保持30秒。</string>
+    <string name="Dorsiflexors">踝關節內翻伸展</string>
+    <string name="Dorsiflexors_text">做這個練習的時候，你可以躺下或者坐在一把平穩的椅子上。向上抬起你的腿，使你的腿盡量靠近身體，停留30秒。重複三次</string>
+    <string name="Arms_Hands">手臂和手掌</string>
+    <string name="Hand_Stretch">手掌伸展</string>
+    <string name="Hand_Stretch_text">病人側躺，受影響的那一側面向上，手臂放在臀部上。手肘托住病人臀部，用你的另一隻手扳動病人手腕，使手腕向後遠離腹部。再把手腕放回原處。一隻手托住手腕，另一隻手打開病人的手指。當手腕抬起遠離腹部的同時，打開病人手指。這個拉伸時間停留30秒，重複三次</string>
+    <string name="Shoulder_Stretches">肩膀伸展</string>
+    <string name="Shoulder_Stretches_text">病人側躺，把受影響的手臂放在臀部上。將病人肩膀抬起，使之靠近耳朵方向舉起，然後再輕輕的慢慢的放回起始點。</string>
+    <string name="Arm_Stretch">手臂伸展</string>
+    <string name="Arm_Stretch_text">病人側躺，把受影響的手臂放在臀部上。輕輕的把病人下手臂向腿部方向移動，停留30秒，重複三次。確保你穩住了病人肩膀，使之不會前傾。</string>
+    <string name="Function_Mobility">功能靈活性練習</string>
+    <string name="Bridge_hip">臀橋練習</string>
+    <string name="Arm_trunk">手臂伸展</string>
+    <string name="Sittostand">坐轉立訓練</string>
+    <string name="Mind_exercise">正念練習</string>
+    <string name="learn">學習</string>
+    <string name="topic">话题:</string>
+    <string name="RISK_FACTOR">风险因素</string>
+    <string name="blood_pressure">血壓</string>
+    <string name="heart_rate">心跳</string>
+    <string name="smoking_">吸煙</string>
+    <string name="blood_sugar">血糖</string>
+    <string name="exercise">訓煉</string>
+    <string name="Diet">飲食</string>
+    <string name="shower">洗澡</string>
+    <string name="bladder">膀胱/腸道</string>
+    <string name="home_mod">改善家居環境</string>
+    <string name="faq">常見問題</string>
+    <string name="resource">资源</string>
+
+    <string name="signs">中風徵兆</string>
+
+    <string name="problem">問題</string>
+    <string name="what_to_do">做什麼</string>
+
+    <string name="befast_line2">• 平衡：突然失去平衡.</string>
+    <string name="befast_line4">• 眼睛：一隻眼睛或者雙眼忽然失明。</string>
+    <string name="befast_line6">• 當被要求微笑的時候，半邊臉僵硬.</string>
+    <string name="befast_line8">• 手臂無力；不能舉起手臂或者保持手臂平舉狀態。</string>
+    <string name="befast_line10">• 說話困難。</string>
+    <string name="befast_line12">• 緊急召喚救護車。</string>
+
+    <string name="blood_sugar_line1">高血糖 \u0020</string>
+    <string name="blood_sugar_line2"> 會增加患中風和心臟疾病的風險。一種叫HbA1c的血液檢驗可以告訴你最近2到3個月來的血糖控制情況。</string>
+    <string name="blood_sugar_line3">美國心臟病協會建議，有前期糖尿病的患者需要把血糖濃度控制在</string>
+    <string name="blood_sugar_line4">\u0020 6%以下 </string>
+    <string name="blood_sugar_line5">\u0020 , 而糖尿病患者需要把血糖濃度控制在 </string>
+    <string name="blood_sugar_line6">\u0020 7%以下 </string>
+    <string name="blood_sugar_line7">\u0020 。</string>
+
+    <string name="blood_pressure_line1">高血壓 \u0020</string>
+    <string name="blood_pressure_line2"> 會破壞全身的動脈，導致動脈更易堵塞或者破裂，從而引起中風。</string>
+    <string name="blood_pressure_line3">對普通人群來說，60歲之後，治療高血壓，把血壓控制在</string>
+    <string name="blood_pressure_line4">\u0020 低於150/90 mm Hg </string>
+    <string name="blood_pressure_line5"> \u0020 可以降低中風的風險。</string>
+
+    <string name="why_quit_smoking">為什麼要戒菸？</string>
+    <string name="smoking_line1">吸烟是导致各类中风的危险因素。 吸煙越多，中風的機會就越高。</string>
+    <string name="what_should_u_do">應該做什麼</string>
+    <string name="smoking_line2">今天就戒菸吧！你能办到！這絕不會太晚。</string>
+
+    <string name="heart_rate_para1">房顫</string>
+    <string name="heart_rate_para2">和心律不齊是中風的危險因素。</string>
+    <string name="heart_rate_para3">如果你懷疑自己心跳不規律，請馬上聯系你的醫生做測試，其中包括</string>
+    <string name="heart_rate_para4">\u0020 心電圖（ECG/EKG)。</string>
+    <string name="heart_rate_para5">在評估你之前的病歷和未來中風風險的基礎上，醫生會給你一系列藥物選擇，包括</string>
+    <string name="heart_rate_para6">\u0020 抗凝血劑</string>
+    <string name="heart_rate_para7">, 抗凝血劑，用來幫助你控制心房顫動。</string>
+
+    <string name="bath_para1">病人洗澡的時候可能會有滑到的危險。</string>
+    <string name="bath_para2">• 淋浴 > 浴缸:  </string>
+    <string name="bath_para3">淋浴比浴缸更安全。手握扶手可以讓身體移動的輕鬆一點。</string>
+    <string name="bath_para4">• 衛浴墊: </string>
+    <string name="bath_para5">淋浴比浴缸更安全。手握扶手可以讓身體移動的輕鬆一點。</string>
+    <string name="bath_para6">• 請確保在你需要幫助的時候有人在身邊。可以隨身帶一個鈴鐺或者準備好其他可以求助的方式。</string>
+    <string name="bath_para7">• 平衡訓練可以幫助有平衡問題的病人。</string>
+
+    <string name="exercise_para1">中風患者常常沒有辦法恢復正常的身體力量和機能。</string>
+    <string name="exercise_para2">• 幫助</string>
+    <string name="exercise_para3">\u0020 步態困難的</string>
+    <string name="exercise_para4">: 病人需要在醫療專業人員的督導下做高強度，重復性的身體移動訓練。</string>
+    <string name="exercise_para5">• 幫助</string>
+    <string name="exercise_para6">\u0020易跌倒的 \u0020</string>
+    <string name="exercise_para7"> 病人需要訓練平衡感。 </string>
+    <string name="exercise_para8">• 幫助 </string>
+    <string name="exercise_para9">\u0020 住院期間和早期康復階段的病人</string>
+    <string name="exercise_para10">: 美國心臟病協會建議病人可以嘗試做平地走，自我照顧活動，間歇性坐或站立，坐式運動，柔韌性活動。這些活動強度需要在病人可承受範圍內，把心率增控制在每分鐘增加10–20下的範圍內，取決於醫生給你的建議。</string>
+    <string name="exercise_para11">• 幫助 \u0020</string>
+    <string name="exercise_para12">\u0020 住院，門診治療階段或恢復性訓練治療的病人</string>
+    <string name="exercise_para13">: 美國心臟病協會建議,每周2到3天，每次20到60分鐘的散步；在散步和伸展之外，還可以進行太極拳，瑜伽以及其他休閑活動。</string>
+    <string name="exercise_para14">• 在做 </string>
+    <string name="exercise_para15">\u0020 練習的時候請注意安全</string>
+    <string name="exercise_para16">: 步行時可以借助輔助工具，並且在有人監察的情況下進行。</string>
+    <string name="exercise_para17">• 保持 </string>
+    <string name="exercise_para18">\u0020 身體健康</string>
+    <string name="exercise_para19">: 諮詢你的醫生為你製定你喜歡的活動，以確定哪些活動是你能做的，哪些是不能做的。</string>
+
+    <string name="diet_para1">保持一個健康的生活習慣對中風患者是非常重要的。 長時間在室內的中風患者有缺鈣和維他命D缺乏的風險。</string>
+    <string name="diet_para2">最佳的飲食計劃是吃健康的不同種類的蔬菜和水果，粗糧，低脂乳製品，去皮的肉和魚，堅果和豆類。減少飽和脂肪，反式脂肪，鈉，紅肉，甜品和甜味飲料的攝入。</string>
+    <string name="diet_para3">刷牙</string>
+    <string name="diet_para4">定期餐後刷牙可減少吸入性肺炎的風險。</string>
+
+    <string name="bladder_bowel_para_1">有些病人可能會有尿失禁或者尿滯留的癥狀。</string>
+    <string name="bladder_bowel_para_2">按照一定規律去廁所可以幫助訓練你的膀胱功能，每2–3小時尿一次可以幫助減小意外發生。</string>
+    <string name="bladder_bowel_para_3">每天喝大量的液體可以讓你的身體處在一個水分充足的狀態，避免便秘。</string>
+
+
+    <string name="riskFactor1_">中風風險因素"</string>
+    <string name="highbloodpressure">• 高血壓</string>
+    <string name="heart_disease">• 心臟疾病</string>
+    <string name="smoking">• 吸煙</string>
+    <string name="Diabetes">• 糖尿病</string>
+    <string name="Prior_stroke">• 有中风史</string>
+
+    <string name="faq_line1">什麼是中風?</string>
+    <string name="faq_line2">中風發生的時候，運輸血液到大腦特定部分的血管被堵塞，或者負責供應大腦血液的血管破裂。這會造成那部分大腦中的細胞死亡，並且導致身體某部位或者多個部位的暫時性甚或永久性的功能喪失。</string>
+    <string name="faq_line11">當你知道有人中風的時候，你應該怎麽做?</string>
+    <string name="faq_line12">馬上打電話給專業醫療人員尋求協助。</string>
+    <string name="faq_line13">為什麼你需要盡快求助?</string>
+    <string name="faq_line14">第一時間得到治療會降低中風病人的殘疾程度，甚至死亡的風險。</string>
+
+    <string name="resource_line1">2014 Evidence–Based Guideline for the Management of High Blood Pressure in Adults. 2014 JAMA. http://jamanetwork.com/journals/jama/fullarticle/1791497 (Accessed 2016–11–22).</string>
+    <string name="resource_line2">American Heart Association. Know your health numbers. http://www.heart.org/HEARTORG/Conditions/More/Diabetes/PreventionTreatofDiabetes/Know-Your-HealthNumbers_UCM_313882_Article.jsp#.WC0TE_k (Accessed Nov 16, 2016).</string>
+    <string name="resource_line3">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/744</string>
+    <string name="resource_line4">Billinger SA et al. Physical activity and exercise recommendations for stroke survivors: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2014;45:2532–2553.</string>
+    <string name="resource_line5">American Stroke Association. Life after stroke - Nutrition Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/HealthyLivingAfterStroke/Nutrition/Nutrition-Tips-for-Stroke-Survivors_UCM_308569_SubHomePage.jsp (Accessed Nov 16, 2016)</string>
+    <string name="resource_line6">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/74"</string>
+    <string name="resource_line7">American Stroke Association. Life after stroke - Bathing Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/RegainingIndependence/TipsForDailyLiving/Bathing-Tips-for-Stroke-Survivors_UCM_310105_Article.jsp#.WC0JYvkrLBU (Accessed Nov 16, 2016)</string>
+    <string name="resource_line8">National Stroke Association. Recovery after stroke: bladder and bowel function. http://www.stroke.org/sites/default/files/resources/NSAFactSheet_BowelandBladder_2014.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line9">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. The Bathroom: Modify the room to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463096.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line10">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. Modifications: Modify your bedroom to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463057.pdf (Accessed Nov 16, 2016)</string>
+
+    <string name="home_mod_line0">由於病人已經有了一些行動上的不便，所以適當的家居佈置對病人的安全是非常重要的。</string>
+    <string name="home_mod_line1">房間：</string>
+    <string name="home_mod_line2">• 為了進出房間更容易，請把所有物品都移到一邊，讓門可以完全開啟；還可拓寬門的寬度; 把門的鏈條反裝，這樣門可以從外部打開。. 如果床是靠墻放置的，那就調整床的位置，讓病人比較不方便的一邊身體靠墻，這樣方便病人下床。</string>
+    <string name="home_mod_line3">洗浴：</string>
+    <string name="home_mod_line4">• 拓寬浴室門能便捷輪椅出入。</string>
+    <string name="home_mod_line5">• 可調高馬桶讓病人使用前後更輕鬆; 馬桶高度調節器增加地面到馬桶的高度; 馬桶坐墊高度調節器貼於坐墊智商增加坐墊高度; 安裝馬桶扶手提升對病人移動性的支持</string>
+    <string name="home_mod_line8">常規:</string>
+    <string name="home_mod_line9">• 移除地面的小塊毛毯或毛巾之類的物品，防止病人踩到摔倒。</string>
+
+
+    <string name="survey">問卷</string>
+    <string name="fill_survey">填寫問卷</string>
+    <string name="enter_pass">輸入密碼</string>
+    <string name="error_pass">請輸入正確的密碼..！</string>
+    <string name="survey1">後期健康素養問卷</string>
+    <string name="survey2">跟進調查</string>
+    <string name="survey3">可用性衡量</string>
+    <string name="survey4">前期健康素養問卷</string>
+    <string name="reminders">備忘錄</string>
+
+    <string name="yes">是的</string>
+    <string name="no">不是</string>
+    <string name="thanks">謝謝</string>
+    <string name="bathroom">我想上廁所</string>
+    <string name="water">我想喝水</string>
+    <string name="hungry">我肚餓了</string>
+    <string name="notgivingup">我不想放棄</string>
+    <string name="pain">我感到疼痛</string>
+    <string name="cantspeak">對不起，我沒辦法說話</string>
+    <string name="ambulance">我需要叫救護車</string>
+    <string name="bed">我想上床睡覺</string>
+    <string name="bed1">我想起床</string>
+    <string name="clock">少許</string>
+    <string name="cold">我感到很冷</string>
+    <string name="dizzy">我有点暈眩</string>
+    <string name="hi">你好</string>
+    <string name="hot">我感到很熱</string>
+    <string name="howareyou">你好嗎</string>
+    <string name="lightsOff">請關燈"</string>
+    <string name="lightson">請開燈</string>
+    <string name="now">現在</string>
+    <string name="outside">我想出門</string>
+
+    <string name="bells">鐘聲</string>
+    <string name="Buddha">佛像</string>
+    <string name="Flags">旗幟</string>
+    <string name="market_place1">市場 1</string>
+    <string name="market_place2">市場 2</string>
+    <string name="rocky">岩石海灘</string>
+
+    <string name="hms_search_placeholder">我肚餓了</string>
+
+    <string name="todays_reminders">今日溫馨提示</string>
+    <string name="all_reminders">所有溫馨提示</string>
+    <string name="create_reminder">增加新溫馨提示</string>
+    <string name="edit_reminder">編輯溫馨提示</string>
+    <string name="save">保存</string>
+
+    <string name="create_reminder_title_header">提醒我…</string>
+    <string name="create_reminder_title_placeholder">吃藥</string>
+    <string name="create_reminder_pick_time_header">現在幾點?</string>
+    <string name="create_reminder_button_text">新建備忘</string>
+
+    <string name="daily">每日一次</string>
+    <string name="weekly">每星期</string>
+    <string name="custom">待定</string>
+    <string name="sunday">週日</string>
+    <string name="monday">週一</string>
+    <string name="tuesday">週二</string>
+    <string name="wednesday">週三</string>
+    <string name="thursday">週四</string>
+    <string name="friday">週五</string>
+    <string name="saturday">週六</string>
+
+    <string name="delete_reminder_message">您確定要刪除此備忘?</string>
+    <string name="delete_reminder_title">刪除備忘</string>
+
+    <string name="info_title">資訊</string>
+
+    <string name="pref_previously_started">previously_started</string>
+    <string name="accept">我同意</string>
+    <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
+    <string name="videoText">"請每日重復做這些練習10次，如果有需要 ，可以在家人或者護理人的幫助下練習。在開始這項訓練之前，請諮詢你的醫生。"</string>
+    <string name="doctor_greeting">嗨！你今天感覺如何？</string>
+</resources>

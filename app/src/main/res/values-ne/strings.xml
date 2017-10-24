@@ -1,0 +1,280 @@
+<resources>
+    <string name="app_name">Health 4 The World Stroke</string>
+    <string name="lauch_text1">\"भोलिको लागि सबैभन्दा राम्रो तयारी आज तपाइँको सबैभन्दा उत्तम गर्दैछ।\"</string>
+    <string name="author1">-एच। जैक्सन ब्राउन, जूनियर</string>
+    <string name="launch_text2">\"विश्वास गर्न सक्नुहुन्छ र तपाईं त्यहाँ आधा बाटो हुनुहुन्छ।\"</string>
+    <string name="author2">-थिओडोर रोस्वेल्ट</string>
+    <string name="launch_text3">\"केहि पनि असंभव छैन, शब्दले आफैलाई भन्छ \'म सम्भव छ\'!"</string>
+    <string name="author3">-अड्रे हेपबर्न</string>
+    <string name="launch_text4">\"केवल म आफ्नो जीवन परिवर्तन गर्न सक्छु। कसैले यो मेरो लागि गर्न सक्दैन।\"</string>
+    <string name="author4">-क्यारोल बर्नेट</string>
+    <string name="launch_text5">\"सधै तपाईंको उत्तम तपाईले अहिले रोप्ने पछि पछि कटाउनेछ।\"</string>
+    <string name="author5">-अनि मेन्डेडो</string>
+    <string name="launch_text6">\"अनुकूलता यो विश्वास हो जसले उपलब्धिको लागि जान्छ। आशा र भरोसा बिना केहि गर्न सकिँदैन।\"</string>
+    <string name="author6">-हेलेन केलर</string>
+    <string name="home">घर</string>
+    <string name="general_info">सामान्य जानकारी</string>
+    <string name="mobile_intro">Mobile App Introduction</string>
+    <string name="para_1">"The HEALTH4THEWORLD STROKE HOPE APP is a free of cost educational tool to spread knowledge about stroke risk factors, secondary prevention, post stroke mobility &amp; exercise education and speech strategies.  It has been created by Health4TheWorld which is a non profit organization inspired by the unmet medical needs worldwide. The mission of the organization is solving health inequities through innovation &amp; technology and bringing smiles around the world. Please learn more about us at health4theworld.org."</string>
+    <string name="para_2">With an estimated incidence of 16.9 million and a prevalence of 33 million according to the World Health Organization, stroke is a dominant diseased entity in the category of cardiovascular diseases, and is a leading cause of serious long-term disability. The global burden of stroke falls disproportionately on low and middle-income countries, prompting us to improve global health educational outreach. We hope that this stroke educational app will be helpful.</string>
+    <string name="app_features">The app has several features that we hope you will find useful!</string>
+    <string name="app_features_1">• Stroke Educational Content – Information on causes and risk factors of stroke with guidelines from the American Stroke Association, American Heart Association, evidence based articles and other healthcare sources. It is good to remember that these are general educational tips and not recommendations for clinical care. Both the patient and trained health professionals should sit together to work on a personalized prevention regimen for stroke.</string>
+    <string name="app_features_2">• Video Animation and Exercise Tips for Stroke Recovery –Education for exercise and rehabilitation after stroke has been summarized by Physical Medicine and Rehabilitation experts from Stanford, University of California, San Francisco and University of Southern California. The exercises here are general and are intended to serve as educational guide not as medical advice.  These should be done with an occupational therapist and/or physical therapist, which can help with the correct technique and designing a regimen that will benefit a stroke patient best. A caregiver should always be present to help. These are divided into strengthening, stretching and functional mobility. Please advise your patients about the correct technique, frequency and regimen of these exercises.</string>
+    <string name="app_features_3">• Reminders for Medications and Appointments: Medication and Appointment compliance is a major issue and this tool is hopefully helpful!  Please set reminders for your patients if possible.</string>
+    <string name="app_features_4">• Speech Strategies After Stroke: The press button voice output can help with very basic communication. The aim is to translate these to different languages so health professions and patients in remote parts of the world who lack health access can benefit from these.</string>
+    <string name="thanks_caps">THANK YOU</string>
+    <string name="dream_team">This application wouldn’t have been possible without work of a dream team!</string>
+    <string name="founders">Founders</string>
+    <string name="founders_name">Dr. Bhavya Rehani, Dr. Bill Dillon &amp; Dr. Ankur Bharija</string>
+    <string name="developer_ofapp">Software engineer and developer of the app</string>
+    <string name="Rachel_Grau">Rachel Grau</string>
+    <string name="Varun_Raj">Varun Raj</string>
+    <string name="Animations">Animations</string>
+    <string name="Animator_name">by Ernesto Aguilar</string>
+    <string name="Illustrations">Illustrations</string>
+    <string name="illustrations_by">by Julie Kim, Bhavya Rehani, Ankur Bharija</string>
+    <string name="Content_Editing">Content Editing</string>
+    <string name="Content_Editing_by">by Dr. Lilly Zhang, Isaiah Brown and Dr Bhavya Rehani</string>
+    <string name="Movies">Movies</string>
+    <string name="Movies_by">by Jack McGill</string>
+    <string name="advisory_board_of_app">Medical Advisory Board for the App</string>
+    <string name="advisory_board_of_app_1">Dr. Marc Fisher:  Dr Fisher currently serves as editor-in-chief of Stroke and Senior Physician on the Stroke Service at BIDMC, Harvard Medical School. He is well renowned and has published extensively over 260 peer-reviewed articles and has edited or co-edited 13 books.</string>
+    <string name="advisory_board_of_app_2">Dr. Jeffrey Teraoke: Dr. Teraoke is Chief, PM &amp;R at Palo Alto VA Medical Center. He is the program director of PM&amp;R Residency Program and Director, Polytrauma, VA Palo Alto Health System</string>
+    <string name="advisory_board_of_app_3">Dr. Erica A Pitsch, PT, MPT, DPT, NCS: Health Science Assistant Clinical Professor, UCSF. Dr. Pitsch specializes in neurologic physical therapy and uses several treatment strategies and approaches, all focused on promoting optimal challenge, function, and recovery in persons with neurologic illness</string>
+    <string name="advisory_board_of_app_4">Loren Ward, PT, DPT is licensed Physical Therapist who began her career in Physical Therapy in 2007, while earning her Doctorate at MGH Institute of Health Professions in Massachusetts. She did internships at Rehabilitation of Chicago, Spaulding Rehabilitation and National Rehabilitation Hospital and now works at Stanford Veteran’s Affairs System. Loren is an advocate of functional independence and strives to help her patients reach their own level of independence regardless of their limitations.</string>
+    <string name="advisory_board_of_app_5">Rose Hamm, PT, DPT, CWS, FACCWS: Rose received a BS in Physical Therapy from the University of North Carolina, Chapel Hill, and an MS and post-graduate DPT from the University of Southern California.  She is currently Adjunct Assistant Professor of Clinical Physical Therapy at the University of Southern California and practices at Keck Hospital at USC.</string>
+    <string name="help_me_speak">मलाई बोल्नुहोस्</string>
+    <string name="video">व्यायाम गर्नुहोस्</string>
+    <string name="Strengthening">बलियो बनाउने</string>
+    <string name="Legs">खुट्टा</string>
+    <string name="Toe">पैर फ्लेक्सियन</string>
+    <string name="Knee">घुटने फ्लेक्सियन</string>
+    <string name="Hip">हिप फ्लेक्सन</string>
+    <string name="Arms">हात</string>
+    <string name="Elbow">कोहिन फ्लेक्सन</string>
+    <string name="Shoulder">क्यान्सर फ्लेक्सन</string>
+    <string name="Coordination">सङ्गठन</string>
+    <string name="Leg_1">पैदल नियंत्रण 1</string>
+    <string name="Leg_2">पैदल नियंत्रण 2</string>
+    <string name="Stretching">पछाडि</string>
+    <string name="Leg_Feet">पैर र फीट</string>
+    <string name="Adductores">विज्ञापन</string>
+    <string name="Adductors_text">तपाईं यो व्यायाम एक स्थिर कुर्सीमा तल बस्न वा बस्न सक्नुहुन्छ। तपाईंको पछाडि बिरोध, प्रभावित प्यानललाई 30 सेकेन्ड र पछाडिको लागि साइड आउट गर्नुहोस् 3 गुणा दोहोर्याउनुहोस्"</string>
+    <string name="Hamstrings">हम्स्त्रिन्ग्स</string>
+    <string name="Hamstrings_text">तपाईं यो व्यायाम एक स्थिर कुर्सीमा तल बस्न वा बस्न सक्नुहुन्छ। आफ्नो घुटने बांधेर साथ तपाईंको पछाडि तल झर्नुहोस् र 30 सेकेन्डसम्म आकाश तिर घुँडा घुमाउनुहोस्।</string>
+    <string name="Dorsiflexors">डोर्सिफ़्लेक्षोर्स</string>
+    <string name="Dorsiflexors_text">तपाईं यो व्यायाम एक स्थिर कुर्सीमा तल बस्न वा बस्न सक्नुहुन्छ। तुरुन्तै खुट्टा तिर माथि उठाउनुहोस् र 30 सेकेन्डको लागि समात्नुहोस्। 3 पटक दोहोर्याउनुहोस्।</string>
+    <string name="Arms_Hands">Arms &amp; Hands</string>
+    <string name="Hand_Stretch">ह्यान्ड स्ट्रिच</string>
+    <string name="Hand_Stretch_text">Side lying with the involved side up and arm resting on the hip. Support the elbow on the hip but use your other hand to move the wrist up and away from the stomach. Bring the wrist back to its resting position. Support the wrist with one hand and try to open the fingers with the other hand. Progress to trying to open the hand when the wrist is moved up and away from the stomach. Hold the stretch for 30 seconds. Repeat 3 times.</string>
+    <string name="Shoulder_Stretches">कंधे खिच्नुहोस्</string>
+    <string name="Shoulder_Stretches_text">पक्षले हिपमा संलग्न हात समात्न साथ झूट। कानमा कंधे माथि र त्यसपछि छिटो र तल ल्याउनुहोस्।</string>
+    <string name="Arm_Stretch">आर्म स्ट्रेच</string>
+    <string name="Arm_Stretch_text">पक्षमा संलग्न साइड अप र हिपमा बाहिरी हातले झण्डा। धीरे टाँस्नु टाढा तिर लाग्नु पर्छ। 30 सेकेण्डका लागि। 3 पटक दोहोर्याउनुहोस्। निश्चित गर्नुहोस् कि तपाइँ कंधे राख्नुहोस् र अगाडि बढ्नबाट रोक्नुहोस्।</string>
+    <string name="Function_Mobility">कार्यात्मक गतिशीलता</string>
+    <string name="Bridge_hip">ब्रिज हिप लिफ्ट</string>
+    <string name="Arm_trunk">आर्म ट्रंक सुदृढीकरण</string>
+    <string name="Sittostand">खडा हुनुहोस्</string>
+    <string name="Mind_exercise">मन व्यायाम</string>
+    <string name="learn">सिक्नुहोस्</string>
+    <string name="topic">विषयहरू:</string>
+    <string name="RISK_FACTOR">जोखिम कारकहरू</string>
+    <string name="blood_pressure">रक्तचाप</string>
+    <string name="heart_rate">धडकनकाे गति</string>
+    <string name="smoking_">धूम्रपान</string>
+    <string name="blood_sugar">रक्त शर्करा</string>
+    <string name="exercise">व्यायाम गर्नुहोस्</string>
+    <string name="Diet">आहार</string>
+    <string name="shower">शावर/स्नान</string>
+    <string name="bladder">मूत्राशय/क्यान्सर</string>
+    <string name="home_mod">गृह परिमार्जन</string>
+    <string name="faq">FAQ</string>
+    <string name="resource">स्रोत</string>
+
+    <string name="signs">SIGN OF STROKE</string>
+
+    <string name="problem">समस्या</string>
+    <string name="what_to_do">के गर्ने</string>
+
+    <string name="befast_line2">• सन्तुलन: सन्तुलनको अचानक हानि।</string>
+    <string name="befast_line4">• आँखा: अनुहारको अचानक एक वा दुवै आँखामा।</string>
+    <string name="befast_line6">• मुस्कान गर्न सोध्दा जब एक तरफ अनुहार छोड्यो।</string>
+    <string name="befast_line8">• शाखा कमजोरी; हतियार उठाउन सक्दैन र उनीहरूलाई त्यहाँ राख्न सक्दैन।</string>
+    <string name="befast_line10">• बोली/भाषण समस्या।</string>
+    <string name="befast_line12">• एम्बुलेंसलाई कल गर्ने समय</string>
+
+    <string name="blood_sugar_line1">उच्च रक्त शर्करा \u0020</string>
+    <string name="blood_sugar_line2">  स्ट्रोक र हृदय रोगको विकास बढाउन सक्छ। HbA1c भनिन्छ रगत 2 देखि 3 महिना सम्म तपाईंको औसत रक्तचाप नियन्त्रणको चित्र प्रदान गर्दछ।</string>
+    <string name="blood_sugar_line3">अमेरिकन हार्ट एसोसिएसनले रक्तचापको स्तर (एचबीबी 1 ए 1 सी) को </string>
+    <string name="blood_sugar_line4">\u0020 6% </string>
+    <string name="blood_sugar_line5">\u0020 भन्दा कम पूर्व मधुमेह र</string>
+    <string name="blood_sugar_line6">\u0020 7% </string>
+    <string name="blood_sugar_line7">\u0020  मधुमेह रोगका लागि सिफारिस गर्दछ।</string>
+
+    <string name="blood_pressure_line1">उच्च रक्तचापले \u0020</string>
+    <string name="blood_pressure_line2"> सम्पूर्ण शरीरमा हानिकारक धमनीले स्ट्रोकको कारणले गर्दा उनीहरूलाई अझ सजिलै फट्याउन वा क्लोग गर्न सक्छ।</string>
+    <string name="blood_pressure_line3">60 वर्ष वा माथि उमेरको सामान्य जनसंख्यामा, उच्च BP को लक्ष्यमा  </string>
+    <string name="blood_pressure_line4">\u0020 150/ 9 0 मिमी एच.जी.</string>
+    <string name="blood_pressure_line5"> \u0020 भन्दा कम|</string>
+
+    <string name="why_quit_smoking">WHY QUIT SMOKING?</string>
+    <string name="smoking_line1">Smoking is a well established risk factor for all forms of stroke. More you smoke, higher the chance of a stroke.</string>
+    <string name="what_should_u_do">WHAT SHOULD TOU DO</string>
+    <string name="smoking_line2">Quit smoking today! you can do it! It is never too late.</string>
+
+    <string name="heart_rate_para1">एट्रियल फाइब्रिलेशन,</string>
+    <string name="heart_rate_para2">वा अनियमित हृदय दर, स्ट्रोक को लागी एक जोखिम कारक हो।</string>
+    <string name="heart_rate_para3">यदि तपाईं अनियमित हृदय दर को संदेह छ भने, परीक्षण को लागि तुरुन्तै तपाईंको डाक्टर संग संपर्क गर्नुहोस, जसमा</string>
+    <string name="heart_rate_para4">\u0020  इलेक्ट्रोकार्डियोयोग्राम (ईसीजी / ईकेजीजी)</string>
+    <string name="heart_rate_para5">. तपाईंको अतीत मेडिकल ईतिहासको आधारमा र भविष्यको स्ट्रोकको लागी तपाईंको जोखिम, औषधिका लागि धेरै विकल्पहरू छन्, जस्तै</string>
+    <string name="heart_rate_para6">\u0020 anticoagulants</string>
+    <string name="heart_rate_para7">, जसले afib व्यवस्थापन गर्न मद्दत गर्नेछ।</string>
+
+    <string name="bath_para1">स्ट्रोक रोगीहरू अक्सर शारीरिक शक्ति र क्षमताहरू प्राप्त गर्न कठिनाइहरू छन्।</string>
+    <string name="bath_para2">• वर्षाहरू> टबहरू: </string>
+    <string name="bath_para3">सामान्यतया टबहरु भन्दा कम हुन्छ। ग्र्याब बारहरूले आन्दोलनलाई सजिलो बनाउन मदत गर्न सक्छ।</string>
+    <string name="bath_para4">• स्नान चटाई: </string>
+    <string name="bath_para5">सामान्यतया टबहरु भन्दा कम हुन्छ। ग्र्याब बारहरूले आन्दोलनलाई सजिलो बनाउन मदत गर्न सक्छ।</string>
+    <string name="bath_para6">• निश्चित गर्नुहोस् कि कसैलाई नजिकै छ यदि तपाईंलाई आवश्यक छ। एक घण्टी हातमा राख्नुहोस् वा मद्दतको लागि कल गर्न अर्को तरिका राख्नुहोस्।</string>
+    <string name="bath_para7">• बैलेंस प्रशिक्षणले व्यक्तिहरूलाई सन्तुलित समस्याहरूको साथ मद्दत गर्न सक्छ।</string>
+
+    <string name="exercise_para1">स्ट्रोक रोगीहरू अक्सर शारीरिक शक्ति र क्षमताहरू प्राप्त गर्न कठिनाइहरू छन्।</string>
+    <string name="exercise_para2">• गेट </string>
+    <string name="exercise_para3">\u0020 सीमाहरूसँग सहयोग गर्न</string>
+    <string name="exercise_para4">: रोगीहरूले स्वास्थ्य हेरविचार को पेशेवरको निरीक्षणका साथ गहन, दोहोरो, गतिशीलता-कार्य प्रशिक्षण गर्नु पर्छ।</string>
+    <string name="exercise_para5">• बिस्तारै \u0020</string>
+    <string name="exercise_para6">\u0020 मद्दतको लागि: \u0020</string>
+    <string name="exercise_para7"> बिरामीले सन्तुलनको प्रशिक्षण लिनुपर्छ।</string>
+    <string name="exercise_para8">• अस्पतालकरण </string>
+    <string name="exercise_para9">\u0020 र प्रारम्भिक पुनःप्राप्तिको समयमा मद्दत गर्नको लागि</string>
+    <string name="exercise_para10">:  AHA / ASA ले निम्न स्तरको हिसाब, स्वयं हेरविचार गतिविधि, आन्तरिक साठ वा खडा, सेटिङ् गतिविधिहरू, वा गति गतिविधिहरूको दायरा सिफारिस गर्दछ। यी क्रियाकलापहरू हृदय रेटमा प्रति मिनेट बढि प्रति 10 देखि 20 बीट प्राप्त गर्न दिशानिर्देशको साथ सहन को लागी कार्यान्वयन गर्न सकिन्छ, यसको आधारमा तपाईको चिकित्सकलाई कस्तो सल्लाह दिन्छ।</string>
+    <string name="exercise_para11">• इनपेटिन्ट र \u0020</string>
+    <string name="exercise_para12">\u0020 आउटपेन्टेंट व्यायाम थेरेपी वा पुनर्वासको समयमा मद्दत गर्न</string>
+    <string name="exercise_para13">: आधा / एएसए गतिविधिहरु को सिफारिश गर्दछ जस्तै 20–60 मिनेट / सत्र (वा धेरै 10–मिनेट सत्र) को लागि 3–5 दिन प्रति हप्ता हिड्न; 10–30 सेकेण्डको लागि 10–30 सेकेण्डसम्म बढाउनुहोस्; ताई ची, योग, र मनोरञ्जन गतिविधिहरू हिंड्ने वा विस्तार गर्न पूरकको रूपमा।</string>
+    <string name="exercise_para14">• शारीरिक </string>
+    <string name="exercise_para15">\u0020 व्यायामको समयमा सुरक्षित रहन</string>
+    <string name="exercise_para16">: हिड्न र ध्यानपूर्वक अभ्यास गर्न सहायक यन्त्रहरू प्रयोग गर्नुहोस्, केवल पर्यवेक्षणको अधीनमा।</string>
+    <string name="exercise_para17">• शारीरिक </string>
+    <string name="exercise_para18">\u0020 स्वास्थ्य कायम राख्न</string>
+    <string name="exercise_para19">: अनुकूलित शारीरिक क्रियाकलाप प्राथमिकता, विशिष्ट क्रियाकलाप सीमाहरू, र सहभागी प्रतिबन्धहरूको अभ्यासको लागि तपाईंको डाक्टरसँग जाँच गर्नुहोस्।</string>
+
+    <string name="diet_para1">यो स्ट्रोक रोगीहरूको लागि एक स्वस्थ जीवनशैली कायम राख्न महत्त्वपूर्ण छ। दीर्घकालीन हेरचाह सुविधाहरूमा रहन स्ट्रोक रोगीहरू क्याल्सियम र भिटामिन डी को कमीका लागि जोखिममा छन्।</string>
+    <string name="diet_para2">फलफूल र सब्जहरू, सम्पूर्ण अन्न, कम-मोटो डेयरी उत्पादन, छाला रहित मासु र माछा, र नट र फलफुलको विभिन्न स्वस्थ आहार खानेकुरा राम्रो हुन्छ। संतृप्त वसा, ट्रांस वसा, सोडियम, रातो मासु, मिठाई र चिनियाँ मिठो पेयहरुमा काट्नुहोस्।</string>
+    <string name="diet_para3">BRUSHING</string>
+    <string name="diet_para4">Brushing teeth regularly after every meal can reduce risk of Aspiration Pneumonia.</string>
+
+    <string name="bladder_bowel_para_1">केही रोगीहरूले मूत्र असामान्य वा अवधारण अनुभव गर्नेछन्।</string>
+    <string name="bladder_bowel_para_2">ब्लडेर स्क्यानिङ वा अन्तराष्ट्रिय कैथेरेक्टिमाइजेशनहरू भ्वाइसिङ पछि र रेकर्ड भोल्युमहरूको माध्यमबाट मूत्र कायम राख्नुहोस्।</string>
+    <string name="bladder_bowel_para_3">दिनको बेलामा धेरै हाइड्रोइड पिउनुहोस हस्पिटलबाट बचाउन मद्दत गर्नको लागि हाइड्रोटेड रहन।</string>
+
+
+    <string name="riskFactor1_">RISK FACTORS FOR A STROKE"</string>
+    <string name="highbloodpressure">• High रक्तचाप</string>
+    <string name="heart_disease">• Heart disease</string>
+    <string name="smoking">• धूम्रपान</string>
+    <string name="Diabetes">• Diabetes</string>
+    <string name="Prior_stroke">• Prior stroke</string>
+
+    <string name="faq_line1">स्ट्रोक के हो?</string>
+    <string name="faq_line2">स्ट्रोक मा, दिमाग को एक विशेष हिस्से को रगत को आपूर्ति अवरुद्ध छ या एक रक्त पोत जसले मस्तिष्क फटहरूको एक भाग को आपूर्ति गर्दछ। यो मस्तिष्क को प्रभावित भाग मा कोशिका मृत्यु मा परिणाम। यो शरीरको एक वा बढी भाग (हरू) मा प्रकार्यको अस्थायी वा स्थायी हानि हुन सक्छ।</string>
+    <string name="faq_line11">यदि तपाई सोच्नुहुन्छ भने कसैले के गर्नुपर्दछ?</string>
+    <string name="faq_line12">पेशेवर चिकित्सा सहायता (डाक्टर वा नर्स) को लागी कल गर्नुहोस्।</string>
+    <string name="faq_line13">तपाईंलाई किन चाँडै कार्य गर्न आवश्यक छ?</string>
+    <string name="faq_line14">फास्ट मेडिकल उपचार गर्न अक्षमताको जोखिम वा मृत्यु पनि कम गर्दछ।</string>
+
+    <string name="resource_line1">2014 Evidence–Based Guideline for the Management of High Blood Pressure in Adults. 2014 JAMA. http://jamanetwork.com/journals/jama/fullarticle/1791497 (Accessed 2016–11–22).</string>
+    <string name="resource_line2">American Heart Association. Know your health numbers. http://www.heart.org/HEARTORG/Conditions/More/Diabetes/PreventionTreatofDiabetes/Know-Your-HealthNumbers_UCM_313882_Article.jsp#.WC0TE_k (Accessed Nov 16, 2016).</string>
+    <string name="resource_line3">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/744</string>
+    <string name="resource_line4">Billinger SA et al. Physical activity and exercise recommendations for stroke survivors: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2014;45:2532–2553.</string>
+    <string name="resource_line5">American Stroke Association. Life after stroke - Nutrition Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/HealthyLivingAfterStroke/Nutrition/Nutrition-Tips-for-Stroke-Survivors_UCM_308569_SubHomePage.jsp (Accessed Nov 16, 2016)</string>
+    <string name="resource_line6">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/74"</string>
+    <string name="resource_line7">American Stroke Association. Life after stroke - Bathing Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/RegainingIndependence/TipsForDailyLiving/Bathing-Tips-for-Stroke-Survivors_UCM_310105_Article.jsp#.WC0JYvkrLBU (Accessed Nov 16, 2016)</string>
+    <string name="resource_line8">National Stroke Association. Recovery after stroke: bladder and bowel function. http://www.stroke.org/sites/default/files/resources/NSAFactSheet_BowelandBladder_2014.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line9">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. The Bathroom: Modify the room to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463096.pdf (Accessed Nov 16, 2016)</string>
+    <string name="resource_line10">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. Modifications: Modify your bedroom to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463057.pdf (Accessed Nov 16, 2016)</string>
+
+    <string name="home_mod_line0">किनकि बिरामीले गतिशीलता अनुभव गर्न सक्दछन्, यो तपाईंको घर परिमार्जन गर्न महत्त्वपूर्ण छ ताकि यो सुरक्षित र पहुँचयोग्य हो।</string>
+    <string name="home_mod_line1">बेडरूम</string>
+    <string name="home_mod_line2">• बेडरूम पहुँच वस्तुहरू सार्दा सुधार गर्न सकिन्छ ताकि ढोका पूर्ण रूपमा खोल्छ; भित्री ढोकाहरू; रिवर्स हङकङ ताकि ढोका बाहिर बरु बाहिर खोल्छ। यदि बेडलाई पर्खालमा राख्नु आवश्यक छ भने, यो उन्मुख हुनु पर्छ कि मरीजको प्रभावित पक्ष (कमजोर पक्ष) पर्खाल नजिक छ, यसैले बलियो पक्षले रोगीलाई बिस्तारै बाहिर निकाल्न मद्दत गर्दछ।</string>
+    <string name="home_mod_line3">स्नान</string>
+    <string name="home_mod_line4">• बाथरूम ढोकामा चौडा गरेर व्हीलचेयरमा थप पहुँच गर्न सकिन्छ।</string>
+    <string name="home_mod_line5">• शौचालय सीटहरु लाई यसको लागी र शौचालय देखि कम चुनौतीपूर्ण बनाउन को लागी उठाया जा सकता है: एक शौचालय लिफ्ट जो फर्श र शौचालय को बीच मा जाता छ; एक सीट लिफ्ट जो कटोरामा संलग्न गर्दछ र सीट उठाउँछ; गतिशीलताको लागि समर्थन सुधार गर्न शौचालय रेल / ह्याण्डर बारहरू स्थापना गर्दै।</string>
+    <string name="home_mod_line8">सामान्य:</string>
+    <string name="home_mod_line9">• गलीहरू हटाउनुहोस् जुन सजिलै यात्रा र फराकिलो जोगिनबाट बचाउन सकिन्छ।</string>
+
+
+    <string name="survey">सर्वेक्षणहरू</string>
+    <string name="fill_survey">FILL SURVEY</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="error_pass">Please enter the correct password..!</string>
+    <string name="survey1">Post Health Literacy Survey</string>
+    <string name="survey2">Follow Up Survey</string>
+    <string name="survey3">Usability Scale</string>
+    <string name="survey4">Pre Health Literacy Survey</string>
+    <string name="reminders">अनुस्मारकहरू</string>
+
+    <string name="yes">हो</string>
+    <string name="no">होइन</string>
+    <string name="thanks">धन्यवाद</string>
+    <string name="bathroom">मलाई बाथरूम चाहिन्छ</string>
+    <string name="water">मलाई पनि चहियो</string>
+    <string name="hungry">म भोकाएको छु</string>
+    <string name="notgivingup">म दिइरहेछु</string>
+    <string name="pain">म दुखाइमा छु</string>
+    <string name="cantspeak">माफ गर्नुहोस्, म बोल्न सक्दैनु</string>
+    <string name="ambulance">मलाई एम्बुलेंस चाहिन्छ</string>
+    <string name="bed">म बिस्तरमा जान चाहन्छु</string>
+    <string name="bed1">म बिस्तारै बाहिर जान चाहन्छु</string>
+    <string name="clock">सानो मा</string>
+    <string name="cold">मलाई चिसो लागेको छ</string>
+    <string name="dizzy">म चिसो छु</string>
+    <string name="hi">नमस्कार!</string>
+    <string name="hot">म तातो छु"; मलाइ गमी लागेको</string>
+    <string name="howareyou">तिमीलाई कस्तो छ?</string>
+    <string name="lightsOff">रोशनीहरू बन्द</string>
+    <string name="lightson">बत्ति बाल</string>
+    <string name="now">अहिले</string>
+    <string name="outside">म बाहिर जान चाहन्छु</string>
+
+    <string name="bells">Bells</string>
+    <string name="Buddha">Buddha</string>
+    <string name="Flags">Flags</string>
+    <string name="market_place1">Market place 1</string>
+    <string name="market_place2">Market place 2</string>
+    <string name="rocky">Rocky Beach</string>
+
+    <string name="hms_search_placeholder">म भोकाएको छु</string>
+
+    <string name="todays_reminders">आजका अनुस्मारकहरू</string>
+    <string name="all_reminders">सबै अनुस्मारकहरू</string>
+    <string name="create_reminder">रिमाइन्डर थप्नुहोस्</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="save">Save</string>
+
+    <string name="create_reminder_title_header">मलाई सम्झाउनुहोस्</string>
+    <string name="create_reminder_title_placeholder">मेरो दवाई लिनुहोस्</string>
+    <string name="create_reminder_pick_time_header">At what time(s)?</string>
+    <string name="create_reminder_button_text">रिमाइन्डर थप्नुहोस्</string>
+
+    <string name="daily">दैनिक</string>
+    <string name="weekly">साप्ताहिक</string>
+    <string name="custom">अनुकूलन</string>
+    <string name="sunday">S</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">Th</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+
+    <string name="delete_reminder_message">Are you sure you want to delete this reminder?</string>
+    <string name="delete_reminder_title">Delete Reminder</string>
+
+    <string name="info_title">Info</string>
+
+    <string name="pref_previously_started">previously_started</string>
+    <string name="accept">I Accept</string>
+    <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
+    <string name="videoText">"Please repeat 10 times, once every day with assistance from family caregiver if needed. Consult your medical provider before starting the exercise program"</string>
+    <string name="doctor_greeting">नमस्कार! अाज तपाँई कस्तो अनुभुति गरिरहनुभएको छ?</string>
+</resources>

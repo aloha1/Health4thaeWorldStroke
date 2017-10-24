@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Health 4 The World Stroke</string>
+        <string name="lauch_text1">"The best preparation for tomorrow id doing your best today."</string>
+        <string name="author1">-H.jackson Brown, Jr</string>
+        <string name="launch_text2">"Believe you can and you're halfway there."</string>
+        <string name="author2">-Theodore Roosevelt</string>
+        <string name="launch_text3">"Nothing is impossible, the word itself says 'I'm possible'!"</string>
+        <string name="author3">-Audrey Hepburn</string>
+        <string name="launch_text4">"Only I can change my life.No one can do it for me.</string>
+        <string name="author4">-Carol Burnett</string>
+        <string name="launch_text5">"Always do your best. What you plant now will harvest later."</string>
+        <string name="author5">-Og Mandino</string>
+        <string name="launch_text6">"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</string>
+        <string name="author6">-Helen Keller</string>
+    <string name="home">HOME</string>
+        <string name="general_info">General Information</string>
+        <string name="mobile_intro">Introduksiyon sa Mobile App</string>
+        <string name="para_1">"Ang HEALTH4THEWORLD STROKE HOPE APP ay isang libreng kagamitang pang-edukasyon para maipalaganap ang kaalaman ukol sa mapanganib na pangunahing  sanhi ng stroke, segundaryong pag-iingat, tamang pagkilos makaraang ma-stroke at pag-aaral ng tamang pag-eehersisyo at estratehiya sa pagsasalita. Nilikha ito ng Health4TheWorld,  isang organisasyong non-profit na binuo dahil sa nabigong  pandaigdigang pangangailangan sa medikal.  Nilalayon ng organisasyon na mabigyan ng solusyon ang di-pagkakapantay-pantay na kalusugan sa pamamagitan ng makabagong teknolohiya at makapaghatid ng ngiti sa iba’t ibang dako ng mundo."</string>
+        <string name="para_2">With an estimated incidence of 16.9 million and a prevalence of 33 million according to the World Health Organization, stroke is a dominant diseased entity in the category of cardiovascular diseases, and is a leading cause of serious long-term disability. The global burden of stroke falls disproportionately on low and middle-income countries, prompting us to improve global health educational outreach. We hope that this stroke educational app will be helpful.</string>
+        <string name="app_features">May iba’t ibang katangian ang app na ito na inaasahan naming makatutulong sa inyo!</string>
+        <string name="app_features_1">• Pag-aaral ukol sa Stroke – Mga impormasyon ukol sa sanhi at pangunahing dahilan ng stroke na may kasamang gabay mula sa American Stroke Association, mga ebidensyang ibinatay sa mga artikulo at iba pang pinagmumulan nito. Magandang isipin na ang mga ito ay mga  pangkalahatang mungkahing pang-edukasyon at hindi rekomendasyon para sa panggagamot. Dapat na mag-usap ang pasyente at ang doktor para makagawa ng isang programa sa pangangasiwa kung paano maiiwasan ang stroke.</string>
+        <string name="app_features_2">• Video Animation at Mga Mungkahing Ehersisyo para sa Paggaling mula sa pagkaka-stroke - Binuod ng mga eksperto sa Medisinang Pisikal at Rehabilitasyon mula sa Stanford, University of California, San Francisco at University of Southern California  ang pag-aaral para sa pag-eehersisyo at rehabilitasyon pagkatapos ng stroke. Pangkalahatang ehersisyo ito na naglalayong makapagbigay hindi lamang ng payong medikal kundi upang makapagbigay din ng gabay pang-edukasyon. Kailangan itong isagawa kasama ang occupational therapist at/o physical therapist, kung saan makatutulong sa tamang pamamaraan at pagdisenyo, at  tamang pangangasiwa na makatutulong ng mabuti sa pasyenteng na-stroke. Kailangan na laging naroon ang tagapangalaga para tumulong. Nahahati ito sa pagpapalakas, pag-uunat,  at tamang pagkilos. Mangyaring payuhan ang inyong pasyente tungkol sa tamang paraan, bilang o dami at pangangasiwa ng mga ehersisyong ito.</string>
+        <string name="app_features_3">• Paalala para sa Medikasyon at mga Pagkonsulta sa Doktor: Isang pangunahing isyu ang pagsunod sa medikasyon at pagkonsulta kaya inaasahan na makatutulong ang instrumento/kasangkapang ito! Kung maaari, mangyaring magtakda ng mga paalala para sa inyong mga pasyente.</string>
+        <string name="app_features_4">• Mga Estratehiya sa Pagsasalita pagkatapos ng Stroke-  Makatutulong ang resulta ng boses ng  press button kasama ang batayang komunikasyon.  Layuning maisalin ito sa iba’t ibang lenggwahe nang sa gayon mapakinabangan ito ng mga pangkalusugang propesyon at mga pasyenteng nasa malayo at liblib na lugar sa ating mundo na hindi makakapunta rito.</string>
+        <string name="thanks_caps">MARAMING SALAMAT PO!</string>
+        <string name="dream_team">Hindi magiging posible ang aplikasyong ito kundi dahil sa pagsisikap  ng dream team!</string>
+        <string name="founders">Mga Tagapagtatag:</string>
+        <string name="founders_name">Dr. Bhavya Rehani, Dr. Bill Dillon &amp; Dr. Ankur Bharija</string>
+        <string name="developer_ofapp">Software engineer at Tagapagbuo ng app:</string>
+        <string name="Rachel_Grau">Rachel Grau</string>
+        <string name="Varun_Raj">Varun Raj</string>
+        <string name="Animations">Mga Animasyon</string>
+        <string name="Animator_name">by Ernesto Aguilar</string>
+        <string name="Illustrations">Mga Ilustrasyon</string>
+        <string name="illustrations_by">by Julie Kim, Bhavya Rehani, Ankur Bharija</string>
+        <string name="Content_Editing">Nilalaman ng Pag-eedit</string>
+        <string name="Content_Editing_by">by Dr. Lilly Zhang, Isaiah Brown and Dr Bhavya Rehani</string>
+        <string name="Movies">Mga Pelikula</string>
+        <string name="Movies_by">by Jack McGill</string>
+        <string name="advisory_board_of_app">Lupon ng Tagapayong Medikal para sa App</string>
+        <string name="advisory_board_of_app_1">Dr. Marc Fisher: Si Dr. Fisher ay kasalukuyang nanunungkulan bilang punong editor ng Stroke at Mga Nakatataas na Manggagamot sa Serbisyong Stroke sa BIDMC, Paaralang Medikal sa Harvard. Isa siyang tanyag at malawak na nakapaglunsad na ng humigit sa 260 artikulong kasamang pinag-aralan at nag-edit o kasamang editor sa 13 aklat.</string>
+        <string name="advisory_board_of_app_2">Dr. Jeffrey Teraoke: Si Dr. Teraoke ang Puno, PM &amp; R sa Palo Alto Medical Center.  Siya ang Direktor ng Programa ng PM&amp;R Residency Program at Direktor ng Polytrauma VA Palo Alto Health System.</string>
+        <string name="advisory_board_of_app_3">Dr. Erica A. Pitsch, PT, MPT, DPT, NCS: Katuwang na Tagasuring Propesor si Dr. Pitsch sa Agham Pangkalusugan, UCSF. Nagpakadalubhasa siya sa Physical therapy at gumagamit ng iba’t ibat estratehiya at lapit sa panggagamot, lahat ay nakatuon sa pagpapalaganap ng pinakamagagaling na hamon, at paggaling ng pasyenteng may roong sakit sa pag-iisip.</string>
+        <string name="advisory_board_of_app_4">Isang lisensyadong Physical Therapist si Loren Ward, PT, DPT kung saan nagsimula ang kanyang karera sa Physical Therapy noong 2007, habang tinatapos ang kanyang doktorado sa MGH Surian ng mga Propesyong Pangkalusugan sa Massachusetts.  Nagsanay siya ng panggagamot sa Rehabilitasyon ng Chicago,  Spaulding Rehabilitasyon at  Ospital ng Pambansang Rehabilitasyon at kasalukuyang nagtatrabaho sa Stanford Veteran’s Affairrs System.  Si Loren ay isang tagapagtaguyod ng sariling pagkilos at nagsusumikap para makatulong sa kanyang mga pasyente na maabot ang antas ng kanilang kalayaan sa kabila ng kanilang mga limitasyon.</string>
+        <string name="advisory_board_of_app_5">Rose Hamm, PT, DPT, CWS, FACCWS: Nagtamo si Rose ng BS Physical Therapy mula sa Unibersidad ng North Carolina, Chapel Hill, at isa rin siyang MS at DPT gradwadong pag-aaral mula sa Unibersidad ng Southern California. Siya ay kasalukuyang dagdag na Katuwang na Propesor ng Clinical Physical Therapy sa Unibersidad ng Southern California at mga gawain sa Ospital ng Keck at USC.</string>
+        <string name="help_me_speak">Tulungan akong magsalita</string>
+        <string name="video">Mga Ehersisyo</string>
+        <string name="Strengthening">Strengthening</string>
+        <string name="Legs">Legs</string>
+        <string name="Toe">Daliri sa paa</string>
+        <string name="Knee">Tuhod</string>
+        <string name="Hip">Balakang</string>
+        <string name="Arms">Mga Braso</string>
+        <string name="Elbow">Siko</string>
+        <string name="Shoulder">Balikat</string>
+        <string name="Coordination">Koordinasyon</string>
+        <string name="Leg_1">Kontrol sa Binti 1</string>
+        <string name="Leg_2">Kontrol sa Binti 2</string>
+        <string name="Stretching">Stretching</string>
+        <string name="Leg_Feet">Leg &amp; Feet</string>
+        <string name="Adductores">Adductores</string>
+        <string name="Adductors_text">Maari mong gawin ang ehersisyong ito nang nakahiga  o nakaupo sa isang matibay na silya. Itulak ang iyong paa paitaas papunta sa torso at pigilin sa loob ng 30 segundo. Ulitin ng 3 beses.</string>
+        <string name="Hamstrings">Hamstrings</string>
+        <string name="Hamstrings_text">"Maaari mong gawin ang ehersisyong  ito ng nakahiga o nakaupo sa isang matibay na silya. Humiga ng patihaya nang nakabaluktot ang tuhod at ituwid itong pataas sa loob ng 30 segundo. "</string>
+        <string name="Dorsiflexors">Dorsiflexors</string>
+        <string name="Dorsiflexors_text">You can do this exercise lying down or sitting in a stable chair. Push the foot upwards towards torso and hold for 30 sec. Repeat 3 times.</string>
+        <string name="Arms_Hands">Arms &amp; Hands</string>
+        <string name="Hand_Stretch">Hand Stretch</string>
+        <string name="Hand_Stretch_text">Patagilid na humiga at ipahinga ang kamay sa iyong balakang. Suportahan ang siko sa hita ngunit gamitin ang kabilang kamay para maigalaw nang paitaas ang wrist at malayo mula sa tiyan. Ibalik ang wrist sa nakapahingang posisyon. Suportahan ang wrist ng isang kamay at subukang ibuka ang mga daliri gamit ang kabilang kamay.  Mas huhusay ito kung susubukan buksan ang kamay at igalaw ang wrist nang paitaas ng kabilang kamay. Panatlihin ito ng 30 segundo. Ulitin ng 3 beses.</string>
+        <string name="Shoulder_Stretches">Shoulder Stretches</string>
+        <string name="Shoulder_Stretches_text">Humiga ng nakatagilid na nakapahinga ang kamay sa iyong balakang. Itaas ang balikat papuntang tainga at dahan-dahan itong ibaba.</string>
+        <string name="Arm_Stretch">Arm Stretch</string>
+        <string name="Arm_Stretch_text">Humiga ng nakatagilid na nakapahinga ang kamay sa iyong balakang. Dahan-dahang ibaba ang braso papuntang binti. Pigilin ng 30 segundo. Ulitin ng 3 beses. Siguraduhing hindi gumagalaw ang iyong balikat at pigilin ito sa paggalaw.</string>
+        <string name="Function_Mobility">Magagamit sa Pagkilos/Paggalaw</string>
+        <string name="Bridge_hip">Iangat ang balakang habang nakahiga</string>
+        <string name="Arm_trunk">Braso + trunk/balikat</string>
+        <string name="Sittostand">Umupo at tumayo sa silya </string>
+        <string name="Mind_exercise">Ehersisyo ng Kaisipan</string>
+        <string name="learn">Pagkatuto</string>
+        <string name="topic">Topics:</string>
+    <string name="RISK_FACTOR">Risk Factors</string>
+        <string name="blood_pressure">Presyon ng Dugo</string>
+        <string name="heart_rate">Pintig/Tibok ng Puso</string>
+        <string name="smoking_">Paninigarilyo</string>
+        <string name="blood_sugar">Blood Sugar</string>
+        <string name="exercise">Mga Ehersisyo</string>
+        <string name="Diet">Diyeta</string>
+        <string name="shower">Shower/Bath</string>
+        <string name="bladder">Pag-ihi</string>
+        <string name="home_mod">Pagbabago sa Tahanan</string>
+        <string name="faq">FAQ</string>
+        <string name="resource">Resource</string>
+
+        <string name="problem">PROBLEMA</string>
+        <string name="what_to_do">DAPAT GAWIN</string>
+
+        <string name="befast_line2">• Balanse: biglang pagkawala ng balanse.</string>
+        <string name="befast_line4">• Mata: biglang pagkawala ng paningin sa isa o parehong mata.</string>
+        <string name="befast_line6">• Mukha: Pagkalawit ng isang pisngi kapag pinangiti.</string>
+        <string name="befast_line8">• Panghihina ng Braso: Hindi maitaas ang braso at hindi mapanatiling nakataas ito.</string>
+        <string name="befast_line10">• Pagsasalita:  Hirap sa pagsasalita.</string>
+        <string name="befast_line12">• Oras: Oras na para tumawag ng ambulansya.</string>
+
+        <string name="blood_sugar_line1">High blood sugar \u0020</string>
+        <string name="blood_sugar_line2"> can increase the risk of developing strokes and heart disease. A blood test called HbA1c gives a picture of your average blood sugar control for the past 2 to 3 months.</string>
+        <string name="blood_sugar_line3">The American Heart Association recommends keeping blood sugar levels (Hgb1A1c) </string>
+        <string name="blood_sugar_line4">\u0020 below 6% </string>
+        <string name="blood_sugar_line5">\u0020 for patients with pre-diabetes and</string>
+        <string name="blood_sugar_line6">\u0020 below 7% </string>
+        <string name="blood_sugar_line7">\u0020 for diabetic patients.</string>
+
+        <string name="blood_pressure_line1">High blood pressure \u0020</string>
+        <string name="blood_pressure_line2"> can cause strokes by damaging arteries throughout the body causing them to burst or clog more easily.</string>
+        <string name="blood_pressure_line3">In the general population aged 60 years or older, treating high BP to a goal of </string>
+        <string name="blood_pressure_line4">\u0020 lower than 150/90 mm Hg </string>
+        <string name="blood_pressure_line5"> \u0020reduces stroke.</string>
+
+        <string name="why_quit_smoking">WHY QUIT SMOKING?</string>
+        <string name="smoking_line1">Smoking is a well established risk factor for all forms of stroke. More you smoke, higher the chance of a stroke.</string>
+        <string name="what_should_u_do">WHAT SHOULD TOU DO</string>
+        <string name="smoking_line2">Quit smoking today! you can do it! It is never too late.</string>
+
+        <string name="heart_rate_para1">Atrial Fibrillation</string>
+        <string name="heart_rate_para2">, or irregular heart rate, is a risk factor for stroke.</string>
+        <string name="heart_rate_para3">If you have suspicion of an irregular heart rate, contact your doctor immediately for testing, which might include</string>
+        <string name="heart_rate_para4">\u0020 electrocardiogram (ECG/EKG)</string>
+        <string name="heart_rate_para5">. Based on your past medical history and your risk for having a future stroke, there are several options for medications, like</string>
+        <string name="heart_rate_para6">\u0020 anticoagulants</string>
+        <string name="heart_rate_para7">, that will help manage AFib.</string>
+
+        <string name="bath_para1">Stroke patients often have difficulties regaining physical strength and capabilities.</string>
+        <string name="bath_para2">• Showers > tubs: </string>
+        <string name="bath_para3">showers are safer than tubs generally. Grab bars might help make movement easier.</string>
+        <string name="bath_para4">• Bath mats: </string>
+        <string name="bath_para5">showers are safer than tubs generally. Grab bars might help make movement easier.</string>
+        <string name="bath_para6">• Make sure someone is nearby to help you if needed. Keep a bell handy or have another way to call for help.</string>
+        <string name="bath_para7">• Balance training can help individuals with balance problems.</string>
+
+        <string name="exercise_para1">Ang mga pasyenteng na stroke ay kadalasang may kahirapan sa pagpapanumbalik ng kanilang lakas at mga kakayahan.</string>
+        <string name="exercise_para2">• To help with </string>
+        <string name="exercise_para3">\u0020 gait limitations</string>
+        <string name="exercise_para4">: Patients should do intensive, repetitive, mobility-task training under supervision of a health care professional.</string>
+        <string name="exercise_para5">• To help with \u0020</string>
+        <string name="exercise_para6">\u0020 falling. \u0020</string>
+        <string name="exercise_para7"> Patients should do balance training. </string>
+        <string name="exercise_para8">• To help during </string>
+        <string name="exercise_para9">\u0020 hospitalization and early recovery</string>
+        <string name="exercise_para10">: :  Inirerekomenda ng AHA/ASA ang mabagal na paglalakad, mga gawain sa pangangalaga sa sarili,  paminsan-minsang pag-upo at pagtayo, mga gawaing nakaupo, o iba’t ibang paggalaw. Dapat na ginagawa ang mga gawaing ito nang may pasensya kasama ang gabay na maabot ang 10 hanggang 20 tibok sa bawat minuto na pagtaas ng pintig ng puso, depende sa nirerekomenda ng iyong doktor.</string>
+        <string name="exercise_para11">• To help during \u0020</string>
+        <string name="exercise_para12">\u0020 inpatient and outpatient exercise therapy or rehabilitation</string>
+        <string name="exercise_para13">: Inirerekomenda ng AHA/ASA ang mga aktibidad tulad ng paglalakad ng 3–5 araw kada linggo para sa 20–60 min/sesyon (o kasindami ng 10–min sesyon); pag–uunat ng 2–3 araw kada linggo para sa 10–30 segundo; Tai-Chi, yoga, at iba pang gawaing paglilibang bilang karagdagan sa  paglalakad o pag-uunat.</string>
+        <string name="exercise_para14">• To remain </string>
+        <string name="exercise_para15">\u0020 safe during physical exercise</string>
+        <string name="exercise_para16">: Para manatiling ligtas habang ginagawa ang pisikal na ehersisyo: Gumamit ng pantulong na kagamitan  para sa paglalakad at maingat na pag-eehersisyo, sa ilalim lamang ng pangangasiwa.</string>
+        <string name="exercise_para17">• To maintain </string>
+        <string name="exercise_para18">\u0020 physical health</string>
+        <string name="exercise_para19">: Tiyakin sa inyong doktor  ang  ginawang plano ng aktibidad para sa pisikal na ehersisyo,  limitasyon ng tiyak na aktibidad, at ipinagbabawal na partisipasyon sa ehersisyo.</string>
+
+        <string name="diet_para1">Mahalagang mapanatili ng mga pasyenteng na-stroke ang malusog na pamumuhay. Nanganganib naman sa kakulangan sa calcium at vitamin D ang mga pasyenteng na-stroke na matagal na nananatili sa isang pasilidad sa pangngalaga.</string>
+        <string name="diet_para2">Higit na makabubuti ang pagkain ng mga masustansiyang pagkain at may kasamang iba’t ibang prutas at gulay, whole grain, mga pagkaing low-fat, karneng walang taba at isdang walang balat, at mga mani at legumes. Bawasan ang  purong taba, trans fat, sodium, pulang karne, matatamis na pagkain at matatamis na inumin.</string>
+        <string name="diet_para3">Pagsisipilyo</string>
+        <string name="diet_para4">Ang regular na pagsisipilyo ng ngipin pagkatapos kumain ay nakababawas ng panganib sa Aspiration Pneumonia.</string>
+
+        <string name="bladder_bowel_para_1">Some patients will experience urinary incontinence or retention.</string>
+        <string name="bladder_bowel_para_2">Assess urinary retention through bladder scanning or intermittent catheterizations after voiding, and record volumes. Go to the bathroom at regular times to help train your bladder. Urinating every 2–3 hours can help prevent accidents. Drink plenty of fluids during the day to stay hydrated to help you avoid constipation.</string>
+        <string name="bladder_bowel_para_3">Drink plenty of fluids and water to help avoiding Constipation.</string>
+
+
+        <string name="riskFactor1_">RISK FACTORS FOR A STROKE"</string>
+        <string name="highbloodpressure">• pRr /Strfk</string>
+        <string name="heart_disease">• Heart disease</string>
+        <string name="smoking">• Smoking</string>
+        <string name="Diabetes">• Diabetes</string>
+        <string name="Prior_stroke">• Prior stroke</string>
+
+        <string name="faq_line1">Ano ang Stroke?</string>
+        <string name="faq_line2">Sa stroke, naharang o pumuputok ang blood vessel na nagsu-supply sa partikular na bahagi ng utak. Nagreresulta ito ng pagkamatay ng cell sa apektadong bahagi ng utak. Maaaring pansamantala o habambuhay na pagkawala ng paggalaw ng isa o higit pang parte ng katawan.</string>
+        <string name="faq_line11">Sa iyong palagay, ano ang dapat gawin sa nakararanas ng stroke?</string>
+        <string name="faq_line12">Tumawag agad ng medikal na tulong sa isang propesyonal (doktor o nars).</string>
+        <string name="faq_line13">Sa iyong palagay, baket kailangang umaksiyon agad?</string>
+        <string name="faq_line14">Maaaring maiwasan ang panganib na magkaroon ng kapansanan o mahantong sa pagkamatay kung magamot agad ito.</string>
+
+        <string name="resource_line1">2014 Evidence–Based Guideline for the Management of High Blood Pressure in Adults. 2014 JAMA. http://jamanetwork.com/journals/jama/fullarticle/1791497 (Accessed 2016–11–22).</string>
+        <string name="resource_line2">American Heart Association. Know your health numbers. http://www.heart.org/HEARTORG/Conditions/More/Diabetes/PreventionTreatofDiabetes/Know-Your-HealthNumbers_UCM_313882_Article.jsp#.WC0TE_k (Accessed Nov 16, 2016).</string>
+        <string name="resource_line3">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/744</string>
+        <string name="resource_line4">Billinger SA et al. Physical activity and exercise recommendations for stroke survivors: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2014;45:2532–2553.</string>
+        <string name="resource_line5">American Stroke Association. Life after stroke - Nutrition Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/HealthyLivingAfterStroke/Nutrition/Nutrition-Tips-for-Stroke-Survivors_UCM_308569_SubHomePage.jsp (Accessed Nov 16, 2016)</string>
+        <string name="resource_line6">Guidelines for Adult Stroke Rehabilitation and Recovery - A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2016 Stroke. https://www.aan.com/Guidelines/home/GetGuidelineContent/74"</string>
+        <string name="resource_line7">American Stroke Association. Life after stroke - Bathing Tips for Stroke Survivors. http://www.strokeassociation.org/STROKEORG/LifeAfterStroke/RegainingIndependence/TipsForDailyLiving/Bathing-Tips-for-Stroke-Survivors_UCM_310105_Article.jsp#.WC0JYvkrLBU (Accessed Nov 16, 2016)</string>
+        <string name="resource_line8">National Stroke Association. Recovery after stroke: bladder and bowel function. http://www.stroke.org/sites/default/files/resources/NSAFactSheet_BowelandBladder_2014.pdf (Accessed Nov 16, 2016)</string>
+        <string name="resource_line9">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. The Bathroom: Modify the room to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463096.pdf (Accessed Nov 16, 2016)</string>
+        <string name="resource_line10">American Heart Association | American Stroke Association. Carol Siebert, MS, OTR/L, FAOTA. Modifications: Modify your bedroom to match your abilities. http://www.strokeassociation.org/idc/groups/stroke-public/@wcm/@hcm/@mag/documents/downloadable/ucm_463057.pdf (Accessed Nov 16, 2016)</string>
+
+        <string name="home_mod_line0">Because patients might experience limited mobility, it’s important to modify your home so that it is safe and accessible.</string>
+        <string name="home_mod_line1">Bedroom</string>
+        <string name="home_mod_line2">• Bedroom accessibility can be improved by moving items so that the door opens fully; widen doorways; reverse hinges so that door opens outwards instead of inwards. If a bed needs to be up against a wall, it should be oriented such that the patient’s affected side (weak side) is closer to the wall, so the strong side can assist the patient getting out of bed.</string>
+        <string name="home_mod_line3">Bath</string>
+        <string name="home_mod_line4">• Bathrooms can be made more accessible to wheelchairs by widening the doorway.</string>
+        <string name="home_mod_line5">• Toilet seats can be raised to make it less challenging in getting to and from the toilet: a toilet elevator that mounts between the floor and toilet; a seat elevator that attaches to the bowl and raises the seat; installing toilet rails/grab bars to improve support for mobility.</string>
+        <string name="home_mod_line8">General:</string>
+        <string name="home_mod_line9">• Eliminate rugs that can easily move to avoid trips and falls.</string>
+
+
+        <string name="survey">Surveys</string>
+        <string name="fill_survey">FILL SURVEY</string>
+        <string name="enter_pass">Enter Password</string>
+        <string name="error_pass">Please enter the correct password..!</string>
+        <string name="survey1">Post Health Literacy Survey</string>
+        <string name="survey2">Follow Up Survey</string>
+        <string name="survey3">Usability Scale</string>
+        <string name="survey4">Pre Health Literacy Survey</string>
+        <string name="reminders">Reminders</string>
+    <string name="yes">Oo</string>
+        <string name="no">Hindi</string>
+        <string name="thanks">Salamat</string>
+        <string name="bathroom">Kailangan ko magbanyo</string>
+        <string name="water">Kailangan ko ng tubig</string>
+        <string name="hungry">Nagugutom ako</string>
+        <string name="notgivingup">Hindi ako susuko</string>
+        <string name="pain">Nasasaktan ako</string>
+        <string name="cantspeak">Pasensya  na hindi ako makapagsalita</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="bed">I want to get in bed</string>
+    <string name="bed1">I want to get out of bed</string>
+    <string name="clock">In a little</string>
+    <string name="cold">It\'s cold</string>
+    <string name="dizzy">I\'m dizzy</string>
+    <string name="hi">Hi!</string>
+    <string name="hot">It\'s hot</string>
+    <string name="howareyou">How are you?</string>
+    <string name="lightsOff">Turn off the lights</string>
+    <string name="lightson">Turn on the lights</string>
+    <string name="now">Now</string>
+    <string name="outside">Go outside</string>
+
+    <string name="bells">Bells</string>
+    <string name="Buddha">Buddha</string>
+    <string name="Flags">Flags</string>
+    <string name="market_place1">Market place 1</string>
+    <string name="market_place2">Market place 2</string>
+    <string name="rocky">Rocky Beach</string>
+
+    <string name="signs">SIGN OF STROKE</string>
+
+    <string name="hms_search_placeholder">Nagugutom ako</string>
+
+        <string name="todays_reminders">Today\'s Reminders</string>
+        <string name="all_reminders">All Reminders</string>
+        <string name="create_reminder">Create Reminder</string>
+        <string name="edit_reminder">Edit Reminder</string>
+        <string name="save">Save</string>
+
+        <string name="create_reminder_title_header">Remind me to…</string>
+        <string name="create_reminder_title_placeholder">Take my medicine</string>
+    <string name="create_reminder_pick_time_header">At what time(s)?</string>
+        <string name="create_reminder_button_text">Create Reminder</string>
+
+        <string name="daily">Daily</string>
+        <string name="weekly">Weekly</string>
+        <string name="custom">Custom</string>
+        <string name="sunday">S</string>
+        <string name="monday">M</string>
+        <string name="tuesday">T</string>
+        <string name="wednesday">W</string>
+        <string name="thursday">Th</string>
+        <string name="friday">F</string>
+        <string name="saturday">S</string>
+
+    <string name="delete_reminder_message">Are you sure you want to delete this reminder?</string>
+        <string name="delete_reminder_title">Delete Reminder</string>
+
+    <string name="info_title">Info</string>
+
+        <string name="pref_previously_started">previously_started</string>
+        <string name="accept">I Accept</string>
+    <string name="title_activity_new_read_learn_content">NewReadLearnContentActivity</string>
+        <string name="videoText">"Please repeat 10 times, once every day with assistance from family caregiver if needed. Consult your medical provider before starting the exercise program"</string>
+    <string name="doctor_greeting">Hi! Ano ang pakiramdam mo ngayon?</string>
+</resources>

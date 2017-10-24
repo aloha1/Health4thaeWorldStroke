@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <!--book/video icon, centered in gray square -->
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:id="@+id/learn_content_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="8dp"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            tools:text="Title" />
+        <!--Pink arrow button-->
+        <ImageView
+            android:id="@+id/pink_arrow"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="14dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"
+            android:background="@mipmap/pink_arrow"/>
+    </RelativeLayout>
+
+</RelativeLayout>

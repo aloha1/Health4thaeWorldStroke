@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:background="@color/colorWhite">
+
+    <ImageButton
+        android:id="@+id/check_icon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:background="@mipmap/check_deselected" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical">
+        <TextView
+            android:id="@+id/reminder_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFF"
+            android:paddingLeft="16dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="10dp"
+            android:paddingRight="45dp"
+            android:text="title"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/darkestGray"
+            android:fontFamily="Roboto-Medium"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="18dp"/>
+        <TextView
+            android:id="@+id/reminder_subtitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reminder_title"
+            android:background="#FFF"
+            android:gravity="center_vertical"
+            android:text="subtitle"
+            android:paddingLeft="16dp"
+            android:paddingRight="45dp"
+            android:paddingBottom="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/red"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="12dp"/>
+        <ImageButton
+            android:id="@+id/info_button"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginRight="16dp"
+            android:gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/info_icon"
+            />
+    </RelativeLayout>
+</LinearLayout>

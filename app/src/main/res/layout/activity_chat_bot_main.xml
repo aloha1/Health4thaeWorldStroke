@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen"
+    tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.ChatBotMainActivity">
+
+    <ListView
+        android:id="@+id/msgview"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@null"
+        android:divider="@null"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2.0">
+
+        <TextView
+            android:id="@+id/option1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/round_corner"
+            android:padding="10dp"
+            android:onClick="onClick"
+            android:text="Lonely?"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/option2"
+            android:text="Not Recovering Soon?"
+            android:onClick="onClick"
+            android:textColor="@color/colorWhite"
+            android:textAlignment="center"
+            android:padding="10dp"
+            android:layout_margin="3dp"
+            android:background="@drawable/round_corner"
+            android:layout_weight="1.0"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2.0">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/option3"
+            android:text="Anxious?"
+            android:onClick="onClick"
+            android:textColor="@color/colorWhite"
+            android:textAlignment="center"
+            android:padding="10dp"
+            android:layout_margin="3dp"
+            android:background="@drawable/round_corner"
+            android:layout_weight="1.0"/>
+
+        <TextView
+            android:id="@+id/option4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:layout_margin="3dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/round_corner"
+            android:padding="10dp"
+            android:text="Depressed?"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2.0">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/option5"
+            android:text="Can't Sleep?"
+            android:onClick="onClick"
+            android:textColor="@color/colorWhite"
+            android:textAlignment="center"
+            android:padding="10dp"
+            android:layout_margin="3dp"
+            android:background="@drawable/round_corner"
+            android:layout_weight="1.0"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/option6"
+            android:text="Feeling Tired?"
+            android:onClick="onClick"
+            android:textColor="@color/colorWhite"
+            android:textAlignment="center"
+            android:padding="10dp"
+            android:layout_margin="3dp"
+            android:background="@drawable/round_corner"
+            android:layout_weight="1.0"/>
+    </LinearLayout>
+
+    <!-- Puts focus on empty layout -->
+<!--    <LinearLayout
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="0px"
+        android:layout_height="0px"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="15"
+        android:layout_margin="2dp"
+        android:clipToPadding="false">
+
+        <EditText
+            android:id="@+id/userMesg"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="14"
+            android:layout_margin="7dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginStart="12dp"
+            android:hint="Say Something..." />
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btn_mic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:layout_marginBottom="12dp"
+            android:onClick="send"
+            android:src="@drawable/send_btn"
+            android:tint="#efefef"
+            android:visibility="visible" />
+
+    </LinearLayout>-->
+    </LinearLayout>

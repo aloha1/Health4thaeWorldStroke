@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.VR_MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical" >
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true" >
+
+                        <com.google.vr.sdk.widgets.video.VrVideoView
+                            android:id="@+id/video_view"
+                            android:layout_width="match_parent"
+                            android:scrollbars="@null"
+                            android:layout_height="250dip"/>
+                        <ImageView
+                            android:id = "@+id/playButton"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginBottom="10dip"
+                            android:background="@drawable/playbutton"
+                            android:adjustViewBounds="true"
+                            android:scaleType="fitXY" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2.0">
+
+                        <ImageButton
+                            android:id="@+id/play_toggle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.4"
+                            android:background="@android:color/transparent"
+                            android:src="@drawable/play_on" />
+                        <!-- Seeking UI & progress indicator.-->
+                        <SeekBar
+                            android:id="@+id/seek_bar"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="32dp"
+                            android:layout_weight="1.6" />
+
+                        <ImageButton
+                            android:id="@+id/volume_toggle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@android:color/transparent"
+                            android:src="@drawable/volume_on" />
+                </LinearLayout>
+        </LinearLayout>
+</RelativeLayout>

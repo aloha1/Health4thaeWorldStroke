@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rachelgrau.rachel.health4theworldstroke">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".Activities.HelpMeSpeakActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name=".Activities.LearnActivity" />
+        <activity android:name=".Activities.RemindersActivity" />
+        <activity android:name=".Activities.ReadContentActivity" />
+        <activity android:name=".Activities.VideoContentActivity" />
+        <activity android:name=".Activities.CreateReminderActivity" />
+        <activity android:name=".Activities.InfoActivity" />
+        <activity android:name=".Activities.DisclaimerActivity" />
+        <activity android:name=".Activities.InfoListActivity" />
+        <activity
+            android:name=".Activities.NewReadLearnContentActivity"
+            android:label="@string/title_activity_new_read_learn_content"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".Activities.survey" />
+        <activity android:name=".Activities.surveyView" />
+        <activity android:name=".Activities.exercise" />
+        <activity android:name=".Activities.videoPlayer" />
+        <activity android:name=".Activities.illustrations" />
+        <activity android:name=".Activities.password_gateway" />
+        <activity android:name=".Activities.VR_MainActivity">
+            <intent-filter>
+                <category android:name="com.google.intent.category.CARDBOARD" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.MainActivity2" />
+        <activity android:name=".Activities.exercise_option" />
+        <activity android:name=".Activities.VR_menu" />
+        <activity android:name=".Activities.SliderMainActivity">
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.ChatBotMainActivity" />
+        <activity android:name=".Activities.ChatBotMusic" />
+        <activity android:name=".Activities.music_player"></activity>
+    </application>
+
+</manifest>
