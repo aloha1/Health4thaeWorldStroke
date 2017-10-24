@@ -16,6 +16,7 @@ public class ChatBotMusic extends AppCompatActivity {
     int[] file_time;
     int position_2;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,7 +27,9 @@ public class ChatBotMusic extends AppCompatActivity {
         /*gridview.setAdapter(new MusicAdapter(this));*/
 
         // Initializing a new String Array
+
         audio_name = new String[]{
+
                 "Acoustic Guitar Piano",
                 "Acoustic Loop",
                 "Acoustic Loop 2",
@@ -81,6 +84,7 @@ public class ChatBotMusic extends AppCompatActivity {
         gridview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
                 position_2=position;
                 music_player(position_2);
             }
@@ -91,5 +95,6 @@ public class ChatBotMusic extends AppCompatActivity {
         Intent intent=new Intent(this,music_player.class);
         intent.putExtra("audio_position",audio_Index);
         startActivity(intent);
+
     }
 }

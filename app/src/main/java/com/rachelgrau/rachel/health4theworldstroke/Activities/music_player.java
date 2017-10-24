@@ -4,7 +4,6 @@ import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -15,12 +14,12 @@ import java.io.IOException;
 
 public class music_player extends AppCompatActivity {
 
-    MediaPlayer mp;
-    ImageButton btn;
-    TextView tv;
     int indexPlaying; /*Index of the link which is playing */
     String[] links;
     String[] audio_name;
+    MediaPlayer mp;
+    ImageButton btn;
+    TextView tv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
