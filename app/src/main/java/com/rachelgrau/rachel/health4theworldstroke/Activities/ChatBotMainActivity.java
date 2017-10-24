@@ -6,8 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AbsListView;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -206,7 +204,7 @@ public class ChatBotMainActivity extends AppCompatActivity implements AIListener
                 startActivity(intent);
                 break;
             case "Listen to music":
-                intent=new Intent(ChatBotMainActivity.this,chatbot_music.class);
+                intent=new Intent(ChatBotMainActivity.this,ChatBotMusic.class);
                 startActivity(intent);
                 break;
             case "No":

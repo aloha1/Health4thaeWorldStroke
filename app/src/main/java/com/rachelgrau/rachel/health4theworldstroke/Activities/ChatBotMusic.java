@@ -1,32 +1,19 @@
 package com.rachelgrau.rachel.health4theworldstroke.Activities;
 
 import android.content.Intent;
-import android.graphics.Color;
-import android.media.MediaPlayer;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Gravity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.GridView;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 
-import com.rachelgrau.rachel.health4theworldstroke.Adapters.music_adapter;
+import com.rachelgrau.rachel.health4theworldstroke.Adapters.MusicAdapter;
 import com.rachelgrau.rachel.health4theworldstroke.R;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-import static com.rachelgrau.rachel.health4theworldstroke.R.id.parent;
-
-public class chatbot_music extends AppCompatActivity {
+public class ChatBotMusic extends AppCompatActivity {
 
     String[] file_name;
+    int[] file_time;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,7 +22,7 @@ public class chatbot_music extends AppCompatActivity {
 
         GridView gridview = (GridView) findViewById(R.id.grid_view);
         gridview.setNumColumns(3);
-        /*gridview.setAdapter(new music_adapter(this));*/
+        /*gridview.setAdapter(new MusicAdapter(this));*/
 
         // Initializing a new String Array
         file_name = new String[]{
@@ -61,45 +48,33 @@ public class chatbot_music extends AppCompatActivity {
                 "Welcome Home",
                 "Yesterday"
         };
+        file_time = new int[] {
+                R.drawable.fill1,
+                R.drawable.fill2,
+                R.drawable.fill3,
+                R.drawable.fill4,
+                R.drawable.fill5,
+                R.drawable.fill6,
+                R.drawable.fill7,
+                R.drawable.fill8,
+                R.drawable.fill9,
+                R.drawable.fill10,
+                R.drawable.fill11,
+                R.drawable.fill12,
+                R.drawable.fill13,
+                R.drawable.fill14,
+                R.drawable.fill15,
+                R.drawable.fill16,
+                R.drawable.fill17,
+                R.drawable.fill18,
+                R.drawable.fill19,
+                R.drawable.fill20,
+                R.drawable.fill21
+        };
 
-        // Populate a List from Array elements
-        final List<String> plantsList = new ArrayList<String>(Arrays.asList(file_name));
 
-        // Data bind GridView with ArrayAdapter (String Array elements)
-        gridview.setAdapter(new ArrayAdapter<String>(
-                this, android.R.layout.simple_list_item_1, plantsList) {
-            public View getView(int position, View convertView, ViewGroup parent) {
-
-                // Return the GridView current item as a View
-                View view = super.getView(position, convertView, parent);
-
-                // Convert the view as a TextView widget
-                TextView tv = (TextView) view;
-                tv.setBackgroundResource(R.drawable.music_style);
-
-                tv.setTextColor(Color.WHITE);
-
-                // Set the layout parameters for TextView widget
-                LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT
-                );
-                tv.setLayoutParams(lp);
-
-                // Get the TextView LayoutParams
-                LinearLayout.LayoutParams params = (LinearLayout.LayoutParams) tv.getLayoutParams();
-
-                // Set the TextView layout parameters
-                tv.setLayoutParams(params);
-
-                // Display TextView text in center position
-                tv.setGravity(Gravity.CENTER);
-
-                // Set the TextView text (GridView item text)
-                tv.setText(plantsList.get(position));
-
-                // Return the TextView widget as GridView item
-                return tv;
-            }
-        });
+        // Data bind GridView with MusicAdapter (String Array elements)
+        gridview.setAdapter(new MusicAdapter(this, file_name, file_time));
 
         gridview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
