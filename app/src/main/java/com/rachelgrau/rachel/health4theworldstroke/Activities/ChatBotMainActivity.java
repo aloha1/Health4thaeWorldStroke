@@ -220,6 +220,10 @@ public class ChatBotMainActivity extends AppCompatActivity implements AIListener
             case "Get tips to tackle this":
                 changeText(3);
                 break;
+            case "Inspiring Quotes":
+                intent=new Intent(this,chatBotQuotes.class);
+                startActivity(intent);
+                break;
         }
 
     }

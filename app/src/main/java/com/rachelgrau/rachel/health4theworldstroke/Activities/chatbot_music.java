@@ -38,7 +38,7 @@ public class chatbot_music extends AppCompatActivity {
         gridview.setNumColumns(3);
         /*gridview.setAdapter(new music_adapter(this));*/
 
-        // Initializing a new String Array
+        // name of the audio file
         audio_name = new String[]{
                 "Acoustic Guitar Piano",
                 "Acoustic Loop",
