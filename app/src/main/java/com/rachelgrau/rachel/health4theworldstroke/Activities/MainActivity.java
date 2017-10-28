@@ -5,7 +5,6 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.content.res.Resources;
 import android.graphics.Color;
-import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
@@ -26,7 +25,7 @@ import java.util.Locale;
 
 import static com.rachelgrau.rachel.health4theworldstroke.Activities.LearnActivity.EXTRA_PAGE_TYPE;
 import static com.rachelgrau.rachel.health4theworldstroke.Activities.LearnActivity.PAGE_TYPE_READ;
-import static com.rachelgrau.rachel.health4theworldstroke.Activities.exercise.data;
+import static com.rachelgrau.rachel.health4theworldstroke.Activities.Exercise.data;
 
 import android.widget.AdapterView.OnItemSelectedListener;
 
@@ -142,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void videoSelected(View view) {
-            Intent intent = new Intent(this, exercise.class);
+            Intent intent = new Intent(this, Exercise.class);
             intent.putExtra(data,"o");
             startActivity(intent);
     }

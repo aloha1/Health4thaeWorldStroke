@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.exercise_option">
+    tools:context="com.rachelgrau.rachel.health4theworldstroke.Activities.ExerciseOption">
 
     <android.support.v7.widget.Toolbar
         style="@style/ToolBarStyle"

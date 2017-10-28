@@ -2,4 +2,5 @@
 <resources>
     <string name="author2">-Theodore Roosevelt</string>
     <string name="doctor_greeting">¡Hola! ¿Cómo te sientes hoy?</string>
+    <string name="here_are_some_general_instructions">Here are some general instructions</string>
 </resources>

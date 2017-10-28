@@ -1,19 +1,15 @@
 package com.rachelgrau.rachel.health4theworldstroke.Activities;
 
-import android.content.Intent;
 import android.graphics.Typeface;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.widget.TextView;
 import android.widget.VideoView;
 
 import com.rachelgrau.rachel.health4theworldstroke.R;
-
-import static com.rachelgrau.rachel.health4theworldstroke.Activities.exercise.data;
 
 public class videoPlayer extends AppCompatActivity {
 

@@ -1,43 +1,51 @@
 package com.rachelgrau.rachel.health4theworldstroke.Activities;
 
-import android.content.Context;
+import android.app.FragmentManager;
 import android.content.Intent;
-import android.graphics.Color;
 import android.graphics.Typeface;
 import android.media.MediaPlayer;
 import android.net.Uri;
-import android.os.Environment;
-import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
+import android.view.ViewGroup;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.VideoView;
 
+import com.rachelgrau.rachel.health4theworldstroke.Adapters.ExerciseInstructionAdapter;
 import com.rachelgrau.rachel.health4theworldstroke.R;
 
-import java.util.Locale;
+import static com.rachelgrau.rachel.health4theworldstroke.Activities.ExerciseOption.option_data;
 
-import static android.view.ViewGroup.LayoutParams.FILL_PARENT;
-import static com.rachelgrau.rachel.health4theworldstroke.Activities.exercise_option.option_data;
-import static com.rachelgrau.rachel.health4theworldstroke.Activities.illustrations.illName;
-import static com.rachelgrau.rachel.health4theworldstroke.Activities.videoPlayer.videoName;
-
-public class exercise extends AppCompatActivity {
+public class Exercise extends AppCompatActivity {
 
     static String data = "";
+    private String[] instructions;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_exercise);
-        playVideo();
+        setContentView(R.layout.activity_exercise_new);
         setUpToolbar();
+        //TODO: replace string with getString(R.string.xxx);
+        instructions = new String[] {
+                "item1 item1 item1 item1 item1 item1 item1 item1 " +
+                        "item1 item1 item1 item1 item1 item1 item1 " +
+                        "item1 item1 item1 item1 item1 item1 item1 ",
+                "item2 ",
+                "item3 item3 item3 item3 item3 item3 item3 item3 " +
+                        "item3 item3 item3 item3 item3 item3 item3 " +
+                        "item3 item3 item3 item3 item3 item3 item3 " +
+                        "item3 item3 item3 item3 item3 item3 item3 " +
+                        "item3 item3 item3 item3 item3 item3 item3 ",
+                "item4 ",
+                "item5 "
+        };
+        setUpInstruction();
+        playVideo();
     }
 
     private void setUpToolbar() {
@@ -50,24 +58,25 @@ public class exercise extends AppCompatActivity {
         setSupportActionBar(myToolbar);
     }
 
+
     public void onClick(View v) {
 
-        if (v.getId() == R.id.strengthButton || v.getId() == R.id.imageView1 || v.getId() == R.id.text1) {
-            Intent intent = new Intent(this, exercise_option.class);
+        if (v.getId() == R.id.ll_strength) {
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Strengthening));
             startActivity(intent);
         }
-        if (v.getId() == R.id.stretchButton || v.getId() == R.id.imageView2 || v.getId() == R.id.text2) {
-            Intent intent = new Intent(this, exercise_option.class);
+        if (v.getId() == R.id.ll_stretch) {
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Stretching));
             startActivity(intent);
         }
-        if (v.getId() == R.id.functionButton || v.getId() == R.id.imageView3 || v.getId() == R.id.text3) {
-            Intent intent = new Intent(this, exercise_option.class);
+        if (v.getId() == R.id.ll_function) {
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Function_Mobility));
             startActivity(intent);
         }
-        if (v.getId() == R.id.mindButtton || v.getId() == R.id.imageView4 || v.getId() == R.id.text4) {
+        if (v.getId() == R.id.ll_mind) {
             Intent intent = new Intent(this, VR_menu.class);
             startActivity(intent);
         }
@@ -85,5 +94,14 @@ public class exercise extends AppCompatActivity {
                 mp.setLooping(true);
             }
         });
+    }
+
+    private void setUpInstruction() {
+
+        ListView listView = (ListView) findViewById(R.id.lv_instruction);
+        LayoutInflater inflater = getLayoutInflater();
+        ViewGroup header = (ViewGroup)inflater.inflate(R.layout.view_content_exercise, listView, false);
+        listView.addHeaderView(header);
+        listView.setAdapter(new ExerciseInstructionAdapter(this, instructions));
     }
 }

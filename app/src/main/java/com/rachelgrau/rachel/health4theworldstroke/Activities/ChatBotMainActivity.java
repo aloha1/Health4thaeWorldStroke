@@ -214,7 +214,7 @@ public class ChatBotMainActivity extends AppCompatActivity implements AIListener
                 finish();
                 break;
             case "Stroke Exercise Video":
-                intent=new Intent(ChatBotMainActivity.this,exercise.class);
+                intent=new Intent(ChatBotMainActivity.this,Exercise.class);
                 startActivity(intent);
                 break;
             case "Get tips to tackle this":
