@@ -551,6 +551,10 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         ImageView imageViewOne = new ImageView(this);
         //setting image resource
         imageViewOne.setImageResource(imgOne);
+        LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.WRAP_CONTENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT
+        );
         //setting image position
         imageViewOne.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
                 800));

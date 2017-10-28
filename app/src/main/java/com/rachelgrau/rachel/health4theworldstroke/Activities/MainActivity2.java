@@ -63,22 +63,27 @@ public class MainActivity2 extends AppCompatActivity {
         }
         if (v.getId() == R.id.iv_feeling_1) {
             Intent intent = new Intent(this, ChatBotMainActivity.class);
+            intent.putExtra("Feeling","Awesome");
             startActivity(intent);
         }
         if (v.getId() == R.id.iv_feeling_2) {
-            Intent intent = new Intent(this, ChatBotMainActivity.class);
+            Intent intent = new Intent(MainActivity2.this, ChatBotMainActivity.class);
+            intent.putExtra("Feeling","Happy");
             startActivity(intent);
         }
         if (v.getId() == R.id.iv_feeling_3) {
             Intent intent = new Intent(this, ChatBotMainActivity.class);
+            intent.putExtra("Feeling","Sad");
             startActivity(intent);
         }
         if (v.getId() == R.id.iv_feeling_4) {
             Intent intent = new Intent(this, ChatBotMainActivity.class);
+            intent.putExtra("Feeling","Sad");
             startActivity(intent);
         }
         if (v.getId() == R.id.iv_feeling_5) {
             Intent intent = new Intent(this, ChatBotMainActivity.class);
+            intent.putExtra("Feeling","Very Sad");
             startActivity(intent);
         }
     }
