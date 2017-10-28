@@ -12,7 +12,7 @@ import com.rachelgrau.rachel.health4theworldstroke.R;
 
 import static com.rachelgrau.rachel.health4theworldstroke.Activities.LearnActivity.EXTRA_PAGE_TYPE;
 import static com.rachelgrau.rachel.health4theworldstroke.Activities.LearnActivity.PAGE_TYPE_READ;
-import static com.rachelgrau.rachel.health4theworldstroke.Activities.exercise.data;
+import static com.rachelgrau.rachel.health4theworldstroke.Activities.Exercise.data;
 
 public class MainActivity2 extends AppCompatActivity {
 
@@ -39,7 +39,7 @@ public class MainActivity2 extends AppCompatActivity {
             startActivity(intent);
         }
         if (v.getId() == R.id.ll_exercise) {
-            Intent intent = new Intent(this, exercise.class);
+            Intent intent = new Intent(this, Exercise.class);
             intent.putExtra(data, "o");
             startActivity(intent);
         }

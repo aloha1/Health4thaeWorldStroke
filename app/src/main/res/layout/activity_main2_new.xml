@@ -137,7 +137,7 @@
                     <TextView
                         android:id="@+id/text1"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="64dp"
                         android:padding="8dp"
                         android:text="@string/help_me_speak"
                         android:textColor="@color/colorWhite"
@@ -166,7 +166,7 @@
                     <TextView
                         android:id="@+id/text2"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="64dp"
                         android:padding="8dp"
                         android:text="@string/exercise"
                         android:textColor="@color/colorWhite"
@@ -201,7 +201,7 @@
                     <TextView
                         android:id="@+id/text3"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="64dp"
                         android:padding="8dp"
                         android:text="@string/learn"
                         android:textColor="@color/colorWhite"
@@ -230,7 +230,7 @@
                     <TextView
                         android:id="@+id/text4"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="64dp"
                         android:padding="8dp"
                         android:text="@string/reminders"
                         android:textColor="@color/colorWhite"
@@ -265,7 +265,7 @@
                     <TextView
                         android:id="@+id/text5"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="64dp"
                         android:padding="8dp"
                         android:text="@string/general_info"
                         android:textColor="@color/colorWhite"
@@ -294,7 +294,7 @@
                     <TextView
                         android:id="@+id/text6"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_height="64dp"
                         android:padding="8dp"
                         android:text="@string/survey"
                         android:textColor="@color/colorWhite"

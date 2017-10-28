@@ -18,7 +18,7 @@ import com.rachelgrau.rachel.health4theworldstroke.R;
 import static com.rachelgrau.rachel.health4theworldstroke.Activities.illustrations.illName;
 import static com.rachelgrau.rachel.health4theworldstroke.Activities.videoPlayer.videoName;
 
-public class exercise_option extends AppCompatActivity {
+public class ExerciseOption extends AppCompatActivity {
 
     static String option_data = "";
 
@@ -169,17 +169,17 @@ public class exercise_option extends AppCompatActivity {
 
         /*for strengthning*/
         if (v.getId() == R.id.option1 && OptionTV1.getText().equals(getString(R.string.Legs))) {
-            Intent intent = new Intent(this, exercise_option.class);
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Legs));
             startActivity(intent);
         }
         if (v.getId() == R.id.option2 && OptionTV2.getText().equals(getString(R.string.Arms))) {
-            Intent intent = new Intent(this, exercise_option.class);
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Arms));
             startActivity(intent);
         }
         if (v.getId() == R.id.option3 && OptionTV3.getText().equals(getString(R.string.Coordination))) {
-            Intent intent = new Intent(this, exercise_option.class);
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Coordination));
             startActivity(intent);
         }
@@ -187,12 +187,12 @@ public class exercise_option extends AppCompatActivity {
         /*for streching*/
 
         if (v.getId() == R.id.option1 && OptionTV1.getText().equals(getString(R.string.Leg_Feet))) {
-            Intent intent = new Intent(this, exercise_option.class);
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Leg_Feet));
             startActivity(intent);
         }
         if (v.getId() == R.id.option2 && OptionTV2.getText().equals(getString(R.string.Arms_Hands))) {
-            Intent intent = new Intent(this, exercise_option.class);
+            Intent intent = new Intent(this, ExerciseOption.class);
             intent.putExtra(option_data, getString(R.string.Arms_Hands));
             startActivity(intent);
         }

@@ -30,7 +30,7 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".Activities.survey" />
         <activity android:name=".Activities.surveyView" />
-        <activity android:name=".Activities.exercise" />
+        <activity android:name=".Activities.Exercise" />
         <activity android:name=".Activities.videoPlayer" />
         <activity android:name=".Activities.illustrations" />
         <activity android:name=".Activities.password_gateway" />
@@ -40,7 +40,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activities.MainActivity2" />
-        <activity android:name=".Activities.exercise_option" />
+        <activity android:name=".Activities.ExerciseOption" />
         <activity android:name=".Activities.VR_menu" />
         <activity android:name=".Activities.SliderMainActivity">
             android:configChanges="locale|orientation"

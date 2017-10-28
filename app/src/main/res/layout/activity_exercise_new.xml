@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/learn_toolbar"
+        style="@style/ToolBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            style="@style/ToolBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="25sp"
+            tools:text="Mock Title" />
+    </android.support.v7.widget.Toolbar>
+
+    <ListView
+        android:id="@+id/lv_instruction"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/learn_toolbar"
+        android:layout_marginEnd="12dp"
+        android:layout_marginStart="12dp"
+        android:divider="@null"></ListView>
+</RelativeLayout>
