@@ -32,6 +32,7 @@ public class ReadLearnContent extends LearnContent{
 
 
         ReadLearnContent riskFactors = new ReadLearnContent(context.getString(R.string.RISK_FACTOR));
+        ReadLearnContent signOfStroke=new ReadLearnContent(context.getString(R.string.signs));
         ReadLearnContent bloodPressure = new ReadLearnContent(context.getString(R.string.blood_pressure));
         ReadLearnContent smoking= new ReadLearnContent(context.getString(R.string.smoking_));
         ReadLearnContent heartRate = new ReadLearnContent(context.getString(R.string.heart_rate));
@@ -45,16 +46,18 @@ public class ReadLearnContent extends LearnContent{
         ReadLearnContent resources = new ReadLearnContent(context.getString(R.string.resource));
         
         /*content.add(riskFactors);*/
+        content.add(faq);
+        content.add(signOfStroke);
+        content.add(riskFactors);
         content.add(bloodPressure);
         content.add(heartRate);
-        content.add(smoking);
         content.add(bloodSugar);
-        content.add(exercises);
         content.add(diet);
+        content.add(smoking);
+        content.add(exercises);
         content.add(showerBath);
         content.add(bladderBowel);
         content.add(homeMod);
-        content.add(faq);
         content.add(resources);
 
         return content;

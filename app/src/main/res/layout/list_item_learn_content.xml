@@ -29,11 +29,10 @@
             android:id="@+id/pink_arrow"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:layout_marginRight="14dp"
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
-            android:scaleType="fitXY"
-            android:background="@mipmap/pink_arrow"/>
+            android:layout_marginRight="14dp"
+            android:scaleType="fitCenter" />
     </RelativeLayout>
 
 </RelativeLayout>

@@ -6,6 +6,7 @@ import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.widget.MediaController;
 import android.widget.TextView;
 import android.widget.VideoView;
 
@@ -37,6 +38,7 @@ public class videoPlayer extends AppCompatActivity {
 
     public void playVideo() {
         VideoView view = (VideoView) findViewById(R.id.videoView);
+        MediaController controller = new MediaController(this);
         if (name.equals(getString(R.string.Toe)) ) {
             String path = "android.resource://" + getPackageName() + "/" + R.raw.toe_flection;
             view.setVideoURI(Uri.parse(path));
@@ -78,9 +80,11 @@ public class videoPlayer extends AppCompatActivity {
             view.setVideoURI(Uri.parse(path));
         }
             view.start();
+            view.setMediaController(controller);
             view.setOnPreparedListener (new MediaPlayer.OnPreparedListener() {
         public void onPrepared(MediaPlayer mp) {
             mp.setLooping(true);
         }
     });}
+
     }

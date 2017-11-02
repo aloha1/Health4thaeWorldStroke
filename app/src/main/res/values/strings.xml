@@ -45,6 +45,13 @@
     <string name="advisory_board_of_app_5">Rose Hamm, PT, DPT, CWS, FACCWS: Rose received a BS in Physical Therapy from the University of North Carolina, Chapel Hill, and an MS and post-graduate DPT from the University of Southern California.  She is currently Adjunct Assistant Professor of Clinical Physical Therapy at the University of Southern California and practices at Keck Hospital at USC.</string>
     <string name="help_me_speak">Help me speak</string>
     <string name="video">Exercises</string>
+
+    <string name="exercise_activity_text_pt1">Stop if it causes pain. Do these exercises gently.</string>
+    <string name="exercise_activity_text_pt2">The body and brain like symmetry so whatever you do to the "good side" do exactly the same to the involved side.</string>
+    <string name="exercise_activity_text_pt3">If you are a patient, do these under supervision of a trained health professional first time to get right training for you and your family member and to prevent injuries. We don\'t want you to be injured so be careful!.</string>
+    <string name="exercise_activity_text_pt4">Each given exercise requires an individual judgement and approach, and this application is intended only for educational purposes, and is not intended to be, and should not be interpreted as, medical advice. Nothing contained in any part of this application, creates or has created or is intended to create, implicitly or explicitly, any manner of patient-physician relationship. We hope you find this educational content helpful to learn how to improve mobility after a life changing event like stroke.</string>
+    <string name="exercise_activity_text_pt5">Ask your health professionals which of these would work best for you and if any modifications are needed.</string>
+
     <string name="Strengthening">Strengthening</string>
     <string name="Legs">Legs</string>
     <string name="Toe">Toe</string>
@@ -91,7 +98,7 @@
     <string name="faq">FAQ</string>
     <string name="resource">Resource</string>
 
-    <string name="signs">SIGN OF STROKE</string>
+    <string name="signs">Signs Of Stroke</string>
 
     <string name="problem">PROBLEM</string>
     <string name="what_to_do">WHAT TO DO</string>

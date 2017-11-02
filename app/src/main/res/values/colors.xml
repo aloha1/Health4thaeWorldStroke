@@ -10,4 +10,5 @@
     <color name="medGray">#C2C2C2</color>
     <color name="darkestGray">#575757</color>
     <color name="redBackground">#E8324A</color>
+    <color name="risk_factor_color">#d54d56</color>
 </resources>

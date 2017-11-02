@@ -79,7 +79,10 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         } else if (this.title.equals(getString(R.string.resource))) {
             layout.setBackgroundColor(ContextCompat.getColor(this, R.color.redBackground));
             setUpRiskFactors();
-        }
+        } else if (this.title.equals(getString(R.string.signs))){
+             layout.setBackgroundColor(ContextCompat.getColor(this, R.color.risk_factor_color));
+             setUpBEFASTsignsofstroke();
+         }
     }
 
     public void setUpBEFASTsignsofstroke()
@@ -93,7 +96,6 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Bold.ttf")), 0, firstPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf")), firstPart.length(), firstPart.length() + secondPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         addTextViewWithText(firstParSpannable);
-        addImageWithURI(R.drawable.sudden_loss_balance);
 
         firstPart = getString(R.string.befast_line4);
        // secondPart = getString(R.string.befast_line5);
@@ -101,7 +103,6 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Bold.ttf")), 0, firstPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf")), firstPart.length(), firstPart.length() + secondPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         addTextViewWithText(firstParSpannable);
-        addImageWithURI(R.drawable.sudden_loss_vision);
 
         firstPart = getString(R.string.befast_line6);
        // secondPart = getString(R.string.befast_line7);
@@ -109,7 +110,6 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Bold.ttf")), 0, firstPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf")), firstPart.length(), firstPart.length() + secondPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         addTextViewWithText(firstParSpannable);
-        addImageWithURI(R.drawable.facial_droop);
 
         firstPart = getString(R.string.befast_line8);
        // secondPart =getString(R.string.befast_line9);
@@ -117,7 +117,6 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Bold.ttf")), 0, firstPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf")), firstPart.length(), firstPart.length() + secondPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         addTextViewWithText(firstParSpannable);
-        addImageWithURI(R.drawable.arm_weakness);
 
         firstPart = getString(R.string.befast_line10);
        // secondPart = getString(R.string.befast_line11);
@@ -125,7 +124,6 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Bold.ttf")), 0, firstPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf")), firstPart.length(), firstPart.length() + secondPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         addTextViewWithText(firstParSpannable);
-        addImageWithURI(R.drawable.speech_difficulty);
 
         firstPart = getString(R.string.befast_line12);
        // secondPart = getString(R.string.befast_line13);
@@ -133,7 +131,8 @@ public class NewReadLearnContentActivity extends AppCompatActivity {
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Bold.ttf")), 0, firstPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         firstParSpannable.setSpan( new CustomTypefaceSpan("sans-serif",Typeface.createFromAsset(getAssets(), "Roboto-Light.ttf")), firstPart.length(), firstPart.length() + secondPart.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         addTextViewWithText(firstParSpannable);
-        addImageWithURI(R.drawable.ambulance_new);
+
+        addImageWithURI(R.drawable.befast);
     }
 
     public void setUpBloodSugar() {

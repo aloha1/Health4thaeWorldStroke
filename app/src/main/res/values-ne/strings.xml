@@ -84,6 +84,13 @@
     <string name="smoking_">धूम्रपान</string>
     <string name="blood_sugar">रक्त शर्करा</string>
     <string name="exercise">व्यायाम गर्नुहोस्</string>
+
+    <string name="exercise_activity_text_pt1">Stop if it causes pain. Do these exercises gently.</string>
+    <string name="exercise_activity_text_pt2">The body and brain like symmetry so whatever you do to the "good side" do exactly the same to the involved side.</string>
+    <string name="exercise_activity_text_pt3">If you are a patient, do these under supervision of a trained health professional first time to get right training for you and your family member and to prevent injuries. We don\'t want you to be injured so be careful!.</string>
+    <string name="exercise_activity_text_pt4">Each given exercise requires an individual judgement and approach, and this application is intended only for educational purposes, and is not intended to be, and should not be interpreted as, medical advice. Nothing contained in any part of this application, creates or has created or is intended to create, implicitly or explicitly, any manner of patient-physician relationship. We hope you find this educational content helpful to learn how to improve mobility after a life changing event like stroke.</string>
+    <string name="exercise_activity_text_pt5">Ask your health professionals which of these would work best for you and if any modifications are needed.</string>
+
     <string name="Diet">आहार</string>
     <string name="shower">शावर/स्नान</string>
     <string name="bladder">मूत्राशय/क्यान्सर</string>

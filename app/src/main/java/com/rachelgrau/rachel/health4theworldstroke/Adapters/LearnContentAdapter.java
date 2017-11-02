@@ -64,7 +64,13 @@ public class LearnContentAdapter extends BaseAdapter {
         // Populate view with relevant content
         LearnContent contentItem = (LearnContent) getItem(position);
         titleTextView.setText(contentItem.title);
-        if(contentItem.title.equals(mContext.getString(R.string.blood_pressure))){
+        if(contentItem.title.equals(mContext.getString(R.string.faq))){
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.info));
+        }if(contentItem.title.equals(mContext.getString(R.string.signs))){
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.mipmap.ambulance));
+        }if(contentItem.title.equals(mContext.getString(R.string.RISK_FACTOR))){
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.walking));
+        }if(contentItem.title.equals(mContext.getString(R.string.blood_pressure))){
             arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.bloodpressurered_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.heart_rate))){
             arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.heartrate_learn));
@@ -72,10 +78,8 @@ public class LearnContentAdapter extends BaseAdapter {
             arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.diet_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.blood_sugar))){
             arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.bloodsugar_learn));
-        }if(contentItem.title.equals(mContext.getString(R.string.faq))){
-            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.info));
         }if(contentItem.title.equals(mContext.getString(R.string.exercise))){
-            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.strengthing2));
+            arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.strengthing));
         }if(contentItem.title.equals(mContext.getString(R.string.bladder))){
             arrowButton.setImageDrawable(ContextCompat.getDrawable(mContext, R.drawable.bladder_bowel_learn));
         }if(contentItem.title.equals(mContext.getString(R.string.home_mod))){
