@@ -39,7 +39,6 @@ public class Exercise extends AppCompatActivity {
                 getString(R.string.exercise_activity_text_pt5)
         };
         setUpInstruction();
-        playVideo();
     }
 
     private void setUpToolbar() {
